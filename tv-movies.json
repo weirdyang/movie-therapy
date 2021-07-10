@@ -6,7 +6,7 @@
     "poster": null,
     "imdbId": null,
     "ratings": [],
-    "result": {
+    "data": {
       "Response": "False",
       "Error": "Movie not found!"
     }
@@ -23,7 +23,7 @@
         "Value": "6.9/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "A Different World",
       "Year": "1987–1993",
       "Rated": "TV-PG",
@@ -69,7 +69,7 @@
         "Value": "83%"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Anne of Green Gables",
       "Year": "1985",
       "Rated": "Not Rated",
@@ -110,7 +110,7 @@
     "poster": null,
     "imdbId": null,
     "ratings": [],
-    "result": {
+    "data": {
       "Response": "False",
       "Error": "Movie not found!"
     }
@@ -127,7 +127,7 @@
         "Value": "7.2/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Awkwafina Is Nora from Queens",
       "Year": "2020–",
       "Rated": "TV-MA",
@@ -169,7 +169,7 @@
         "Value": "6.2/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Back With the Ex",
       "Year": "2018–",
       "Rated": "N/A",
@@ -211,7 +211,7 @@
         "Value": "8.1/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Big Dreams, Small Spaces",
       "Year": "2014–2017",
       "Rated": "N/A",
@@ -253,7 +253,7 @@
         "Value": "8.8/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Black Mirror",
       "Year": "2011–",
       "Rated": "TV-MA",
@@ -295,7 +295,7 @@
         "Value": "6.9/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Bless This Mess",
       "Year": "2019–2020",
       "Rated": "TV-PG",
@@ -337,7 +337,7 @@
         "Value": "7.3/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Bridgerton",
       "Year": "2020–",
       "Rated": "TV-MA",
@@ -379,7 +379,7 @@
         "Value": "8.4/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Brooklyn Nine-Nine",
       "Year": "2013–2022",
       "Rated": "TV-14",
@@ -425,7 +425,7 @@
         "Value": "88%"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Cheers",
       "Year": "1982–1993",
       "Rated": "TV-PG",
@@ -471,7 +471,7 @@
         "Value": "8.6/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Cobra Kai",
       "Year": "2018–",
       "Rated": "TV-14",
@@ -513,7 +513,7 @@
         "Value": "7.0/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Difficult People",
       "Year": "2015–2017",
       "Rated": "TV-MA",
@@ -550,7 +550,7 @@
     "poster": null,
     "imdbId": null,
     "ratings": [],
-    "result": {
+    "data": {
       "Response": "False",
       "Error": "Movie not found!"
     }
@@ -571,7 +571,7 @@
         "Value": "85%"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Fearless",
       "Year": "1993",
       "Rated": "R",
@@ -615,7 +615,7 @@
     "poster": null,
     "imdbId": null,
     "ratings": [],
-    "result": {
+    "data": {
       "Response": "False",
       "Error": "Movie not found!"
     }
@@ -632,7 +632,7 @@
         "Value": "7.2/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Flack",
       "Year": "2019–",
       "Rated": "TV-14",
@@ -674,7 +674,7 @@
         "Value": "8.8/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Freaks and Geeks",
       "Year": "1999–2000",
       "Rated": "TV-14",
@@ -716,7 +716,7 @@
         "Value": "7.5/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Grey's Anatomy",
       "Year": "2005–",
       "Rated": "TV-14",
@@ -753,7 +753,7 @@
     "poster": null,
     "imdbId": null,
     "ratings": [],
-    "result": {
+    "data": {
       "Response": "False",
       "Error": "Movie not found!"
     }
@@ -770,7 +770,7 @@
         "Value": "6.7/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "House Hunters",
       "Year": "1999–",
       "Rated": "TV-G",
@@ -812,7 +812,7 @@
         "Value": "8.2/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Killing Eve",
       "Year": "2018–2022",
       "Rated": "TV-14",
@@ -854,7 +854,7 @@
         "Value": "7.4/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Little House on the Prairie",
       "Year": "1974–1983",
       "Rated": "TV-PG",
@@ -896,7 +896,7 @@
         "Value": "7.1/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Lovecraft Country",
       "Year": "2020–",
       "Rated": "TV-MA",
@@ -938,7 +938,7 @@
         "Value": "6.1/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Love Is Blind",
       "Year": "2020–",
       "Rated": "TV-MA",
@@ -980,7 +980,7 @@
         "Value": "7.6/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Lupin",
       "Year": "2021–",
       "Rated": "TV-MA",
@@ -1022,7 +1022,7 @@
         "Value": "8.6/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Mister Rogers' Neighborhood",
       "Year": "1968–2001",
       "Rated": "TV-Y",
@@ -1064,7 +1064,7 @@
         "Value": "7.9/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Mrs. America",
       "Year": "2020",
       "Rated": "TV-MA",
@@ -1106,7 +1106,7 @@
         "Value": "7.0/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Murder, She Wrote",
       "Year": "1984–1996",
       "Rated": "TV-PG",
@@ -1148,7 +1148,7 @@
         "Value": "8.2/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Museum Secrets",
       "Year": "2011–",
       "Rated": "N/A",
@@ -1190,7 +1190,7 @@
         "Value": "7.3/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Nailed It",
       "Year": "2018",
       "Rated": "Not Rated",
@@ -1243,7 +1243,7 @@
         "Value": "68/100"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Neighbors",
       "Year": "2014",
       "Rated": "R",
@@ -1296,7 +1296,7 @@
         "Value": "8.0/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Night Gallery",
       "Year": "1969–1973",
       "Rated": "TV-PG",
@@ -1338,7 +1338,7 @@
         "Value": "8.5/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Normal People",
       "Year": "2020",
       "Rated": "TV-14",
@@ -1388,7 +1388,7 @@
         "Value": "83/100"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Palm Springs",
       "Year": "2020",
       "Rated": "R",
@@ -1441,7 +1441,7 @@
         "Value": "8.6/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Parks and Recreation",
       "Year": "2009–2020",
       "Rated": "TV-14",
@@ -1483,7 +1483,7 @@
         "Value": "8.0/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "PEN15",
       "Year": "2019–",
       "Rated": "TV-MA",
@@ -1525,7 +1525,7 @@
         "Value": "7.5/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Perry Mason",
       "Year": "2020–",
       "Rated": "TV-MA",
@@ -1567,7 +1567,7 @@
         "Value": "7.4/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Queens of Mystery",
       "Year": "2019–",
       "Rated": "TV-14",
@@ -1609,7 +1609,7 @@
         "Value": "8.5/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Queer Eye",
       "Year": "2018–",
       "Rated": "TV-14",
@@ -1651,7 +1651,7 @@
         "Value": "7.3/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Ratched",
       "Year": "2020–",
       "Rated": "TV-MA",
@@ -1693,7 +1693,7 @@
         "Value": "8.4/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "RuPaul's Drag Race",
       "Year": "2009–",
       "Rated": "TV-14",
@@ -1735,7 +1735,7 @@
         "Value": "6.4/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Ruth",
       "Year": "2018",
       "Rated": "N/A",
@@ -1780,7 +1780,7 @@
         "Value": "7.8/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Santa Clarita Diet",
       "Year": "2017–2019",
       "Rated": "TV-MA",
@@ -1822,7 +1822,7 @@
         "Value": "7.8/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Say I Do",
       "Year": "2020–",
       "Rated": "TV-14",
@@ -1864,7 +1864,7 @@
         "Value": "8.5/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Schitt's Creek",
       "Year": "2015–2020",
       "Rated": "TV-14",
@@ -1906,7 +1906,7 @@
         "Value": "8.3/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Scrubs",
       "Year": "2001–2010",
       "Rated": "TV-14",
@@ -1948,7 +1948,7 @@
         "Value": "7.3/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Self Made: Inspired by the Life of Madam C.J. Walker",
       "Year": "2020",
       "Rated": "TV-MA",
@@ -1990,7 +1990,7 @@
         "Value": "8.1/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Sesame Street",
       "Year": "1969–",
       "Rated": "TV-Y",
@@ -2032,7 +2032,7 @@
         "Value": "7.9/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "She-Ra and the Princesses of Power",
       "Year": "2018–2020",
       "Rated": "TV-Y7-FV",
@@ -2074,7 +2074,7 @@
         "Value": "7.4/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Shrill",
       "Year": "2019–2021",
       "Rated": "TV-MA",
@@ -2116,7 +2116,7 @@
         "Value": "5.8/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Skin Decision: Before and After",
       "Year": "2020–",
       "Rated": "N/A",
@@ -2153,7 +2153,7 @@
     "poster": null,
     "imdbId": null,
     "ratings": [],
-    "result": {
+    "data": {
       "Response": "False",
       "Error": "Movie not found!"
     }
@@ -2170,7 +2170,7 @@
         "Value": "7.5/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Stay Here",
       "Year": "2018–",
       "Rated": "TV-PG",
@@ -2212,7 +2212,7 @@
         "Value": "7.8/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Superstore",
       "Year": "2015–2021",
       "Rated": "TV-14",
@@ -2254,7 +2254,7 @@
         "Value": "7.4/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Sweet Magnolias",
       "Year": "2020–",
       "Rated": "TV-14",
@@ -2296,7 +2296,7 @@
         "Value": "8.7/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Ted Lasso",
       "Year": "2020–",
       "Rated": "TV-MA",
@@ -2338,7 +2338,7 @@
         "Value": "7.1/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "That Girl",
       "Year": "1966–1971",
       "Rated": "TV-PG",
@@ -2388,7 +2388,7 @@
         "Value": "57/100"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Equalizer",
       "Year": "2014",
       "Rated": "R",
@@ -2441,7 +2441,7 @@
         "Value": "6.8/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Facts of Life",
       "Year": "1979–1988",
       "Rated": "TV-PG",
@@ -2478,7 +2478,7 @@
     "poster": null,
     "imdbId": null,
     "ratings": [],
-    "result": {
+    "data": {
       "Response": "False",
       "Error": "Movie not found!"
     }
@@ -2495,7 +2495,7 @@
         "Value": "7.1/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Flight Attendant",
       "Year": "2020–",
       "Rated": "TV-MA",
@@ -2537,7 +2537,7 @@
         "Value": "7.9/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Fresh Prince of Bel-Air",
       "Year": "1990–1996",
       "Rated": "TV-PG",
@@ -2574,7 +2574,7 @@
     "poster": null,
     "imdbId": null,
     "ratings": [],
-    "result": {
+    "data": {
       "Response": "False",
       "Error": "Movie not found!"
     }
@@ -2586,7 +2586,7 @@
     "poster": null,
     "imdbId": null,
     "ratings": [],
-    "result": {
+    "data": {
       "Response": "False",
       "Error": "Movie not found!"
     }
@@ -2603,7 +2603,7 @@
         "Value": "7.0/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Jetsons",
       "Year": "1962–1963",
       "Rated": "TV-Y7",
@@ -2645,7 +2645,7 @@
         "Value": "7.5/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Letdown",
       "Year": "2017–",
       "Rated": "N/A",
@@ -2687,7 +2687,7 @@
         "Value": "7.8/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "She Turned the World on with Her Smile: The Making of 'The Mary Tyler Moore Show'",
       "Year": "2002",
       "Rated": "N/A",
@@ -2732,7 +2732,7 @@
         "Value": "7.8/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Munsters",
       "Year": "1964–1966",
       "Rated": "TV-PG",
@@ -2774,7 +2774,7 @@
         "Value": "8.0/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Orville",
       "Year": "2017–",
       "Rated": "TV-14",
@@ -2820,7 +2820,7 @@
         "Value": "37%"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Prisoner",
       "Year": "1967–1968",
       "Rated": "TV-PG",
@@ -2866,7 +2866,7 @@
         "Value": "7.4/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Undoing",
       "Year": "2020",
       "Rated": "TV-MA",
@@ -2908,7 +2908,7 @@
         "Value": "7.2/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Unicorn",
       "Year": "2019–2021",
       "Rated": "TV-PG",
@@ -2950,7 +2950,7 @@
         "Value": "7.3/10"
       }
     ],
-    "result": {
+    "data": {
       "Title": "The Wilds",
       "Year": "2020–",
       "Rated": "TV-14",
@@ -2996,7 +2996,7 @@
         "Value": "63%"
       }
     ],
-    "result": {
+    "data": {
       "Title": "Xena: Warrior Princess",
       "Year": "1995–2001",
       "Rated": "TV-PG",
