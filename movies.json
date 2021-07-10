@@ -1146,11 +1146,18 @@
    {
       "title":"Disney Elephant (2020)",
       "movieTitle":"Disney Elephant",
-      "plot":null,
-      "poster":null,
-      "imdbId":null,
+      "plot":"African elephant Shani and her spirited son Jomo set out on an epic journey with their herd, traveling hundreds of miles across the vast Kalahari Desert from the Okavango delta to the Zambezi River.",
+      "poster":"https://m.media-amazon.com/images/M/MV5BNTk2ZDY1MDgtMzNmOS00OWJlLThlYTctOGQ4NzdjZjUzNGM0XkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_SX300.jpg",
+      "imdbId":"tt12036052",
       "ratings":[
-         
+         {
+         "Source":"Internet Movie Database",
+         "Value":"7.2/10"
+      },
+      {
+         "Source":"Metacritic",
+         "Value":"61/100"
+      }
       ]
    },
    {
