@@ -683,18 +683,18 @@
       "poster":"https://m.media-amazon.com/images/M/MV5BNGY3NWYwNzctNWU5Yi00ZjljLTgyNDgtZjNhZjRlNjc0ZTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
       "imdbId":"tt0249462",
       "ratings":[
-               {
-         "Source":"Internet Movie Database",
-         "Value":"7.7/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"85%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"74/100"
-      }
+         {
+            "Source":"Internet Movie Database",
+            "Value":"7.7/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"85%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"74/100"
+         }
       ]
    },
    {
@@ -1113,17 +1113,17 @@
       "imdbId":"tt4144332",
       "ratings":[
          {
-         "Source":"Internet Movie Database",
-         "Value":"6.1/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"92%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"65/100"
-      }
+            "Source":"Internet Movie Database",
+            "Value":"6.1/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"92%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"65/100"
+         }
       ]
    },
    {
@@ -1151,13 +1151,13 @@
       "imdbId":"tt12036052",
       "ratings":[
          {
-         "Source":"Internet Movie Database",
-         "Value":"7.2/10"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"61/100"
-      }
+            "Source":"Internet Movie Database",
+            "Value":"7.2/10"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"61/100"
+         }
       ]
    },
    {
@@ -1284,18 +1284,18 @@
       "poster":"https://m.media-amazon.com/images/M/MV5BMjQ2MjQ3OTk2MV5BMl5BanBnXkFtZTgwNjQ0NzA2NDM@._V1_SX300.jpg",
       "imdbId":"tt6288124",
       "ratings":[
-          {
-         "Source":"Internet Movie Database",
-         "Value":"6.9/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"77%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"67/100"
-      }
+         {
+            "Source":"Internet Movie Database",
+            "Value":"6.9/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"77%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"67/100"
+         }
       ]
    },
    {
@@ -1512,18 +1512,18 @@
       "poster":"https://m.media-amazon.com/images/M/MV5BYzQzODhjOTktZDY2ZS00Y2E0LTgwZWEtNzdlOWI4MjY4OWMyXkEyXkFqcGdeQXVyMjUxOTQ5MzA@._V1_SX300.jpg",
       "imdbId":"tt0059170",
       "ratings":[
-               {
-         "Source":"Internet Movie Database",
-         "Value":"6.7/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"71%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"65/100"
-      }
+         {
+            "Source":"Internet Movie Database",
+            "Value":"6.7/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"71%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"65/100"
+         }
       ]
    },
    {
@@ -2157,18 +2157,18 @@
       "poster":"https://m.media-amazon.com/images/M/MV5BZGE1NGYxOWItODdmMy00NWNhLTgxZmMtYmVjYmViMGI0NTdmXkEyXkFqcGdeQXVyNzE2MTQyMzM@._V1_SX300.jpg",
       "imdbId":"tt2452244",
       "ratings":[
-               {
-         "Source":"Internet Movie Database",
-         "Value":"5.9/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"70%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"60/100"
-      }
+         {
+            "Source":"Internet Movie Database",
+            "Value":"5.9/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"70%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"60/100"
+         }
       ]
    },
    {
@@ -2254,18 +2254,18 @@
       "poster":"https://m.media-amazon.com/images/M/MV5BYTM0ZWNmZTUtOTVkZS00MTZiLTg3M2QtZjA0Y2RmOWM1NWEyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
       "imdbId":"tt0116695",
       "ratings":[
-      {
-         "Source":"Internet Movie Database",
-         "Value":"7.3/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"84%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"77/100"
-      }
+         {
+            "Source":"Internet Movie Database",
+            "Value":"7.3/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"84%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"77/100"
+         }
       ]
    },
    {
@@ -2355,18 +2355,18 @@
       "poster":"https://m.media-amazon.com/images/M/MV5BODhkZGE0NDQtZDc0Zi00YmQ4LWJiNmUtYTY1OGM1ODRmNGVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
       "imdbId":"tt4925292",
       "ratings":[
-               {
-         "Source":"Internet Movie Database",
-         "Value":"7.4/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"99%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"94/100"
-      }
+         {
+            "Source":"Internet Movie Database",
+            "Value":"7.4/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"99%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"94/100"
+         }
       ]
    },
    {
@@ -2697,17 +2697,17 @@
       "imdbId":"tt0119715",
       "ratings":[
          {
-         "Source":"Internet Movie Database",
-         "Value":"6.5/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"42%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"54/100"
-      }
+            "Source":"Internet Movie Database",
+            "Value":"6.5/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"42%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"54/100"
+         }
       ]
    },
    {
@@ -2902,18 +2902,18 @@
       "poster":"https://m.media-amazon.com/images/M/MV5BZmVkMDZhZmUtNmIxMy00YzY0LTg0NTUtYmViODJmMjU4ZDNjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
       "imdbId":"tt0080319",
       "ratings":[
-               {
-         "Source":"Internet Movie Database",
-         "Value":"6.9/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"83%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"58/100"
-      }
+         {
+            "Source":"Internet Movie Database",
+            "Value":"6.9/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"83%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"58/100"
+         }
       ]
    },
    {
@@ -4281,7 +4281,7 @@
          {
             "Source":"Rotten Tomatoes",
             "Value":"58%"
-         },
+         }
       ]
    },
    {
@@ -4696,18 +4696,18 @@
       "poster":"https://m.media-amazon.com/images/M/MV5BMTMwNjQ0NjMzN15BMl5BanBnXkFtZTcwNjMxMTkyNA@@._V1_SX300.jpg",
       "imdbId":"tt0478304",
       "ratings":[
-      {
-         "Source":"Internet Movie Database",
-         "Value":"6.8/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"84%"
-      },
-      {
-         "Source":"Metacritic",
-         "Value":"85/100"
-      }
+         {
+            "Source":"Internet Movie Database",
+            "Value":"6.8/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"84%"
+         },
+         {
+            "Source":"Metacritic",
+            "Value":"85/100"
+         }
       ]
    },
    {
@@ -4832,14 +4832,14 @@
       "poster":"https://m.media-amazon.com/images/M/MV5BYzJmNmEwNzAtZTQzNi00MmYzLWFjMTQtYmZmOWE0Y2JlNWI2XkEyXkFqcGdeQXVyMTQ2MjQyNDc@._V1_SX300.jpg",
       "imdbId":"tt0059878",
       "ratings":[
-       {
-         "Source":"Internet Movie Database",
-         "Value":"3.6/10"
-      },
-      {
-         "Source":"Rotten Tomatoes",
-         "Value":"0%"
-      }        
+         {
+            "Source":"Internet Movie Database",
+            "Value":"3.6/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"0%"
+         }
       ]
    },
    {
