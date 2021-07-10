@@ -1107,12 +1107,23 @@
    },
    {
       "title":"Deidra and Laney Rob a Train (2017)",
-      "movieTitle":"Deidra and Laney Rob a Train",
-      "plot":null,
-      "poster":null,
-      "imdbId":null,
+      "movieTitle":"Deidra & Laney Rob a Train",
+      "plot":"After their mother ends up in jail, two sisters turn to train robbery in order to support their family.",
+      "poster":"https://m.media-amazon.com/images/M/MV5BMjAxNzA0NTQxMl5BMl5BanBnXkFtZTgwMDk2NjQ3MTI@._V1_SX300.jpg",
+      "imdbId":"tt4144332",
       "ratings":[
-         
+         {
+         "Source":"Internet Movie Database",
+         "Value":"6.1/10"
+      },
+      {
+         "Source":"Rotten Tomatoes",
+         "Value":"92%"
+      },
+      {
+         "Source":"Metacritic",
+         "Value":"65/100"
+      }
       ]
    },
    {
