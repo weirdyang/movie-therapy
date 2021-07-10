@@ -183,11 +183,14 @@
    {
       "title":"Ali: Fear Eats the Soul (1974)",
       "movieTitle":"Ali: Fear Eats the Soul",
-      "plot":null,
-      "poster":null,
-      "imdbId":null,
+      "plot":"A lonely widow meets a much younger Arab worker in a bar during a rainstorm. They fall in love, to their own surprise and to the outright shock of their families, colleagues, and drinking buddies.",
+      "poster":"https://upload.wikimedia.org/wikipedia/en/e/e5/Alifeareats.jpg",
+      "imdbId":"tt0071141",
       "ratings":[
-         
+         {
+            "Source":"Internet Movie Database",
+            "Value":"8.1/10"
+         }
       ]
    },
    {
