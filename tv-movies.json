@@ -1,6 +1,19 @@
 [
   {
-    "title": "A Different World",
+    "title": "4 Levels Video Series from Epicurious (2019 - present)",
+    "movieTitle": "4 Levels Video Series from Epicurious",
+    "plot": "",
+    "poster": "",
+    "imdbId": "",
+    "ratings": [
+    ]
+  },
+  {
+    "title": "A Different World (1987 - 1993)",
+    "movieTitle": "A Different World",
+    "plot": "A group of students at a historically Black university struggle to make it through college.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM0NzVmZmItNTFmNC00ZTFkLWJhY2QtODAxNjdmMzAyMDE5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjg5NjkwODg@._V1_SX300.jpg",
+    "imdbId": "tt0092339",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -8,11 +21,12 @@
       }
     ]
   },
-    {
-    "title": "4 Levels Video Series from Epicurious"
-  },
   {
-    "title": "Anne of Green Gables",
+    "title": "Anne of Green Gables (1985)",
+    "movieTitle": "Anne of Green Gables",
+    "plot": "An orphan girl, sent to an elderly brother and sister by mistake, charms her new home and community with her fiery spirit and imagination.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjBmYjU2YjQtNjc3NS00NmMzLTk3OWUtNDM0ZDEyOGQ4ZWI0XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_SX300.jpg",
+    "imdbId": "tt0088727",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -25,10 +39,14 @@
     ]
   },
   {
-    "title": "Anne of Green Gables 2"
+    "title": "Anne of Green Gables 2 (1987)"
   },
   {
-    "title": "Awkwafina Is Nora from Queens",
+    "title": "Awkwafina Is Nora from Queens (2020)",
+    "movieTitle": "Awkwafina Is Nora from Queens",
+    "plot": "With help from her dad and grandmother, Nora Lum navigates young adulthood in Flushing, New York with her cousin.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDM1YTQ2N2QtOTcwMS00MjAxLWFjOWMtZWRlMGY2MTU1OWE2XkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_SX300.jpg",
+    "imdbId": "tt8494614",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -37,7 +55,11 @@
     ]
   },
   {
-    "title": "Back with the Ex",
+    "title": "Back with the Ex (2018)",
+    "movieTitle": "Back With the Ex",
+    "plot": "Four Australian couples find out if they can rekindle their old romances.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2Q5ZDIzZGEtZmFjZi00YWFlLTkzYTEtMGIwZDVkOGJiYjFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt9316002",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -46,7 +68,11 @@
     ]
   },
   {
-    "title": "Big Dreams Small Spaces",
+    "title": "Big Dreams Small Spaces (2017)",
+    "movieTitle": "Big Dreams, Small Spaces",
+    "plot": "Horticulturalist Monty Don works with amateur gardeners to help them create the garden of their dreams.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmYzN2JiYWYtOTVhZS00ZTlmLTllMmItMGVjYzExMDdjYzljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt8006786",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -55,7 +81,11 @@
     ]
   },
   {
-    "title": "Black Mirror",
+    "title": "Black Mirror (2011)",
+    "movieTitle": "Black Mirror",
+    "plot": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt2085059",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -64,7 +94,11 @@
     ]
   },
   {
-    "title": "Bless This Mess",
+    "title": "Bless This Mess (2019 - present)",
+    "movieTitle": "Bless This Mess",
+    "plot": "A newlywed couple's plan to leave the big city for a quieter life in Nebraska doesn't go as expected.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzg3MGMwOWItOTFlYi00ODgxLWIzMzAtZTAzMGNhMDgzNTQ1XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg",
+    "imdbId": "tt9418572",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -73,7 +107,11 @@
     ]
   },
   {
-    "title": "Bridgerton",
+    "title": "Bridgerton (2020 - present)",
+    "movieTitle": "Bridgerton",
+    "plot": "Wealth, lust, and betrayal set against the backdrop of Regency-era England, seen through the eyes of the powerful Bridgerton family.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjIxMzZhMTMtNDQ1Mi00OTMwLTk2M2ItYzA0YmNjNDFlOTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt8740790",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -82,7 +120,11 @@
     ]
   },
   {
-    "title": "Brooklyn Nine-Nine",
+    "title": "Brooklyn Nine-Nine (2013 - present)",
+    "movieTitle": "Brooklyn Nine-Nine",
+    "plot": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_SX300.jpg",
+    "imdbId": "tt2467372",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -91,7 +133,11 @@
     ]
   },
   {
-    "title": "Cheers",
+    "title": "Cheers (1982 - 1993)",
+    "movieTitle": "Cheers",
+    "plot": "The regulars of the Boston bar \"Cheers\" share their experiences and lives with each other while drinking or working at the bar where everybody knows your name.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTY0ZWFmNTktOGNjNi00M2Y0LWE1ODItZWY4Mzk3MzVjMDgzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbId": "tt0083399",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -104,7 +150,11 @@
     ]
   },
   {
-    "title": "Cobra Kai",
+    "title": "Cobra Kai (2018 - present)",
+    "movieTitle": "Cobra Kai",
+    "plot": "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "imdbId": "tt7221388",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -113,7 +163,11 @@
     ]
   },
   {
-    "title": "Difficult People",
+    "title": "Difficult People (2015 - 2017)",
+    "movieTitle": "Difficult People",
+    "plot": "Julie and Billy, two jaded aspiring comedians who live together in New York City, navigate through their thirties while dealing with their individual careers and personal relationships.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MDgzOTEzNF5BMl5BanBnXkFtZTgwMzYyOTExMzI@._V1_SX300.jpg",
+    "imdbId": "tt4676574",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -122,10 +176,14 @@
     ]
   },
   {
-    "title": "Don’t Trust The B In Apartment 23"
+    "title": "Don’t Trust The B In Apartment 23 (2012 - 2013)"
   },
   {
-    "title": "Fearless",
+    "title": "Fearless (2017)",
+    "movieTitle": "Fearless",
+    "plot": "A man's personality is dramatically changed after surviving a major airline crash.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGYyYzgyODMtOGYwOC00OTM5LTk4NDUtNTRkN2I3YmUxNTM5XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "imdbId": "tt0106881",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -138,10 +196,14 @@
     ]
   },
   {
-    "title": "Film Centre cooking videos"
+    "title": "Film Centre cooking videos (2020)"
   },
   {
-    "title": "Flack",
+    "title": "Flack (2019)",
+    "movieTitle": "Flack",
+    "plot": "Robyn, an American publicist working for a cutthroat London PR company that represents troubled celebrities, is adept at keeping her clients' lives appearing in perfect order, while her own falls to pieces.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmQ3MTA4NDgtN2QzOS00MWE2LTg1MjktY2U3YmVjMmQ3YmU0XkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_SX300.jpg",
+    "imdbId": "tt8128344",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -150,7 +212,11 @@
     ]
   },
   {
-    "title": "Freaks And Geeks",
+    "title": "Freaks And Geeks (1999)",
+    "movieTitle": "Freaks and Geeks",
+    "plot": "A high school mathlete starts hanging out with a group of burnouts while her younger brother navigates his freshman year.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWJhOGFiZWMtYTY5Ni00NGU1LWE5OWItNzA5NThkNWUwYzc4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbId": "tt0193676",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -159,7 +225,11 @@
     ]
   },
   {
-    "title": "Grey’s Anatomy",
+    "title": "Grey’s Anatomy (2004 - present)",
+    "movieTitle": "Grey's Anatomy",
+    "plot": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjgwNGNkZGYtMWQyYS00YjEzLWFmZTctODUzYWMxOWJkNTAzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt0413573",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -168,10 +238,14 @@
     ]
   },
   {
-    "title": "Home Shopping Network"
+    "title": "Home Shopping Network (1982 - present)"
   },
   {
-    "title": "House Hunters",
+    "title": "House Hunters (1999 - present)",
+    "movieTitle": "House Hunters",
+    "plot": "Hosted by Suzanne Whang, the show takes viewers behind the scenes as individuals, couples and families learn what to look for and decide whether or not a home is meant for them.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQyNTQ2NzIzOF5BMl5BanBnXkFtZTgwNzg0NzgwMzE@._V1_SX300.jpg",
+    "imdbId": "tt0369117",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -180,7 +254,11 @@
     ]
   },
   {
-    "title": "Killing Eve",
+    "title": "Killing Eve (2018 - present)",
+    "movieTitle": "Killing Eve",
+    "plot": "After a series of events, the lives of a security operative and an assassin become inextricably linked.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDJmODFjMzEtNTE4MS00OGViLTk4OGYtZjg3OGFhM2VlOTliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt7016936",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -189,7 +267,11 @@
     ]
   },
   {
-    "title": "Little House On The Prairie",
+    "title": "Little House On The Prairie (1974 - 1983)",
+    "movieTitle": "Little House on the Prairie",
+    "plot": "The life and adventures of the Ingalls family in the nineteenth century American Midwest.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NzQ4MDAtYmNlYi00OGExLWE3YjItNzEyOWI3MGE3NzRkXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_SX300.jpg",
+    "imdbId": "tt0071007",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -198,7 +280,11 @@
     ]
   },
   {
-    "title": "Lovecraft Country",
+    "title": "Lovecraft Country (2020)",
+    "movieTitle": "Lovecraft Country",
+    "plot": "A young African-American travels across the U.S. in the 1950s in search of his missing father.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2ExMmZlZDQtOTJiZC00Y2UzLWIxNDYtZTdiYzAzYzQyMmQ4XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+    "imdbId": "tt6905686",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -207,7 +293,11 @@
     ]
   },
   {
-    "title": "Love is Blind",
+    "title": "Love is Blind (2020)",
+    "movieTitle": "Love Is Blind",
+    "plot": "Singles who want to be loved for who they are, rather than what they look like, have signed up for a less conventional approach to modern dating.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI2MTFiYjUtMjFhMS00ODY5LWJlNGEtZWIyNzNmNWU1NjU2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt11704040",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -216,7 +306,11 @@
     ]
   },
   {
-    "title": "Lupin",
+    "title": "Lupin (2021)",
+    "movieTitle": "Lupin",
+    "plot": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjEyMmUyYmYtNTAwYi00OWUwLWJlNzEtMDM2N2QxNzIwMTdjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt2531336",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -225,7 +319,11 @@
     ]
   },
   {
-    "title": "Mister Rogers’ Neighborhood",
+    "title": "Mister Rogers’ Neighborhood (1968 - 2001)",
+    "movieTitle": "Mister Rogers' Neighborhood",
+    "plot": "Fred Rogers explores various topics for young viewers through presentations and music, both in his world and in the Neighborhood of Make-Believe.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTg5ZTkyNmItYjYwZC00NTM4LTg2NWItMjEwODczZmUyZjFjXkEyXkFqcGdeQXVyNzcyMTE4NzU@._V1_SX300.jpg",
+    "imdbId": "tt0062588",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -234,7 +332,11 @@
     ]
   },
   {
-    "title": "Mrs. America",
+    "title": "Mrs. America (2020)",
+    "movieTitle": "Mrs. America",
+    "plot": "Conservative activist Phyllis Schlafly leads an unexpected fight against the Equal Rights Amendment movement during the 1970s.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmMzZTg1YTMtOTQ3Yi00MWQ5LWFmY2YtNzAzYTJiZTAwZWQ3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+    "imdbId": "tt9244556",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -243,7 +345,11 @@
     ]
   },
   {
-    "title": "Murder, She Wrote",
+    "title": "Murder, She Wrote (1984 - 1996)",
+    "movieTitle": "Murder, She Wrote",
+    "plot": "Professional writer and amateur sleuth Jessica Fletcher uses her intellect, charm, and persistence to get to the bottom of every crime she encounters.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ1YjAyNzItYzkzYS00MDFlLTlmNWYtYjYyZWU1YjdiZDMzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg",
+    "imdbId": "tt0086765",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -252,7 +358,11 @@
     ]
   },
   {
-    "title": "Museum Secrets",
+    "title": "Museum Secrets (2011-2014)",
+    "movieTitle": "Museum Secrets",
+    "plot": "Museum Secrets is a TV series on History Television in Canada and a website with videos and games; exploring the world's renowned museums and their most enigmatic objects. Narrated by Canadian actor Colm Feore, the TV series is now i",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBmNzVlZjUtNDZiNy00MjBkLWFmNzctZmQ1Nzg0MzZhYmJiXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+    "imdbId": "tt1830154",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -261,7 +371,11 @@
     ]
   },
   {
-    "title": "Nailed It",
+    "title": "Nailed It (2019 - present)",
+    "movieTitle": "Nailed It",
+    "plot": "\"Nailed It\" chronicles the genesis and legacy of the 40 year Vietnamese nail salon and its influence on an $8 billion-dollar American industry. For mixed-race Vietnamese filmmaker Adele ...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjE3YjQtNjg4My00YWMyLWFlNmUtMjczMzljMTlmYTg1XkEyXkFqcGdeQXVyMjE5MTUwMjc@._V1_SX300.jpg",
+    "imdbId": "tt9042156",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -270,7 +384,11 @@
     ]
   },
   {
-    "title": "Neighbors",
+    "title": "Neighbors (2014)",
+    "movieTitle": "Neighbors",
+    "plot": "After they are forced to live next to a fraternity house, a couple with a newborn baby do whatever they can to take them down.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQ0OTkzODgyNF5BMl5BanBnXkFtZTgwOTA3OTE4MDE@._V1_SX300.jpg",
+    "imdbId": "tt2004420",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -287,7 +405,11 @@
     ]
   },
   {
-    "title": "Night Gallery",
+    "title": "Night Gallery (1969 - 1973)",
+    "movieTitle": "Night Gallery",
+    "plot": "Rod Serling presents tales of horror illustrated in various paintings.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjNmZTM2ZmItNjE3NS00OWJmLWE0MjUtZjgxNzQ2NjYyNWY2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+    "imdbId": "tt0065327",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -296,7 +418,11 @@
     ]
   },
   {
-    "title": "Normal People",
+    "title": "Normal People (2020)",
+    "movieTitle": "Normal People",
+    "plot": "Follows Marianne and Connell, from different backgrounds but the same small town in Ireland, as they weave in and out of each other's romantic lives.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzMzYmRiNGEtMDg5OC00OGZmLWFmNDktYzRlZTFkZmZiMjAzXkEyXkFqcGdeQXVyMTE2OTE2MzE1._V1_SX300.jpg",
+    "imdbId": "tt9059760",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -305,7 +431,11 @@
     ]
   },
   {
-    "title": "Palm Springs",
+    "title": "Palm Springs (2020)",
+    "movieTitle": "Palm Springs",
+    "plot": "Stuck in a time loop, two wedding guests develop a budding romance while living the same day over and over again.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjk0MTgzMmQtZmY2My00NmE5LWExNGUtYjZkNTA3ZDkyMTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt9484998",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -322,7 +452,11 @@
     ]
   },
   {
-    "title": "Parks and Recreation",
+    "title": "Parks and Recreation (2009 - 2015)",
+    "movieTitle": "Parks and Recreation",
+    "plot": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA5MjUxNDgwNF5BMl5BanBnXkFtZTgwMDI5NjMwNDE@._V1_SX300.jpg",
+    "imdbId": "tt1266020",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -331,7 +465,11 @@
     ]
   },
   {
-    "title": "Pen15",
+    "title": "Pen15 (2019 - present)",
+    "movieTitle": "PEN15",
+    "plot": "The comedic story of middle school seen through the eyes of two 7th grade girls dealing with the awkwardness of being a teenager.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjY2Njc3ZjUtMjk5ZS00YWZhLTkzOTYtOGUzYWJhOWNiZDg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt8324422",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -340,7 +478,11 @@
     ]
   },
   {
-    "title": "Perry Mason",
+    "title": "Perry Mason (2020)",
+    "movieTitle": "Perry Mason",
+    "plot": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDllMWRjNWMtM2U3Ny00YjAwLTlhNTgtOThjZTc2YmI2ZmRmXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX300.jpg",
+    "imdbId": "tt2077823",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -349,7 +491,11 @@
     ]
   },
   {
-    "title": "Queens of Mystery",
+    "title": "Queens of Mystery (2019 - present)",
+    "movieTitle": "Queens of Mystery",
+    "plot": "Three crime-writing sisters and their 28-year old niece use their extensive knowledge of crime to solve whodunit style murders in the picturesque English village of Wildemarsh.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc4Mjg3M2YtMzZlZi00MzE0LThkNTEtMmE4MTRhNzZlZjRmXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_SX300.jpg",
+    "imdbId": "tt8974594",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -358,7 +504,11 @@
     ]
   },
   {
-    "title": "Queer Eye",
+    "title": "Queer Eye (2018 - present)",
+    "movieTitle": "Queer Eye",
+    "plot": "A new Fab Five set out to Atlanta to help some of the city's people refine their wardrobes, grooming, diet, cultural pursuits, and home décor.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTU2ZTE0M2MtMzE4ZC00NWJmLWJjZGYtOTRmYWVmMDY0N2Q4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "imdbId": "tt7259746",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -367,7 +517,11 @@
     ]
   },
   {
-    "title": "Ratched",
+    "title": "Ratched (2020)",
+    "movieTitle": "Ratched",
+    "plot": "In 1947, Mildred Ratched begins working as a nurse at a leading psychiatric hospital. But beneath her stylish exterior lurks a growing darkness.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDJiZGE5NzYtZGU3Zi00NDQwLWFhMjAtNTM0MDM2ZTljMjAzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt7423538",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -376,7 +530,11 @@
     ]
   },
   {
-    "title": "RuPaul’s Drag Race",
+    "title": "RuPaul’s Drag Race (2009 - present)",
+    "movieTitle": "RuPaul's Drag Race",
+    "plot": "RuPaul searches for America's next drag superstar.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTcxOTg2ZTYtNWFlYi00YmJiLTgyNDMtMjUyYWE3Mzg2ZTYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt1353056",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -385,7 +543,11 @@
     ]
   },
   {
-    "title": "Ruth &amp; Erica",
+    "title": "Ruth &amp; Erica (2012, Youtube)",
+    "movieTitle": "Ruth",
+    "plot": "The story of how football (soccer) superstar Eusébio, arrives in Lisbon from Mozambique to find himself involved in a sports rivalry older than the \"Roman Right\". Set in 1960/61, a tumultuous year for Portugal and it's fascist regime",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBlMzQ5ZTAtYTI4MC00ZDAzLTg3OGEtNDZlYTBjNzhjODA5XkEyXkFqcGdeQXVyNjg1NTY4MA@@._V1_SX300.jpg",
+    "imdbId": "tt6697640",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -394,7 +556,11 @@
     ]
   },
   {
-    "title": "Santa Clarita Diet",
+    "title": "Santa Clarita Diet (2017 - 2019)",
+    "movieTitle": "Santa Clarita Diet",
+    "plot": "Sheila and Joel are married real estate agents in Santa Clarita, California. When Sheila dies, their lives take a dark turn.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTIwMDkzNTMwMF5BMl5BanBnXkFtZTgwNDA4MjI2NzM@._V1_SX300.jpg",
+    "imdbId": "tt5580540",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -403,7 +569,11 @@
     ]
   },
   {
-    "title": "Say I Do",
+    "title": "Say I Do (2020)",
+    "movieTitle": "Say I Do",
+    "plot": "In this reality show, couples overcome obstacles to celebrate their love in surprise dream weddings designed by three experts in less than a week.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWMyMjY1ZTgtZGI5OC00MTM0LWJlYjktZjdkZjY3YmM1Y2NjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "imdbId": "tt12540060",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -412,7 +582,11 @@
     ]
   },
   {
-    "title": "Schitt’s Creek",
+    "title": "Schitt’s Creek (2015 - 2020)",
+    "movieTitle": "Schitt's Creek",
+    "plot": "When rich video-store magnate Johnny Rose and his family suddenly find themselves broke, they are forced to leave their pampered lives to regroup in Schitt's Creek.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ1ZmM3MTQtNTVhZC00MWVlLWI5ZjgtYmZiYWQxZjUzZWM0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg",
+    "imdbId": "tt3526078",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -421,7 +595,11 @@
     ]
   },
   {
-    "title": "Scrubs",
+    "title": "Scrubs (2001 - 2010)",
+    "movieTitle": "Scrubs",
+    "plot": "In the unreal world of Sacred Heart Hospital, intern John \"J.D.\" Dorian learns the ways of medicine, friendship and life.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODE1MGVjZjMtODc5My00ODBjLTg0NWItMDllNTNlM2Y3ZGYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+    "imdbId": "tt0285403",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -430,7 +608,11 @@
     ]
   },
   {
-    "title": "Self Made: Inspired By The Life Of Madam C.J. Walker",
+    "title": "Self Made: Inspired By The Life Of Madam C.J. Walker (2020)",
+    "movieTitle": "Self Made: Inspired by the Life of Madam C.J. Walker",
+    "plot": "The inspiring story of trailblazing African American entrepreneur Madam C.J. Walker who built a haircare empire that made her America's first female self-made millionaire.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGRkM2FjNDktOTI0Yi00MjJlLWI4NjAtZjU4NmMyOGM2MmI3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt8771910",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -439,7 +621,11 @@
     ]
   },
   {
-    "title": "Sesame Street",
+    "title": "Sesame Street (1969 - present)",
+    "movieTitle": "Sesame Street",
+    "plot": "On a special inner city street, the inhabitants, human and muppet, teach preschool subjects with comedy, cartoons, games, and songs.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM4NDI3OTcxN15BMl5BanBnXkFtZTgwNjc3MjIwMTI@._V1_SX300.jpg",
+    "imdbId": "tt0063951",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -448,7 +634,11 @@
     ]
   },
   {
-    "title": "She-Ra and the Princesses of Power",
+    "title": "She-Ra and the Princesses of Power (2018)",
+    "movieTitle": "She-Ra and the Princesses of Power",
+    "plot": "She-Ra, Princess of Power, leads a rebellion to free her land of Etheria from the monstrous invaders the Horde.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGIzOGQxZDEtOTVhNC00YzgyLWE2ZjItNDM5YjQ0MTZlZTUwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt7745956",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -457,7 +647,11 @@
     ]
   },
   {
-    "title": "Shrill",
+    "title": "Shrill (2019 - present)",
+    "movieTitle": "Shrill",
+    "plot": "A woman seeks out ways to change her life without changing her body.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDFlZGQ5ZjQtOGY0MC00ZjJiLWE4NTEtZWZlYTdlZjQ0ZTkwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "imdbId": "tt8962130",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -466,7 +660,11 @@
     ]
   },
   {
-    "title": "Skin Decision: Before &amp; After",
+    "title": "Skin Decision: Before &amp; After (2020)",
+    "movieTitle": "Skin Decision: Before and After",
+    "plot": "Skin and beauty expert Nurse Jamie and plastic surgeon Dr. Sheila Nazarian use the latest procedures to bring out their clients' best selves.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNkNjIyN2ItM2RmOS00MzJlLTg5YWQtOTRjMDdkNjBjNzVmXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+    "imdbId": "tt12588326",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -475,10 +673,14 @@
     ]
   },
   {
-    "title": "Some Good News with John Kraskinsi"
+    "title": "Some Good News with John Kraskinsi (2020)"
   },
   {
-    "title": "Stay Here",
+    "title": "Stay Here (2018)",
+    "movieTitle": "Stay Here",
+    "plot": "Designer Genevieve Gorder and real estate expert Peter Lorimer show property owners how to turn their short-term rentals into moneymaking showstoppers.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY0NDg3MDYtM2Y5MC00ZGU0LWE4MDgtOWQ5OWE4YTJmNmFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt8773338",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -487,7 +689,11 @@
     ]
   },
   {
-    "title": "Superstore",
+    "title": "Superstore (2015 - 2021)",
+    "movieTitle": "Superstore",
+    "plot": "A look at the lives of employees at a big box store.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2OWM1MTUtNmNhYy00ZDJlLTgyYWQtOWY3ZmVjYjNiN2U4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_SX300.jpg",
+    "imdbId": "tt4477976",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -496,7 +702,11 @@
     ]
   },
   {
-    "title": "Sweet Magnolias",
+    "title": "Sweet Magnolias (2020)",
+    "movieTitle": "Sweet Magnolias",
+    "plot": "Three South Carolina women, best friends since high school, shepherd one another through the complexities of romance, career, and family.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjBmNTI2ZDEtOThhMy00OTkyLTg5Y2ItMTUxMzU4NWI1MzhhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SX300.jpg",
+    "imdbId": "tt9077540",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -505,7 +715,11 @@
     ]
   },
   {
-    "title": "Ted Lasso",
+    "title": "Ted Lasso (2020)",
+    "movieTitle": "Ted Lasso",
+    "plot": "Follows U.S. American football coach Ted Lasso who heads to the U.K. to manage a struggling London football team in the top flight of English football.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2MxYjVlNzAtMDdhOS00N2U2LThlYWQtN2MwMWJjYjFhYzM5XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+    "imdbId": "tt10986410",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -514,7 +728,11 @@
     ]
   },
   {
-    "title": "That Girl",
+    "title": "That Girl (1966 - 1971)",
+    "movieTitle": "That Girl",
+    "plot": "An aspiring actress moves from her hometown of Brewster, New York, to try to make it big in New York City, having to take several offbeat \"temp\" jobs to support herself in between her various auditions and bit parts.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2OTQ2ODgwM15BMl5BanBnXkFtZTcwMjAyMTYzMQ@@._V1_SX300.jpg",
+    "imdbId": "tt0060034",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -523,7 +741,11 @@
     ]
   },
   {
-    "title": "The Equalizer",
+    "title": "The Equalizer (2021)",
+    "movieTitle": "The Equalizer",
+    "plot": "A man who believes he has put his mysterious past behind him cannot stand idly by when he meets a young girl under the control of ultra-violent Russian gangsters.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_SX300.jpg",
+    "imdbId": "tt0455944",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -540,7 +762,11 @@
     ]
   },
   {
-    "title": "The Facts of Life",
+    "title": "The Facts of Life (1979 - 1988)",
+    "movieTitle": "The Facts of Life",
+    "plot": "Mrs. Edna Garrett, the Drummonds' former housekeeper, teaches a group of girls at a boarding school how to tackle issues throughout teenage life and later adulthood.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzA0Nzk1Nl5BMl5BanBnXkFtZTcwNzY4NjYzMQ@@._V1_SX300.jpg",
+    "imdbId": "tt0078610",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -549,10 +775,14 @@
     ]
   },
   {
-    "title": "The Fitness Marshall"
+    "title": "The Fitness Marshall (2015 - present, Youtube)"
   },
   {
-    "title": "The Flight Attendant",
+    "title": "The Flight Attendant (2020)",
+    "movieTitle": "The Flight Attendant",
+    "plot": "A reckless flight attendant with an alcoholism problem wakes up in the wrong hotel, in the wrong bed, with a dead man - and no idea what happened. Unable to piece the night together, she begins to wonder if she could be the killer.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2U5Y2NiMDgtNDg4NS00ZTU2LWFlMmQtMjA5YjBkNDg4NGQ5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+    "imdbId": "tt7569576",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -561,7 +791,11 @@
     ]
   },
   {
-    "title": "The Fresh Prince Of Bel Air",
+    "title": "The Fresh Prince Of Bel Air (1990 - 1996)",
+    "movieTitle": "The Fresh Prince of Bel-Air",
+    "plot": "A streetwise, poor young man from Philadelphia is sent by his mother to live with his aunt, uncle and cousins in their Bel-Air mansion.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUxOWQ4MzAtMmJjYS00M2U5LWEwZTAtYTc1YmZhNjg2NDRlXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg",
+    "imdbId": "tt0098800",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -570,13 +804,17 @@
     ]
   },
   {
-    "title": "The Ghost Whisperer"
+    "title": "The Ghost Whisperer (2005 - 2010)"
   },
   {
-    "title": "The Imagination Library Presents Goodnight with Dolly"
+    "title": "The Imagination Library Presents Goodnight with Dolly (2020)"
   },
   {
-    "title": "The Jetsons",
+    "title": "The Jetsons (1962 - 1963)",
+    "movieTitle": "The Jetsons",
+    "plot": "The misadventures of a futuristic family.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmIwY2I1ZGEtYzI3Mi00OTYwLWJkZjktNDQxMDlhMzM3MmU2XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+    "imdbId": "tt0055683",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -585,7 +823,11 @@
     ]
   },
   {
-    "title": "The Letdown",
+    "title": "The Letdown (2017-2019)",
+    "movieTitle": "The Letdown",
+    "plot": "Audrey is determined not to be defined by motherhood. In theory, this seems fairly easy. In practice, her career-focused husband, self-obsessed mother, and fancy-free best friend make it damn-near impossible.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDljZTljNWItZmEzMi00ODY3LTlkMjAtNTI3YzI2YWU5OGM0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+    "imdbId": "tt7320300",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -594,7 +836,11 @@
     ]
   },
   {
-    "title": "The Mary Tyler Moore Show",
+    "title": "The Mary Tyler Moore Show (1970 - 1977)",
+    "movieTitle": "She Turned the World on with Her Smile: The Making of 'The Mary Tyler Moore Show'",
+    "plot": "A documentary about the making of the classic TV sitcom \"The Mary Tyler Moore Show,\" with scenes from of the more classic episodes, and interviews with members of the cast and crew.",
+    "poster": "N/A",
+    "imdbId": "tt0323946",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -603,7 +849,11 @@
     ]
   },
   {
-    "title": "The Munsters",
+    "title": "The Munsters (1964 - 1966)",
+    "movieTitle": "The Munsters",
+    "plot": "A family of friendly monsters have misadventures, never quite understanding why people react to them so strangely.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjY3MDIzMV5BMl5BanBnXkFtZTcwNzMzMjYyMQ@@._V1_SX300.jpg",
+    "imdbId": "tt0057773",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -612,7 +862,11 @@
     ]
   },
   {
-    "title": "The Orville",
+    "title": "The Orville (2017 - present)",
+    "movieTitle": "The Orville",
+    "plot": "An exploratory ship from Earth faces intergalactic challenges 400 years in the future.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzBkZGM1OTQtYmIyNi00ZjM4LWJlNGItNGM0ZWVhODU3YWVlXkEyXkFqcGdeQXVyNzY3NzAzOTA@._V1_SX300.jpg",
+    "imdbId": "tt5691552",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -621,7 +875,11 @@
     ]
   },
   {
-    "title": "The Prisoner",
+    "title": "The Prisoner (1967)",
+    "movieTitle": "The Prisoner",
+    "plot": "After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyMDk0NTMxNV5BMl5BanBnXkFtZTgwNTA2NTQxMTE@._V1_SX300.jpg",
+    "imdbId": "tt0061287",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -634,7 +892,11 @@
     ]
   },
   {
-    "title": "The Undoing",
+    "title": "The Undoing (2020)",
+    "movieTitle": "The Undoing",
+    "plot": "A modern twist to a classical \"whodunnit\" tale, when the life of a wealthy New York therapist turns upside down after she and her family get involved with a murder case.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY5YTcxMWYtYjFkZi00ZmI3LThmYjgtMzY0YjQzZWFkNzQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt8134470",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -643,7 +905,11 @@
     ]
   },
   {
-    "title": "The Unicorn",
+    "title": "The Unicorn (2019)",
+    "movieTitle": "The Unicorn",
+    "plot": "A widower is eager to move on from the most difficult year of his life, only to realize he's utterly unprepared to raise his two daughters on his own and equally unprepared for the dating world where he's suddenly a hot commodity.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyZTdlNjAtODZmOC00OGI2LTliOWEtNThmYjNiN2E2Njk2XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg",
+    "imdbId": "tt10329028",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -652,7 +918,11 @@
     ]
   },
   {
-    "title": "The Wilds",
+    "title": "The Wilds (2020)",
+    "movieTitle": "The Wilds",
+    "plot": "A group of teens must survive after a crash leaves them stranded. There's just one twist to this thrilling drama - these girls did not end up on this island by accident.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzgzZDA2NmEtZTAwZi00ZTY3LWFiYTktNTdjYTBkNTY1N2E4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+    "imdbId": "tt8633062",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -661,7 +931,11 @@
     ]
   },
   {
-    "title": "Xena: Warrior Princess",
+    "title": "Xena: Warrior Princess (1995 - 2001)",
+    "movieTitle": "Xena: Warrior Princess",
+    "plot": "Xena, a mighty Warrior Princess with a dark past, sets out to redeem herself. She is joined by small town bard, Gabrielle. Together they journey the ancient world and fight for the greater good against ruthless Warlords and Gods.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdkYjA4YzAtMjNiZS00OTgyLTg5Y2ItNGIwZGQyMTUzNzFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbId": "tt0112230",
     "ratings": [
       {
         "Source": "Internet Movie Database",
