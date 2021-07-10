@@ -1279,12 +1279,23 @@
    },
    {
       "title":"Don’t Worry, He Won’t Get Far On Foot (2018)",
-      "movieTitle":"Don’t Worry, He Won’t Get Far On Foot",
-      "plot":null,
-      "poster":null,
-      "imdbId":null,
+      "movieTitle":"Don't Worry, He Won't Get Far on Foot",
+      "plot":"On the rocky path to sobriety after a life-changing accident, John Callahan discovers the healing power of art, willing his injured hands into drawing hilarious, often controversial cartoons, which bring him a new lease on life.",
+      "poster":"https://m.media-amazon.com/images/M/MV5BMjQ2MjQ3OTk2MV5BMl5BanBnXkFtZTgwNjQ0NzA2NDM@._V1_SX300.jpg",
+      "imdbId":"tt6288124",
       "ratings":[
-         
+          {
+         "Source":"Internet Movie Database",
+         "Value":"6.9/10"
+      },
+      {
+         "Source":"Rotten Tomatoes",
+         "Value":"77%"
+      },
+      {
+         "Source":"Metacritic",
+         "Value":"67/100"
+      }
       ]
    },
    {
