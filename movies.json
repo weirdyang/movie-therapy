@@ -1162,10 +1162,10 @@
    },
    {
       "title":"Disney Penguins (2019)",
-      "movieTitle":"Disney Penguins",
-      "plot":null,
-      "poster":null,
-      "imdbId":null,
+      "movieTitle":"Penguins: Life on the Edge",
+      "plot":"Follows the witty and tenacious team of filmmakers behind Disneynature's Penguins (2019), a coming-of-age story about an Adélie penguin named Steve.",
+      "poster":"https://m.media-amazon.com/images/M/MV5BZTgzYmNjMGMtOWU5Mi00MWY5LTk2NmYtNTIwOWQ1NjMzODhkXkEyXkFqcGdeQXVyNjc2NTQzMjU@._V1_SX300.jpg",
+      "imdbId":"tt12080904",
       "ratings":[
          
       ]
