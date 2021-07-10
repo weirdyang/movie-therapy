@@ -2896,13 +2896,24 @@
       ]
    },
    {
-      "title":"Nine To Five From (1980)",
-      "movieTitle":"Nine To Five From",
-      "plot":null,
-      "poster":null,
-      "imdbId":null,
+      "title":"Nine To Five (1980)",
+      "movieTitle":"Nine To Five",
+      "plot":"Three female employees of a sexist, egotistical, lying, hypocritical bigot find a way to turn the tables on him.",
+      "poster":"https://m.media-amazon.com/images/M/MV5BZmVkMDZhZmUtNmIxMy00YzY0LTg0NTUtYmViODJmMjU4ZDNjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+      "imdbId":"tt0080319",
       "ratings":[
-         
+               {
+         "Source":"Internet Movie Database",
+         "Value":"6.9/10"
+      },
+      {
+         "Source":"Rotten Tomatoes",
+         "Value":"83%"
+      },
+      {
+         "Source":"Metacritic",
+         "Value":"58/100"
+      }
       ]
    },
    {
