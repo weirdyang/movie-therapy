@@ -2,11 +2,14 @@
   {
     "title": "4 Levels Video Series from Epicurious (2019 - present)",
     "movieTitle": "4 Levels Video Series from Epicurious",
-    "plot": "",
-    "poster": "",
-    "imdbId": "",
-    "ratings": [
-    ]
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": [],
+    "result": {
+      "Response": "False",
+      "Error": "Movie not found!"
+    }
   },
   {
     "title": "A Different World (1987 - 1993)",
@@ -19,7 +22,36 @@
         "Source": "Internet Movie Database",
         "Value": "6.9/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "A Different World",
+      "Year": "1987–1993",
+      "Rated": "TV-PG",
+      "Released": "24 Sep 1987",
+      "Runtime": "60 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Bill Cosby",
+      "Actors": "Lisa Bonet, Kadeem Hardison, Jasmine Guy",
+      "Plot": "A group of students at a historically Black university struggle to make it through college.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Primetime Emmys. 17 wins & 8 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjM0NzVmZmItNTFmNC00ZTFkLWJhY2QtODAxNjdmMzAyMDE5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjg5NjkwODg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "5,910",
+      "imdbID": "tt0092339",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    }
   },
   {
     "title": "Anne of Green Gables (1985)",
@@ -36,10 +68,52 @@
         "Source": "Rotten Tomatoes",
         "Value": "83%"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Anne of Green Gables",
+      "Year": "1985",
+      "Rated": "Not Rated",
+      "Released": "17 Feb 1986",
+      "Runtime": "199 min",
+      "Genre": "Drama, Family",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Megan Follows, Colleen Dewhurst, Richard Farnsworth",
+      "Plot": "An orphan girl, sent to an elderly brother and sister by mistake, charms her new home and community with her fiery spirit and imagination.",
+      "Language": "English",
+      "Country": "Canada, West Germany, United States",
+      "Awards": "Won 1 Primetime Emmy. 12 wins & 6 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjBmYjU2YjQtNjc3NS00NmMzLTk3OWUtNDM0ZDEyOGQ4ZWI0XkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "83%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "19,383",
+      "imdbID": "tt0088727",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
-    "title": "Anne of Green Gables 2 (1987)"
+    "title": "Anne of Green Gables 2 (1987)",
+    "movieTitle": "Anne of Green Gables 2",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": [],
+    "result": {
+      "Response": "False",
+      "Error": "Movie not found!"
+    }
   },
   {
     "title": "Awkwafina Is Nora from Queens (2020)",
@@ -52,7 +126,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.2/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Awkwafina Is Nora from Queens",
+      "Year": "2020–",
+      "Rated": "TV-MA",
+      "Released": "22 Jan 2020",
+      "Runtime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Awkwafina, Teresa Hsiao",
+      "Actors": "Awkwafina, Lori Tan Chinn, BD Wong",
+      "Plot": "With help from her dad and grandmother, Nora Lum navigates young adulthood in Flushing, New York with her cousin.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "2 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDM1YTQ2N2QtOTcwMS00MjAxLWFjOWMtZWRlMGY2MTU1OWE2XkEyXkFqcGdeQXVyNzU3Nzk4MDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "2,381",
+      "imdbID": "tt8494614",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Back with the Ex (2018)",
@@ -65,7 +168,36 @@
         "Source": "Internet Movie Database",
         "Value": "6.2/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Back With the Ex",
+      "Year": "2018–",
+      "Rated": "N/A",
+      "Released": "11 Jan 2019",
+      "Runtime": "50 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "Four Australian couples find out if they can rekindle their old romances.",
+      "Language": "N/A",
+      "Country": "N/A",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2Q5ZDIzZGEtZmFjZi00YWFlLTkzYTEtMGIwZDVkOGJiYjFiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.2",
+      "imdbVotes": "547",
+      "imdbID": "tt9316002",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Big Dreams Small Spaces (2017)",
@@ -78,7 +210,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.1/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Big Dreams, Small Spaces",
+      "Year": "2014–2017",
+      "Rated": "N/A",
+      "Released": "20 Oct 2014",
+      "Runtime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Monty Don",
+      "Plot": "Horticulturalist Monty Don works with amateur gardeners to help them create the garden of their dreams.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMmYzN2JiYWYtOTVhZS00ZTlmLTllMmItMGVjYzExMDdjYzljXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "301",
+      "imdbID": "tt8006786",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    }
   },
   {
     "title": "Black Mirror (2011)",
@@ -91,7 +252,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.8/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Black Mirror",
+      "Year": "2011–",
+      "Rated": "TV-MA",
+      "Released": "04 Dec 2011",
+      "Runtime": "60 min",
+      "Genre": "Drama, Sci-Fi, Thriller",
+      "Director": "N/A",
+      "Writer": "Charlie Brooker",
+      "Actors": "Daniel Lapaine, Hannah John-Kamen, Michaela Coel, Beatrice Robertson-Jones",
+      "Plot": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations and darkest instincts collide.",
+      "Language": "English",
+      "Country": "UK",
+      "Awards": "Won 6 Primetime Emmys. Another 26 wins & 103 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYTM3YWVhMDMtNjczMy00NGEyLWJhZDctYjNhMTRkNDE0ZTI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.8",
+      "imdbVotes": "463,087",
+      "imdbID": "tt2085059",
+      "Type": "series",
+      "totalSeasons": "5",
+      "Response": "True"
+    }
   },
   {
     "title": "Bless This Mess (2019 - present)",
@@ -104,7 +294,36 @@
         "Source": "Internet Movie Database",
         "Value": "6.9/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Bless This Mess",
+      "Year": "2019–2020",
+      "Rated": "TV-PG",
+      "Released": "16 Apr 2019",
+      "Runtime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Lake Bell, Elizabeth Meriwether",
+      "Actors": "Dax Shepard, Lake Bell, David Koechner",
+      "Plot": "A newlywed couple's plan to leave the big city for a quieter life in Nebraska doesn't go as expected.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYzg3MGMwOWItOTFlYi00ODgxLWIzMzAtZTAzMGNhMDgzNTQ1XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.9",
+      "imdbVotes": "3,174",
+      "imdbID": "tt9418572",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "Bridgerton (2020 - present)",
@@ -117,7 +336,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.3/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Bridgerton",
+      "Year": "2020–",
+      "Rated": "TV-MA",
+      "Released": "25 Dec 2020",
+      "Runtime": "60 min",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "Chris Van Dusen",
+      "Actors": "Jonathan Bailey, Harriet Cains, Bessie Carter, Nicola Coughlan",
+      "Plot": "Wealth, lust, and betrayal set against the backdrop of Regency-era England, seen through the eyes of the powerful Bridgerton family.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "5 wins & 18 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjIxMzZhMTMtNDQ1Mi00OTMwLTk2M2ItYzA0YmNjNDFlOTdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "80,953",
+      "imdbID": "tt8740790",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "Brooklyn Nine-Nine (2013 - present)",
@@ -130,7 +378,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.4/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Brooklyn Nine-Nine",
+      "Year": "2013–2022",
+      "Rated": "TV-14",
+      "Released": "17 Sep 2013",
+      "Runtime": "22 min",
+      "Genre": "Comedy, Crime",
+      "Director": "N/A",
+      "Writer": "Dan Goor, Michael Schur",
+      "Actors": "Andy Samberg, Stephanie Beatriz, Terry Crews, Melissa Fumero",
+      "Plot": "Comedy series following the exploits of Det. Jake Peralta and his diverse, lovable colleagues as they police the NYPD's 99th Precinct.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 2 Primetime Emmys. Another 12 wins & 111 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzVkYWY4NzYtMWFlZi00YzkwLThhZDItZjcxYTU4ZTMzMDZmXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.4",
+      "imdbVotes": "242,926",
+      "imdbID": "tt2467372",
+      "Type": "series",
+      "totalSeasons": "8",
+      "Response": "True"
+    }
   },
   {
     "title": "Cheers (1982 - 1993)",
@@ -147,7 +424,40 @@
         "Source": "Rotten Tomatoes",
         "Value": "88%"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Cheers",
+      "Year": "1982–1993",
+      "Rated": "TV-PG",
+      "Released": "30 Sep 1982",
+      "Runtime": "22 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "James Burrows, Glen Charles, Les Charles",
+      "Actors": "Ted Danson, Rhea Perlman, John Ratzenberger",
+      "Plot": "The regulars of the Boston bar \"Cheers\" share their experiences and lives with each other while drinking or working at the bar where everybody knows your name.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 28 Primetime Emmys. 77 wins & 181 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTY0ZWFmNTktOGNjNi00M2Y0LWE1ODItZWY4Mzk3MzVjMDgzXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "88%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "49,442",
+      "imdbID": "tt0083399",
+      "Type": "series",
+      "totalSeasons": "11",
+      "Response": "True"
+    }
   },
   {
     "title": "Cobra Kai (2018 - present)",
@@ -160,7 +470,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.6/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Cobra Kai",
+      "Year": "2018–",
+      "Rated": "TV-14",
+      "Released": "02 May 2018",
+      "Runtime": "30 min",
+      "Genre": "Action, Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Courtney Henggeler, Mary Mouser, Tanner Buchanan",
+      "Plot": "Decades after their 1984 All Valley Karate Tournament bout, a middle-aged Daniel LaRusso and Johnny Lawrence find themselves martial-arts rivals again.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Primetime Emmys. 13 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTE1M2Q3YjQtZGMzYy00MDcwLWIzNzctYzI3MDBhMjBmYTQwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.6",
+      "imdbVotes": "120,495",
+      "imdbID": "tt7221388",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    }
   },
   {
     "title": "Difficult People (2015 - 2017)",
@@ -173,10 +512,48 @@
         "Source": "Internet Movie Database",
         "Value": "7.0/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Difficult People",
+      "Year": "2015–2017",
+      "Rated": "TV-MA",
+      "Released": "05 Aug 2015",
+      "Runtime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Julie Klausner",
+      "Actors": "Julie Klausner, Billy Eichner, James Urbaniak, Andrea Martin",
+      "Plot": "Julie and Billy, two jaded aspiring comedians who live together in New York City, navigate through their thirties while dealing with their individual careers and personal relationships.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTY2MDgzOTEzNF5BMl5BanBnXkFtZTgwMzYyOTExMzI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "3,573",
+      "imdbID": "tt4676574",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    }
   },
   {
-    "title": "Don’t Trust The B In Apartment 23 (2012 - 2013)"
+    "title": "Don’t Trust The B In Apartment 23 (2012 - 2013)",
+    "movieTitle": "Don’t Trust The B In Apartment 23",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": [],
+    "result": {
+      "Response": "False",
+      "Error": "Movie not found!"
+    }
   },
   {
     "title": "Fearless (2017)",
@@ -193,10 +570,55 @@
         "Source": "Rotten Tomatoes",
         "Value": "85%"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Fearless",
+      "Year": "1993",
+      "Rated": "R",
+      "Released": "05 Nov 1993",
+      "Runtime": "122 min",
+      "Genre": "Drama, Thriller",
+      "Director": "Peter Weir",
+      "Writer": "Rafael Yglesias",
+      "Actors": "Jeff Bridges, Isabella Rossellini, Rosie Perez",
+      "Plot": "A man's personality is dramatically changed after surviving a major airline crash.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Oscar. 6 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGYyYzgyODMtOGYwOC00OTM5LTk4NDUtNTRkN2I3YmUxNTM5XkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "85%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "21,660",
+      "imdbID": "tt0106881",
+      "Type": "movie",
+      "DVD": "01 Sep 2008",
+      "BoxOffice": "$6,995,302",
+      "Production": "Warner Brothers, Spring Creek Productions",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
-    "title": "Film Centre cooking videos (2020)"
+    "title": "Film Centre cooking videos (2020)",
+    "movieTitle": "Film Centre cooking videos",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": [],
+    "result": {
+      "Response": "False",
+      "Error": "Movie not found!"
+    }
   },
   {
     "title": "Flack (2019)",
@@ -209,7 +631,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.2/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Flack",
+      "Year": "2019–",
+      "Rated": "TV-14",
+      "Released": "21 Feb 2019",
+      "Runtime": "60 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Oliver Lansley",
+      "Actors": "Anna Paquin, Lydia Wilson, Rebecca Benson",
+      "Plot": "Robyn, an American publicist working for a cutthroat London PR company that represents troubled celebrities, is adept at keeping her clients' lives appearing in perfect order, while her own falls to pieces.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZmQ3MTA4NDgtN2QzOS00MWE2LTg1MjktY2U3YmVjMmQ3YmU0XkEyXkFqcGdeQXVyNjcyNjcyMzQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "4,103",
+      "imdbID": "tt8128344",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "Freaks And Geeks (1999)",
@@ -222,7 +673,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.8/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Freaks and Geeks",
+      "Year": "1999–2000",
+      "Rated": "TV-14",
+      "Released": "25 Sep 1999",
+      "Runtime": "44 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Paul Feig",
+      "Actors": "Linda Cardellini, John Francis Daley, James Franco",
+      "Plot": "A high school mathlete starts hanging out with a group of burnouts while her younger brother navigates his freshman year.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Primetime Emmy. 4 wins & 15 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZWJhOGFiZWMtYTY5Ni00NGU1LWE5OWItNzA5NThkNWUwYzc4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.8",
+      "imdbVotes": "132,753",
+      "imdbID": "tt0193676",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Grey’s Anatomy (2004 - present)",
@@ -235,10 +715,48 @@
         "Source": "Internet Movie Database",
         "Value": "7.5/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Grey's Anatomy",
+      "Year": "2005–",
+      "Rated": "TV-14",
+      "Released": "27 Mar 2005",
+      "Runtime": "41 min",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "Shonda Rhimes",
+      "Actors": "Ellen Pompeo, Chandra Wilson, James Pickens Jr.",
+      "Plot": "A drama centered on the personal and professional lives of five surgical interns and their supervisors.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 4 Primetime Emmys. 80 wins & 232 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjgwNGNkZGYtMWQyYS00YjEzLWFmZTctODUzYWMxOWJkNTAzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "262,793",
+      "imdbID": "tt0413573",
+      "Type": "series",
+      "totalSeasons": "17",
+      "Response": "True"
+    }
   },
   {
-    "title": "Home Shopping Network (1982 - present)"
+    "title": "Home Shopping Network (1982 - present)",
+    "movieTitle": "Home Shopping Network",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": [],
+    "result": {
+      "Response": "False",
+      "Error": "Movie not found!"
+    }
   },
   {
     "title": "House Hunters (1999 - present)",
@@ -251,7 +769,36 @@
         "Source": "Internet Movie Database",
         "Value": "6.7/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "House Hunters",
+      "Year": "1999–",
+      "Rated": "TV-G",
+      "Released": "30 Sep 1999",
+      "Runtime": "30 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Andromeda Dunker",
+      "Plot": "Hosted by Suzanne Whang, the show takes viewers behind the scenes as individuals, couples and families learn what to look for and decide whether or not a home is meant for them.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDQyNTQ2NzIzOF5BMl5BanBnXkFtZTgwNzg0NzgwMzE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "1,447",
+      "imdbID": "tt0369117",
+      "Type": "series",
+      "totalSeasons": "193",
+      "Response": "True"
+    }
   },
   {
     "title": "Killing Eve (2018 - present)",
@@ -264,7 +811,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.2/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Killing Eve",
+      "Year": "2018–2022",
+      "Rated": "TV-14",
+      "Released": "08 Apr 2018",
+      "Runtime": "42 min",
+      "Genre": "Action, Adventure, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Phoebe Waller-Bridge",
+      "Actors": "Jodie Comer, Sandra Oh, Fiona Shaw, Kim Bodnia",
+      "Plot": "After a series of events, the lives of a security operative and an assassin become inextricably linked.",
+      "Language": "English, French, Spanish, Catalan, Russian, Polish, Romanian",
+      "Country": "USA, UK, Italy",
+      "Awards": "Won 1 Primetime Emmy. Another 38 wins & 137 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDJmODFjMzEtNTE4MS00OGViLTk4OGYtZjg3OGFhM2VlOTliXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "91,896",
+      "imdbID": "tt7016936",
+      "Type": "series",
+      "totalSeasons": "4",
+      "Response": "True"
+    }
   },
   {
     "title": "Little House On The Prairie (1974 - 1983)",
@@ -277,7 +853,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.4/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Little House on the Prairie",
+      "Year": "1974–1983",
+      "Rated": "TV-PG",
+      "Released": "30 Mar 1974",
+      "Runtime": "60 min",
+      "Genre": "Drama, Family, Romance",
+      "Director": "N/A",
+      "Writer": "Blanche Hanalis",
+      "Actors": "Melissa Gilbert, Michael Landon, Karen Grassle",
+      "Plot": "The life and adventures of the Ingalls family in the nineteenth century American Midwest.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Won 4 Primetime Emmys. 17 wins & 42 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTg0NzQ4MDAtYmNlYi00OGExLWE3YjItNzEyOWI3MGE3NzRkXkEyXkFqcGdeQXVyMzU3MTc5OTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "19,459",
+      "imdbID": "tt0071007",
+      "Type": "series",
+      "totalSeasons": "9",
+      "Response": "True"
+    }
   },
   {
     "title": "Lovecraft Country (2020)",
@@ -290,7 +895,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.1/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Lovecraft Country",
+      "Year": "2020–",
+      "Rated": "TV-MA",
+      "Released": "16 Aug 2020",
+      "Runtime": "60 min",
+      "Genre": "Drama, Fantasy, Horror, Mystery, Sci-Fi, Thriller",
+      "Director": "N/A",
+      "Writer": "Misha Green",
+      "Actors": "Jurnee Smollett, Jonathan Majors, Aunjanue Ellis, Wunmi Mosaku",
+      "Plot": "A young African-American travels across the U.S. in the 1950s in search of his missing father.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "6 wins & 38 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BM2ExMmZlZDQtOTJiZC00Y2UzLWIxNDYtZTdiYzAzYzQyMmQ4XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "32,284",
+      "imdbID": "tt6905686",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Love is Blind (2020)",
@@ -303,7 +937,36 @@
         "Source": "Internet Movie Database",
         "Value": "6.1/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Love Is Blind",
+      "Year": "2020–",
+      "Rated": "TV-MA",
+      "Released": "13 Feb 2020",
+      "Runtime": "N/A",
+      "Genre": "Reality-TV, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Heather Ashley Chase, Nick Lachey, Vanessa Lachey, Kenny Barnes",
+      "Plot": "Singles who want to be loved for who they are, rather than what they look like, have signed up for a less conventional approach to modern dating.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Primetime Emmys. Another 2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZGI2MTFiYjUtMjFhMS00ODY5LWJlNGEtZWIyNzNmNWU1NjU2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.1",
+      "imdbVotes": "5,109",
+      "imdbID": "tt11704040",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Lupin (2021)",
@@ -316,7 +979,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.6/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Lupin",
+      "Year": "2021–",
+      "Rated": "TV-MA",
+      "Released": "08 Jan 2021",
+      "Runtime": "231 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "George Kay",
+      "Actors": "Omar Sy, Ludivine Sagnier, Hervé Pierre",
+      "Plot": "Inspired by the adventures of Arsène Lupin, gentleman thief Assane Diop sets out to avenge his father for an injustice inflicted by a wealthy family.",
+      "Language": "French",
+      "Country": "France, United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjEyMmUyYmYtNTAwYi00OWUwLWJlNzEtMDM2N2QxNzIwMTdjXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.6",
+      "imdbVotes": "68,439",
+      "imdbID": "tt2531336",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "Mister Rogers’ Neighborhood (1968 - 2001)",
@@ -329,7 +1021,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.6/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Mister Rogers' Neighborhood",
+      "Year": "1968–2001",
+      "Rated": "TV-Y",
+      "Released": "19 Feb 1968",
+      "Runtime": "30 min",
+      "Genre": "Family, Fantasy, Music",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Fred Rogers, Betty Aberlin, David Newell",
+      "Plot": "Fred Rogers explores various topics for young viewers through presentations and music, both in his world and in the Neighborhood of Make-Believe.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 3 Primetime Emmys. 8 wins & 66 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTg5ZTkyNmItYjYwZC00NTM4LTg2NWItMjEwODczZmUyZjFjXkEyXkFqcGdeQXVyNzcyMTE4NzU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.6",
+      "imdbVotes": "7,888",
+      "imdbID": "tt0062588",
+      "Type": "series",
+      "totalSeasons": "31",
+      "Response": "True"
+    }
   },
   {
     "title": "Mrs. America (2020)",
@@ -342,7 +1063,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.9/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Mrs. America",
+      "Year": "2020",
+      "Rated": "TV-MA",
+      "Released": "15 Apr 2020",
+      "Runtime": "458 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "N/A",
+      "Writer": "Dahvi Waller",
+      "Actors": "Cate Blanchett, Rose Byrne, Uzo Aduba",
+      "Plot": "Conservative activist Phyllis Schlafly leads an unexpected fight against the Equal Rights Amendment movement during the 1970s.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Primetime Emmy. 10 wins & 56 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmMzZTg1YTMtOTQ3Yi00MWQ5LWFmY2YtNzAzYTJiZTAwZWQ3XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "9,644",
+      "imdbID": "tt9244556",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Murder, She Wrote (1984 - 1996)",
@@ -355,7 +1105,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.0/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Murder, She Wrote",
+      "Year": "1984–1996",
+      "Rated": "TV-PG",
+      "Released": "30 Sep 1984",
+      "Runtime": "50 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Peter S. Fischer, Richard Levinson, William Link",
+      "Actors": "Angela Lansbury, William Windom, Ron Masak",
+      "Plot": "Professional writer and amateur sleuth Jessica Fletcher uses her intellect, charm, and persistence to get to the bottom of every crime she encounters.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 2 Primetime Emmys. 34 wins & 55 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOWQ1YjAyNzItYzkzYS00MDFlLTlmNWYtYjYyZWU1YjdiZDMzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "19,638",
+      "imdbID": "tt0086765",
+      "Type": "series",
+      "totalSeasons": "12",
+      "Response": "True"
+    }
   },
   {
     "title": "Museum Secrets (2011-2014)",
@@ -368,7 +1147,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.2/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Museum Secrets",
+      "Year": "2011–",
+      "Rated": "N/A",
+      "Released": "06 Jan 2011",
+      "Runtime": "N/A",
+      "Genre": "Documentary",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Colm Feore, Jesse Blaze Snider, Joe Medeiros",
+      "Plot": "Museum Secrets is a TV series on History Television in Canada and a website with videos and games; exploring the world's renowned museums and their most enigmatic objects. Narrated by Canadian actor Colm Feore, the TV series is now i",
+      "Language": "English",
+      "Country": "Canada",
+      "Awards": "3 wins & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjBmNzVlZjUtNDZiNy00MjBkLWFmNzctZmQ1Nzg0MzZhYmJiXkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.2",
+      "imdbVotes": "163",
+      "imdbID": "tt1830154",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    }
   },
   {
     "title": "Nailed It (2019 - present)",
@@ -381,7 +1189,39 @@
         "Source": "Internet Movie Database",
         "Value": "7.3/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Nailed It",
+      "Year": "2018",
+      "Rated": "Not Rated",
+      "Released": "26 Oct 2018",
+      "Runtime": "60 min",
+      "Genre": "Documentary",
+      "Director": "Adele Pham",
+      "Writer": "N/A",
+      "Actors": "N/A",
+      "Plot": "\"Nailed It\" chronicles the genesis and legacy of the 40 year Vietnamese nail salon and its influence on an $8 billion-dollar American industry. For mixed-race Vietnamese filmmaker Adele ...",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMGEzZjE3YjQtNjg4My00YWMyLWFlNmUtMjczMzljMTlmYTg1XkEyXkFqcGdeQXVyMjE5MTUwMjc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "9",
+      "imdbID": "tt9042156",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "title": "Neighbors (2014)",
@@ -402,7 +1242,47 @@
         "Source": "Metacritic",
         "Value": "68/100"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Neighbors",
+      "Year": "2014",
+      "Rated": "R",
+      "Released": "09 May 2014",
+      "Runtime": "97 min",
+      "Genre": "Comedy",
+      "Director": "Nicholas Stoller",
+      "Writer": "Andrew Jay Cohen, Brendan O'Brien",
+      "Actors": "Seth Rogen, Rose Byrne, Elise Vargas, Zoey Vargas",
+      "Plot": "After they are forced to live next to a fraternity house, a couple with a newborn baby do whatever they can to take them down.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "7 wins & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTQ0OTkzODgyNF5BMl5BanBnXkFtZTgwOTA3OTE4MDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.3/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "73%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "68/100"
+        }
+      ],
+      "Metascore": "68",
+      "imdbRating": "6.3",
+      "imdbVotes": "292,611",
+      "imdbID": "tt2004420",
+      "Type": "movie",
+      "DVD": "01 Oct 2015",
+      "BoxOffice": "$150,157,400",
+      "Production": "Good Universe, Point Grey",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "title": "Night Gallery (1969 - 1973)",
@@ -415,7 +1295,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.0/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Night Gallery",
+      "Year": "1969–1973",
+      "Rated": "TV-PG",
+      "Released": "08 Nov 1969",
+      "Runtime": "50 min",
+      "Genre": "Drama, Fantasy, Horror",
+      "Director": "N/A",
+      "Writer": "Rod Serling",
+      "Actors": "Rod Serling, Larry Watson, Joanna Pettet",
+      "Plot": "Rod Serling presents tales of horror illustrated in various paintings.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 2 Primetime Emmys. 1 win & 3 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjNmZTM2ZmItNjE3NS00OWJmLWE0MjUtZjgxNzQ2NjYyNWY2XkEyXkFqcGdeQXVyNjg2NjQwMDQ@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "4,908",
+      "imdbID": "tt0065327",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    }
   },
   {
     "title": "Normal People (2020)",
@@ -428,7 +1337,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.5/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Normal People",
+      "Year": "2020",
+      "Rated": "TV-14",
+      "Released": "29 Apr 2020",
+      "Runtime": "339 min",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Daisy Edgar-Jones, Paul Mescal, Desmond Eastwood",
+      "Plot": "Follows Marianne and Connell, from different backgrounds but the same small town in Ireland, as they weave in and out of each other's romantic lives.",
+      "Language": "English",
+      "Country": "Ireland, United Kingdom, United States",
+      "Awards": "Nominated for 4 Primetime Emmys. 8 wins & 44 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzMzYmRiNGEtMDg5OC00OGZmLWFmNDktYzRlZTFkZmZiMjAzXkEyXkFqcGdeQXVyMTE2OTE2MzE1._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "45,939",
+      "imdbID": "tt9059760",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Palm Springs (2020)",
@@ -449,7 +1387,47 @@
         "Source": "Metacritic",
         "Value": "83/100"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Palm Springs",
+      "Year": "2020",
+      "Rated": "R",
+      "Released": "10 Jul 2020",
+      "Runtime": "90 min",
+      "Genre": "Comedy, Fantasy, Mystery",
+      "Director": "Max Barbakow",
+      "Writer": "Andy Siara, Max Barbakow",
+      "Actors": "Andy Samberg, Cristin Milioti, J.K. Simmons",
+      "Plot": "Stuck in a time loop, two wedding guests develop a budding romance while living the same day over and over again.",
+      "Language": "English",
+      "Country": "United States, Hong Kong",
+      "Awards": "14 wins & 43 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjk0MTgzMmQtZmY2My00NmE5LWExNGUtYjZkNTA3ZDkyMTJiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "95%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "83/100"
+        }
+      ],
+      "Metascore": "83",
+      "imdbRating": "7.4",
+      "imdbVotes": "115,459",
+      "imdbID": "tt9484998",
+      "Type": "movie",
+      "DVD": "10 Jul 2020",
+      "BoxOffice": "$164,000",
+      "Production": "Limelight, The Lonely Island, Culmination Productions, Party Over Here",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "title": "Parks and Recreation (2009 - 2015)",
@@ -462,7 +1440,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.6/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Parks and Recreation",
+      "Year": "2009–2020",
+      "Rated": "TV-14",
+      "Released": "09 Apr 2009",
+      "Runtime": "22 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Greg Daniels, Michael Schur",
+      "Actors": "Amy Poehler, Jim O'Heir, Nick Offerman",
+      "Plot": "The absurd antics of an Indiana town's public officials as they pursue sundry projects to make their city a better place.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 14 Primetime Emmys. 25 wins & 147 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA5MjUxNDgwNF5BMl5BanBnXkFtZTgwMDI5NjMwNDE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.6/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.6",
+      "imdbVotes": "224,346",
+      "imdbID": "tt1266020",
+      "Type": "series",
+      "totalSeasons": "7",
+      "Response": "True"
+    }
   },
   {
     "title": "Pen15 (2019 - present)",
@@ -475,7 +1482,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.0/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "PEN15",
+      "Year": "2019–",
+      "Rated": "TV-MA",
+      "Released": "08 Feb 2019",
+      "Runtime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Maya Erskine, Anna Konkle, Sam Zvibleman",
+      "Actors": "Maya Erskine, Anna Konkle, Melora Walters",
+      "Plot": "The comedic story of middle school seen through the eyes of two 7th grade girls dealing with the awkwardness of being a teenager.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Primetime Emmy. 1 win & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYjY2Njc3ZjUtMjk5ZS00YWZhLTkzOTYtOGUzYWJhOWNiZDg4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "6,807",
+      "imdbID": "tt8324422",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "Perry Mason (2020)",
@@ -488,7 +1524,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.5/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Perry Mason",
+      "Year": "2020–",
+      "Rated": "TV-MA",
+      "Released": "21 Jun 2020",
+      "Runtime": "60 min",
+      "Genre": "Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Ron Fitzgerald, Rolin Jones",
+      "Actors": "Matthew Rhys, Juliet Rylance, Chris Chalk",
+      "Plot": "In booming 1932 Los Angeles, a down-and-out defense attorney takes on the case of a lifetime.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 10 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDllMWRjNWMtM2U3Ny00YjAwLTlhNTgtOThjZTc2YmI2ZmRmXkEyXkFqcGdeQXVyODkzNTgxMDg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "15,682",
+      "imdbID": "tt2077823",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Queens of Mystery (2019 - present)",
@@ -501,7 +1566,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.4/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Queens of Mystery",
+      "Year": "2019–",
+      "Rated": "TV-14",
+      "Released": "08 Apr 2019",
+      "Runtime": "45 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Julian Unthank",
+      "Actors": "Julie Graham, Siobhan Redmond, Martin Trenaman",
+      "Plot": "Three crime-writing sisters and their 28-year old niece use their extensive knowledge of crime to solve whodunit style murders in the picturesque English village of Wildemarsh.",
+      "Language": "English",
+      "Country": "United Kingdom",
+      "Awards": "Nominated for 1 Primetime Emmy. 4 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTc4Mjg3M2YtMzZlZi00MzE0LThkNTEtMmE4MTRhNzZlZjRmXkEyXkFqcGdeQXVyODc5Mjc4Nzg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "1,050",
+      "imdbID": "tt8974594",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Queer Eye (2018 - present)",
@@ -514,7 +1608,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.5/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Queer Eye",
+      "Year": "2018–",
+      "Rated": "TV-14",
+      "Released": "07 Feb 2018",
+      "Runtime": "45 min",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Bobby Berk, Karamo Brown, Tan France",
+      "Plot": "A new Fab Five set out to Atlanta to help some of the city's people refine their wardrobes, grooming, diet, cultural pursuits, and home décor.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 8 Primetime Emmys. 16 wins & 32 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTU2ZTE0M2MtMzE4ZC00NWJmLWJjZGYtOTRmYWVmMDY0N2Q4XkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "15,892",
+      "imdbID": "tt7259746",
+      "Type": "series",
+      "totalSeasons": "5",
+      "Response": "True"
+    }
   },
   {
     "title": "Ratched (2020)",
@@ -527,7 +1650,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.3/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Ratched",
+      "Year": "2020–",
+      "Rated": "TV-MA",
+      "Released": "18 Sep 2020",
+      "Runtime": "N/A",
+      "Genre": "Crime, Drama, Mystery, Thriller",
+      "Director": "N/A",
+      "Writer": "Ryan Murphy, Evan Romansky",
+      "Actors": "Sarah Paulson, Finn Wittrock, Cynthia Nixon, Judy Davis",
+      "Plot": "In 1947, Mildred Ratched begins working as a nurse at a leading psychiatric hospital. But beneath her stylish exterior lurks a growing darkness.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 7 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMDJiZGE5NzYtZGU3Zi00NDQwLWFhMjAtNTM0MDM2ZTljMjAzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "43,477",
+      "imdbID": "tt7423538",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "RuPaul’s Drag Race (2009 - present)",
@@ -540,7 +1692,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.4/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "RuPaul's Drag Race",
+      "Year": "2009–",
+      "Rated": "TV-14",
+      "Released": "02 Feb 2009",
+      "Runtime": "63 min",
+      "Genre": "Game-Show, Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "RuPaul, Michelle Visage, Santino Rice",
+      "Plot": "RuPaul searches for America's next drag superstar.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 19 Primetime Emmys. 44 wins & 70 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTcxOTg2ZTYtNWFlYi00YmJiLTgyNDMtMjUyYWE3Mzg2ZTYxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.4",
+      "imdbVotes": "16,401",
+      "imdbID": "tt1353056",
+      "Type": "series",
+      "totalSeasons": "13",
+      "Response": "True"
+    }
   },
   {
     "title": "Ruth &amp; Erica (2012, Youtube)",
@@ -553,7 +1734,39 @@
         "Source": "Internet Movie Database",
         "Value": "6.4/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Ruth",
+      "Year": "2018",
+      "Rated": "N/A",
+      "Released": "03 May 2018",
+      "Runtime": "120 min",
+      "Genre": "Biography, Romance",
+      "Director": "António Pinhão Botelho",
+      "Writer": "Leonor Pinhão",
+      "Actors": "Igor Regalla, Afonso Lagarto, Almeno Gonçalves",
+      "Plot": "The story of how football (soccer) superstar Eusébio, arrives in Lisbon from Mozambique to find himself involved in a sports rivalry older than the \"Roman Right\". Set in 1960/61, a tumultuous year for Portugal and it's fascist regime",
+      "Language": "Portuguese, English",
+      "Country": "Portugal",
+      "Awards": "2 wins & 4 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTBlMzQ5ZTAtYTI4MC00ZDAzLTg3OGEtNDZlYTBjNzhjODA5XkEyXkFqcGdeQXVyNjg1NTY4MA@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.4",
+      "imdbVotes": "225",
+      "imdbID": "tt6697640",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "title": "Santa Clarita Diet (2017 - 2019)",
@@ -566,7 +1779,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.8/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Santa Clarita Diet",
+      "Year": "2017–2019",
+      "Rated": "TV-MA",
+      "Released": "03 Feb 2017",
+      "Runtime": "30 min",
+      "Genre": "Comedy, Horror",
+      "Director": "N/A",
+      "Writer": "Victor Fresco",
+      "Actors": "Drew Barrymore, Timothy Olyphant, Liv Hewson, Skyler Gisondo",
+      "Plot": "Sheila and Joel are married real estate agents in Santa Clarita, California. When Sheila dies, their lives take a dark turn.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "5 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNTIwMDkzNTMwMF5BMl5BanBnXkFtZTgwNDA4MjI2NzM@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "59,271",
+      "imdbID": "tt5580540",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    }
   },
   {
     "title": "Say I Do (2020)",
@@ -579,7 +1821,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.8/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Say I Do",
+      "Year": "2020–",
+      "Rated": "TV-14",
+      "Released": "01 Jul 2020",
+      "Runtime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jeremiah Brent, Thai Nguyen, Gabriele Bertaccini",
+      "Plot": "In this reality show, couples overcome obstacles to celebrate their love in surprise dream weddings designed by three experts in less than a week.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMWMyMjY1ZTgtZGI5OC00MTM0LWJlYjktZjdkZjY3YmM1Y2NjXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "438",
+      "imdbID": "tt12540060",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    }
   },
   {
     "title": "Schitt’s Creek (2015 - 2020)",
@@ -592,7 +1863,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.5/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Schitt's Creek",
+      "Year": "2015–2020",
+      "Rated": "TV-14",
+      "Released": "11 Feb 2015",
+      "Runtime": "22 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Dan Levy, Eugene Levy",
+      "Actors": "Eugene Levy, Catherine O'Hara, Dan Levy",
+      "Plot": "When rich video-store magnate Johnny Rose and his family suddenly find themselves broke, they are forced to leave their pampered lives to regroup in Schitt's Creek.",
+      "Language": "English",
+      "Country": "Canada, United States",
+      "Awards": "Won 9 Primetime Emmys. 108 wins & 158 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNWQ1ZmM3MTQtNTVhZC00MWVlLWI5ZjgtYmZiYWQxZjUzZWM0XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.5",
+      "imdbVotes": "87,074",
+      "imdbID": "tt3526078",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    }
   },
   {
     "title": "Scrubs (2001 - 2010)",
@@ -605,7 +1905,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.3/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Scrubs",
+      "Year": "2001–2010",
+      "Rated": "TV-14",
+      "Released": "02 Oct 2001",
+      "Runtime": "22 min",
+      "Genre": "Comedy, Drama",
+      "Director": "N/A",
+      "Writer": "Bill Lawrence",
+      "Actors": "Donald Faison, John C. McGinley, Ken Jenkins, Zach Braff",
+      "Plot": "In the unreal world of Sacred Heart Hospital, intern John \"J.D.\" Dorian learns the ways of medicine, friendship and life.",
+      "Language": "English, German, Spanish, American Sign Language",
+      "Country": "USA",
+      "Awards": "Won 2 Primetime Emmys. Another 31 wins & 135 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODE1MGVjZjMtODc5My00ODBjLTg0NWItMDllNTNlM2Y3ZGYyXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.3",
+      "imdbVotes": "240,934",
+      "imdbID": "tt0285403",
+      "Type": "series",
+      "totalSeasons": "9",
+      "Response": "True"
+    }
   },
   {
     "title": "Self Made: Inspired By The Life Of Madam C.J. Walker (2020)",
@@ -618,7 +1947,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.3/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Self Made: Inspired by the Life of Madam C.J. Walker",
+      "Year": "2020",
+      "Rated": "TV-MA",
+      "Released": "20 Mar 2020",
+      "Runtime": "191 min",
+      "Genre": "Biography, Drama, History",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Octavia Spencer, Tiffany Haddish, Carmen Ejogo",
+      "Plot": "The inspiring story of trailblazing African American entrepreneur Madam C.J. Walker who built a haircare empire that made her America's first female self-made millionaire.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Primetime Emmy. 4 wins & 9 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGRkM2FjNDktOTI0Yi00MjJlLWI4NjAtZjU4NmMyOGM2MmI3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "9,917",
+      "imdbID": "tt8771910",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Sesame Street (1969 - present)",
@@ -631,7 +1989,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.1/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Sesame Street",
+      "Year": "1969–",
+      "Rated": "TV-Y",
+      "Released": "21 Jul 1969",
+      "Runtime": "55 min",
+      "Genre": "Animation, Adventure, Comedy",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jim Henson, Frank Oz, Caroll Spinney",
+      "Plot": "On a special inner city street, the inhabitants, human and muppet, teach preschool subjects with comedy, cartoons, games, and songs.",
+      "Language": "English, Spanish, American Sign ",
+      "Country": "United States",
+      "Awards": "Won 6 Primetime Emmys. 233 wins & 320 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BODM4NDI3OTcxN15BMl5BanBnXkFtZTgwNjc3MjIwMTI@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.1",
+      "imdbVotes": "12,401",
+      "imdbID": "tt0063951",
+      "Type": "series",
+      "totalSeasons": "50",
+      "Response": "True"
+    }
   },
   {
     "title": "She-Ra and the Princesses of Power (2018)",
@@ -644,7 +2031,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.9/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "She-Ra and the Princesses of Power",
+      "Year": "2018–2020",
+      "Rated": "TV-Y7-FV",
+      "Released": "13 Nov 2018",
+      "Runtime": "30 min",
+      "Genre": "Animation, Action, Adventure, Comedy, Drama, Family, Fantasy, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Noelle Stevenson",
+      "Actors": "Aimee Carrero, Marcus Scribner, Karen Fukuhara, AJ Michalka",
+      "Plot": "She-Ra, Princess of Power, leads a rebellion to free her land of Etheria from the monstrous invaders the Horde.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win & 10 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNGIzOGQxZDEtOTVhNC00YzgyLWE2ZjItNDM5YjQ0MTZlZTUwXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "11,340",
+      "imdbID": "tt7745956",
+      "Type": "series",
+      "totalSeasons": "5",
+      "Response": "True"
+    }
   },
   {
     "title": "Shrill (2019 - present)",
@@ -657,7 +2073,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.4/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Shrill",
+      "Year": "2019–2021",
+      "Rated": "TV-MA",
+      "Released": "15 Mar 2019",
+      "Runtime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Aidy Bryant, Alexandra Rushfield, Lindy West",
+      "Actors": "Aidy Bryant, Lolly Adefope, John Cameron Mitchell, Ian Owens",
+      "Plot": "A woman seeks out ways to change her life without changing her body.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "2 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZDFlZGQ5ZjQtOGY0MC00ZjJiLWE4NTEtZWZlYTdlZjQ0ZTkwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "6,206",
+      "imdbID": "tt8962130",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    }
   },
   {
     "title": "Skin Decision: Before &amp; After (2020)",
@@ -670,10 +2115,48 @@
         "Source": "Internet Movie Database",
         "Value": "5.8/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Skin Decision: Before and After",
+      "Year": "2020–",
+      "Rated": "N/A",
+      "Released": "15 Jul 2020",
+      "Runtime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Jamie Sherrill, Katrina M. Goodwin",
+      "Plot": "Skin and beauty expert Nurse Jamie and plastic surgeon Dr. Sheila Nazarian use the latest procedures to bring out their clients' best selves.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNjNkNjIyN2ItM2RmOS00MzJlLTg5YWQtOTRjMDdkNjBjNzVmXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "5.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "5.8",
+      "imdbVotes": "338",
+      "imdbID": "tt12588326",
+      "Type": "series",
+      "totalSeasons": "N/A",
+      "Response": "True"
+    }
   },
   {
-    "title": "Some Good News with John Kraskinsi (2020)"
+    "title": "Some Good News with John Kraskinsi (2020)",
+    "movieTitle": "Some Good News with John Kraskinsi",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": [],
+    "result": {
+      "Response": "False",
+      "Error": "Movie not found!"
+    }
   },
   {
     "title": "Stay Here (2018)",
@@ -686,7 +2169,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.5/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Stay Here",
+      "Year": "2018–",
+      "Rated": "TV-PG",
+      "Released": "17 Aug 2018",
+      "Runtime": "N/A",
+      "Genre": "Reality-TV",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "Genevieve Gorder, Peter Lorimer",
+      "Plot": "Designer Genevieve Gorder and real estate expert Peter Lorimer show property owners how to turn their short-term rentals into moneymaking showstoppers.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzY0NDg3MDYtM2Y5MC00ZGU0LWE4MDgtOWQ5OWE4YTJmNmFkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "973",
+      "imdbID": "tt8773338",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Superstore (2015 - 2021)",
@@ -699,7 +2211,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.8/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Superstore",
+      "Year": "2015–2021",
+      "Rated": "TV-14",
+      "Released": "30 Nov 2015",
+      "Runtime": "22 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Justin Spitzer",
+      "Actors": "Ben Feldman, Lauren Ash, Colton Dunn",
+      "Plot": "A look at the lives of employees at a big box store.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins & 15 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzM2OWM1MTUtNmNhYy00ZDJlLTgyYWQtOWY3ZmVjYjNiN2U4XkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "34,514",
+      "imdbID": "tt4477976",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    }
   },
   {
     "title": "Sweet Magnolias (2020)",
@@ -712,7 +2253,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.4/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Sweet Magnolias",
+      "Year": "2020–",
+      "Rated": "TV-14",
+      "Released": "19 May 2020",
+      "Runtime": "N/A",
+      "Genre": "Drama, Romance",
+      "Director": "N/A",
+      "Writer": "Sheryl J. Anderson",
+      "Actors": "JoAnna Garcia Swisher, Brooke Elliott, Heather Headley, Anneliese Judge",
+      "Plot": "Three South Carolina women, best friends since high school, shepherd one another through the complexities of romance, career, and family.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 win.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BZjBmNTI2ZDEtOThhMy00OTkyLTg5Y2ItMTUxMzU4NWI1MzhhXkEyXkFqcGdeQXVyODc0OTEyNDU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "9,616",
+      "imdbID": "tt9077540",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Ted Lasso (2020)",
@@ -725,7 +2295,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.7/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Ted Lasso",
+      "Year": "2020–",
+      "Rated": "TV-MA",
+      "Released": "14 Aug 2020",
+      "Runtime": "30 min",
+      "Genre": "Comedy, Drama, Sport",
+      "Director": "N/A",
+      "Writer": "Brendan Hunt, Joe Kelly, Bill Lawrence, Jason Sudeikis",
+      "Actors": "Jason Sudeikis, Hannah Waddingham, Brendan Hunt, Jeremy Swift",
+      "Plot": "Follows U.S. American football coach Ted Lasso who heads to the U.K. to manage a struggling London football team in the top flight of English football.",
+      "Language": "English",
+      "Country": "USA, UK",
+      "Awards": "12 wins & 14 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BY2MxYjVlNzAtMDdhOS00N2U2LThlYWQtN2MwMWJjYjFhYzM5XkEyXkFqcGdeQXVyMTAwMzM3NDI3._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.7/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.7",
+      "imdbVotes": "56,522",
+      "imdbID": "tt10986410",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "That Girl (1966 - 1971)",
@@ -738,7 +2337,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.1/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "That Girl",
+      "Year": "1966–1971",
+      "Rated": "TV-PG",
+      "Released": "N/A",
+      "Runtime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Sam Denoff, Bill Persky",
+      "Actors": "Marlo Thomas, Ted Bessell, Lew Parker",
+      "Plot": "An aspiring actress moves from her hometown of Brewster, New York, to try to make it big in New York City, having to take several offbeat \"temp\" jobs to support herself in between her various auditions and bit parts.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 7 Primetime Emmys. 3 wins & 10 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjA2OTQ2ODgwM15BMl5BanBnXkFtZTcwMjAyMTYzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "2,289",
+      "imdbID": "tt0060034",
+      "Type": "series",
+      "totalSeasons": "5",
+      "Response": "True"
+    }
   },
   {
     "title": "The Equalizer (2021)",
@@ -759,7 +2387,47 @@
         "Source": "Metacritic",
         "Value": "57/100"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Equalizer",
+      "Year": "2014",
+      "Rated": "R",
+      "Released": "26 Sep 2014",
+      "Runtime": "132 min",
+      "Genre": "Action, Crime, Thriller",
+      "Director": "Antoine Fuqua",
+      "Writer": "Richard Wenk, Michael Sloan (based on the television series created by), Richard Lindheim (based on the television series created by)",
+      "Actors": "Denzel Washington, Marton Csokas, Chloë Grace Moretz, David Harbour",
+      "Plot": "A man who believes he has put his mysterious past behind him cannot stand idly by when he meets a young girl under the control of ultra-violent Russian gangsters.",
+      "Language": "English, Russian, Spanish",
+      "Country": "USA",
+      "Awards": "1 win & 9 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTQ2MzE2NTk0NF5BMl5BanBnXkFtZTgwOTM3NTk1MjE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "60%"
+        },
+        {
+          "Source": "Metacritic",
+          "Value": "57/100"
+        }
+      ],
+      "Metascore": "57",
+      "imdbRating": "7.2",
+      "imdbVotes": "342,525",
+      "imdbID": "tt0455944",
+      "Type": "movie",
+      "DVD": "28 Jun 2016",
+      "BoxOffice": "$101,530,738",
+      "Production": "Escape Artists, Mace Neufeld Productions, Zhiv",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "title": "The Facts of Life (1979 - 1988)",
@@ -772,10 +2440,48 @@
         "Source": "Internet Movie Database",
         "Value": "6.8/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Facts of Life",
+      "Year": "1979–1988",
+      "Rated": "TV-PG",
+      "Released": "24 Aug 1979",
+      "Runtime": "30 min",
+      "Genre": "Comedy, Family",
+      "Director": "N/A",
+      "Writer": "Dick Clair, Howard Leeds, Jerry Mayer, Jenna McMahon, Ben Starr",
+      "Actors": "Lisa Whelchel, Kim Fields, Mindy Cohn, Nancy McKeon",
+      "Plot": "Mrs. Edna Garrett, the Drummonds' former housekeeper, teaches a group of girls at a boarding school how to tackle issues throughout teenage life and later adulthood.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 3 Primetime Emmys. Another 6 wins & 14 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzA0Nzk1Nl5BMl5BanBnXkFtZTcwNzY4NjYzMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.8",
+      "imdbVotes": "6,281",
+      "imdbID": "tt0078610",
+      "Type": "series",
+      "totalSeasons": "9",
+      "Response": "True"
+    }
   },
   {
-    "title": "The Fitness Marshall (2015 - present, Youtube)"
+    "title": "The Fitness Marshall (2015 - present, Youtube)",
+    "movieTitle": "The Fitness Marshall",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": [],
+    "result": {
+      "Response": "False",
+      "Error": "Movie not found!"
+    }
   },
   {
     "title": "The Flight Attendant (2020)",
@@ -788,7 +2494,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.1/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Flight Attendant",
+      "Year": "2020–",
+      "Rated": "TV-MA",
+      "Released": "18 Nov 2020",
+      "Runtime": "N/A",
+      "Genre": "Comedy, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Steve Yockey",
+      "Actors": "Kaley Cuoco, Michiel Huisman, Zosia Mamet",
+      "Plot": "A reckless flight attendant with an alcoholism problem wakes up in the wrong hotel, in the wrong bed, with a dead man - and no idea what happened. Unable to piece the night together, she begins to wonder if she could be the killer.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "3 wins & 15 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BN2U5Y2NiMDgtNDg4NS00ZTU2LWFlMmQtMjA5YjBkNDg4NGQ5XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.1/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.1",
+      "imdbVotes": "31,574",
+      "imdbID": "tt7569576",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "The Fresh Prince Of Bel Air (1990 - 1996)",
@@ -801,13 +2536,60 @@
         "Source": "Internet Movie Database",
         "Value": "7.9/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Fresh Prince of Bel-Air",
+      "Year": "1990–1996",
+      "Rated": "TV-PG",
+      "Released": "10 Sep 1990",
+      "Runtime": "22 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Andy Borowitz, Susan Borowitz",
+      "Actors": "Will Smith, James Avery, Alfonso Ribeiro",
+      "Plot": "A streetwise, poor young man from Philadelphia is sent by his mother to live with his aunt, uncle and cousins in their Bel-Air mansion.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Nominated for 1 Primetime Emmy. 14 wins & 26 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOGUxOWQ4MzAtMmJjYS00M2U5LWEwZTAtYTc1YmZhNjg2NDRlXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.9/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.9",
+      "imdbVotes": "123,980",
+      "imdbID": "tt0098800",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    }
   },
   {
-    "title": "The Ghost Whisperer (2005 - 2010)"
+    "title": "The Ghost Whisperer (2005 - 2010)",
+    "movieTitle": "The Ghost Whisperer",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": [],
+    "result": {
+      "Response": "False",
+      "Error": "Movie not found!"
+    }
   },
   {
-    "title": "The Imagination Library Presents Goodnight with Dolly (2020)"
+    "title": "The Imagination Library Presents Goodnight with Dolly (2020)",
+    "movieTitle": "The Imagination Library Presents Goodnight with Dolly",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": [],
+    "result": {
+      "Response": "False",
+      "Error": "Movie not found!"
+    }
   },
   {
     "title": "The Jetsons (1962 - 1963)",
@@ -820,7 +2602,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.0/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Jetsons",
+      "Year": "1962–1963",
+      "Rated": "TV-Y7",
+      "Released": "23 Sep 1962",
+      "Runtime": "25 min",
+      "Genre": "Animation, Comedy, Family",
+      "Director": "N/A",
+      "Writer": "N/A",
+      "Actors": "George O'Hanlon, Janet Waldo, Mel Blanc",
+      "Plot": "The misadventures of a futuristic family.",
+      "Language": "English, Japanese",
+      "Country": "United States",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BYmIwY2I1ZGEtYzI3Mi00OTYwLWJkZjktNDQxMDlhMzM3MmU2XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.0",
+      "imdbVotes": "19,242",
+      "imdbID": "tt0055683",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    }
   },
   {
     "title": "The Letdown (2017-2019)",
@@ -833,7 +2644,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.5/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Letdown",
+      "Year": "2017–",
+      "Rated": "N/A",
+      "Released": "25 Oct 2017",
+      "Runtime": "30 min",
+      "Genre": "Comedy",
+      "Director": "N/A",
+      "Writer": "Alison Bell, Sarah Scheller",
+      "Actors": "Alison Bell, Duncan Fellows, Leon Ford",
+      "Plot": "Audrey is determined not to be defined by motherhood. In theory, this seems fairly easy. In practice, her career-focused husband, self-obsessed mother, and fancy-free best friend make it damn-near impossible.",
+      "Language": "English",
+      "Country": "Australia",
+      "Awards": "3 wins & 6 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNDljZTljNWItZmEzMi00ODY3LTlkMjAtNTI3YzI2YWU5OGM0XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.5/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.5",
+      "imdbVotes": "2,862",
+      "imdbID": "tt7320300",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "The Mary Tyler Moore Show (1970 - 1977)",
@@ -846,7 +2686,39 @@
         "Source": "Internet Movie Database",
         "Value": "7.8/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "She Turned the World on with Her Smile: The Making of 'The Mary Tyler Moore Show'",
+      "Year": "2002",
+      "Rated": "N/A",
+      "Released": "24 Sep 2002",
+      "Runtime": "88 min",
+      "Genre": "Comedy, Documentary",
+      "Director": "Matthew Asner, Danny Gold",
+      "Writer": "Matthew Asner, Danny Gold",
+      "Actors": "Edward Asner, Reza Badiyi, James L. Brooks, Allan Burns",
+      "Plot": "A documentary about the making of the classic TV sitcom \"The Mary Tyler Moore Show,\" with scenes from of the more classic episodes, and interviews with members of the cast and crew.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "N/A",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "24",
+      "imdbID": "tt0323946",
+      "Type": "movie",
+      "DVD": "N/A",
+      "BoxOffice": "N/A",
+      "Production": "N/A",
+      "Website": "N/A",
+      "Response": "True"
+    }
   },
   {
     "title": "The Munsters (1964 - 1966)",
@@ -859,7 +2731,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.8/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Munsters",
+      "Year": "1964–1966",
+      "Rated": "TV-PG",
+      "Released": "24 Sep 1964",
+      "Runtime": "30 min",
+      "Genre": "Comedy, Family, Fantasy",
+      "Director": "N/A",
+      "Writer": "Ed Haas, Norm Liebmann",
+      "Actors": "Fred Gwynne, Al Lewis, Yvonne De Carlo",
+      "Plot": "A family of friendly monsters have misadventures, never quite understanding why people react to them so strangely.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "5 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMTU2NjY3MDIzMV5BMl5BanBnXkFtZTcwNzMzMjYyMQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.8/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.8",
+      "imdbVotes": "12,917",
+      "imdbID": "tt0057773",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "The Orville (2017 - present)",
@@ -872,7 +2773,36 @@
         "Source": "Internet Movie Database",
         "Value": "8.0/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Orville",
+      "Year": "2017–",
+      "Rated": "TV-14",
+      "Released": "10 Sep 2017",
+      "Runtime": "44 min",
+      "Genre": "Adventure, Comedy, Drama, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Seth MacFarlane",
+      "Actors": "Seth MacFarlane, Adrianne Palicki, Penny Johnson Jerald, Scott Grimes",
+      "Plot": "An exploratory ship from Earth faces intergalactic challenges 400 years in the future.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "Nominated for 1 Primetime Emmy. Another 3 wins & 11 nominations.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzBkZGM1OTQtYmIyNi00ZjM4LWJlNGItNGM0ZWVhODU3YWVlXkEyXkFqcGdeQXVyNzY3NzAzOTA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.0/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.0",
+      "imdbVotes": "60,886",
+      "imdbID": "tt5691552",
+      "Type": "series",
+      "totalSeasons": "3",
+      "Response": "True"
+    }
   },
   {
     "title": "The Prisoner (1967)",
@@ -889,7 +2819,40 @@
         "Source": "Rotten Tomatoes",
         "Value": "37%"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Prisoner",
+      "Year": "1967–1968",
+      "Rated": "TV-PG",
+      "Released": "01 Jun 1968",
+      "Runtime": "50 min",
+      "Genre": "Drama, Mystery, Sci-Fi",
+      "Director": "N/A",
+      "Writer": "Patrick McGoohan",
+      "Actors": "Patrick McGoohan, Angelo Muscat, Peter Swanwick",
+      "Plot": "After resigning, a secret agent is abducted and taken to what looks like an idyllic village, but is really a bizarre prison. His warders demand information. He gives them nothing, but only tries to escape.",
+      "Language": "Russian, German, Romany, Spanish, French, Polish",
+      "Country": "UK",
+      "Awards": "1 win & 1 nomination",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyMDk0NTMxNV5BMl5BanBnXkFtZTgwNTA2NTQxMTE@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "8.4/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "37%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "8.4",
+      "imdbVotes": "12,586",
+      "imdbID": "tt0061287",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "The Undoing (2020)",
@@ -902,7 +2865,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.4/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Undoing",
+      "Year": "2020",
+      "Rated": "TV-MA",
+      "Released": "25 Oct 2020",
+      "Runtime": "337 min",
+      "Genre": "Crime, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "David E. Kelley",
+      "Actors": "Nicole Kidman, Hugh Grant, Noah Jupe",
+      "Plot": "A modern twist to a classical \"whodunnit\" tale, when the life of a wealthy New York therapist turns upside down after she and her family get involved with a murder case.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "1 win & 21 nominations",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BNzY5YTcxMWYtYjFkZi00ZmI3LThmYjgtMzY0YjQzZWFkNzQ4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.4/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.4",
+      "imdbVotes": "69,866",
+      "imdbID": "tt8134470",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "The Unicorn (2019)",
@@ -915,7 +2907,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.2/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Unicorn",
+      "Year": "2019–2021",
+      "Rated": "TV-PG",
+      "Released": "26 Sep 2019",
+      "Runtime": "22 min",
+      "Genre": "Comedy, Drama, Family, Romance",
+      "Director": "N/A",
+      "Writer": "Grady Cooper, Bill Martin, Mike Schiff",
+      "Actors": "Walton Goggins, Rob Corddry, Omar Benson Miller, Maya Lynne Robinson",
+      "Plot": "A widower is eager to move on from the most difficult year of his life, only to realize he's utterly unprepared to raise his two daughters on his own and equally unprepared for the dating world where he's suddenly a hot commodity.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMjMyZTdlNjAtODZmOC00OGI2LTliOWEtNThmYjNiN2E2Njk2XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.2/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.2",
+      "imdbVotes": "3,586",
+      "imdbID": "tt10329028",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True"
+    }
   },
   {
     "title": "The Wilds (2020)",
@@ -928,7 +2949,36 @@
         "Source": "Internet Movie Database",
         "Value": "7.3/10"
       }
-    ]
+    ],
+    "result": {
+      "Title": "The Wilds",
+      "Year": "2020–",
+      "Rated": "TV-14",
+      "Released": "11 Dec 2020",
+      "Runtime": "N/A",
+      "Genre": "Adventure, Drama, Mystery",
+      "Director": "N/A",
+      "Writer": "Sarah Streicher",
+      "Actors": "Sophia Ali, Shannon Berry, Jenna Clause, Reign Edwards",
+      "Plot": "A group of teens must survive after a crash leaves them stranded. There's just one twist to this thrilling drama - these girls did not end up on this island by accident.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BMzgzZDA2NmEtZTAwZi00ZTY3LWFiYTktNTdjYTBkNTY1N2E4XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "7.3/10"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "7.3",
+      "imdbVotes": "11,740",
+      "imdbID": "tt8633062",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True"
+    }
   },
   {
     "title": "Xena: Warrior Princess (1995 - 2001)",
@@ -945,6 +2995,39 @@
         "Source": "Rotten Tomatoes",
         "Value": "63%"
       }
-    ]
+    ],
+    "result": {
+      "Title": "Xena: Warrior Princess",
+      "Year": "1995–2001",
+      "Rated": "TV-PG",
+      "Released": "04 Sep 1995",
+      "Runtime": "45 min",
+      "Genre": "Action, Adventure, Drama",
+      "Director": "N/A",
+      "Writer": "Sam Raimi, John Schulian, R.J. Stewart",
+      "Actors": "Lucy Lawless, Renée O'Connor, Ted Raimi",
+      "Plot": "Xena, a mighty Warrior Princess with a dark past, sets out to redeem herself. She is joined by small town bard, Gabrielle. Together they journey the ancient world and fight for the greater good against ruthless Warlords and Gods.",
+      "Language": "English",
+      "Country": "United States",
+      "Awards": "Won 1 Primetime Emmy. 9 wins & 34 nominations total",
+      "Poster": "https://m.media-amazon.com/images/M/MV5BOTdkYjA4YzAtMjNiZS00OTgyLTg5Y2ItNGIwZGQyMTUzNzFiXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+      "Ratings": [
+        {
+          "Source": "Internet Movie Database",
+          "Value": "6.7/10"
+        },
+        {
+          "Source": "Rotten Tomatoes",
+          "Value": "63%"
+        }
+      ],
+      "Metascore": "N/A",
+      "imdbRating": "6.7",
+      "imdbVotes": "42,417",
+      "imdbID": "tt0112230",
+      "Type": "series",
+      "totalSeasons": "6",
+      "Response": "True"
+    }
   }
 ]
