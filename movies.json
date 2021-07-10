@@ -1,6 +1,10 @@
 [
   {
-    "title": "10 Cloverfield Lane",
+    "title": "10 Cloverfield Lane (2016)",
+    "movieTitle": "10 Cloverfield Lane",
+    "plot": "After getting in a car accident, a woman is held in a shelter by a man who claims that the outside world is affected by a widespread chemical attack.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjczOTIxMV5BMl5BanBnXkFtZTgwOTUwMjI3NzE@._V1_SX300.jpg",
+    "imdbId": "tt1179933",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -17,7 +21,11 @@
     ]
   },
   {
-    "title": "12 Dates of Christmas",
+    "title": "12 Dates of Christmas (2011)",
+    "movieTitle": "12 Dates of Christmas",
+    "plot": "A story that follows Kate, a young woman who after a horrible blind date on Christmas Eve, wakes up to find she is re-living that same day and date all over again.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2VkN2ZjZTYtZTdjMi00MGQyLTg4ZWMtNzhiNzY5YTQ4ZmZmXkEyXkFqcGdeQXVyMzU5NjU1MDA@._V1_SX300.jpg",
+    "imdbId": "tt1846442",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -30,7 +38,11 @@
     ]
   },
   {
-    "title": "20th Century Women",
+    "title": "20th Century Women (2016)",
+    "movieTitle": "20th Century Women",
+    "plot": "The story of a teenage boy, his mother, and two other women who help raise him among the love and freedom of Southern California of 1979.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkwNDE4NzQwM15BMl5BanBnXkFtZTgwNzQ5Nzg0MDI@._V1_SX300.jpg",
+    "imdbId": "tt4385888",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -47,7 +59,11 @@
     ]
   },
   {
-    "title": "50/50",
+    "title": "50/50 (2011)",
+    "movieTitle": "50/50",
+    "plot": "Inspired by a true story, a comedy centered on a 27-year-old guy who learns of his cancer diagnosis and his subsequent struggle to beat the disease.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjg3ODQyNTIyN15BMl5BanBnXkFtZTcwMjUzNzM5NQ@@._V1_SX300.jpg",
+    "imdbId": "tt1306980",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -64,11 +80,19 @@
     ]
   },
   {
-    "title": "500 Days Of Summer",
+    "title": "500 Days Of Summer (2009)",
+    "movieTitle": "500 Days of Summer, Parody",
+    "plot": "N/A",
+    "poster": "N/A",
+    "imdbId": "tt7621036",
     "ratings": []
   },
   {
-    "title": "About Time",
+    "title": "About Time (2013)",
+    "movieTitle": "About Time",
+    "plot": "At the age of 21, Tim discovers he can travel in time and change what happens and has happened in his own life. His decision to make his world a better place by getting a girlfriend turns out not to be as easy as you might think.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA1ODUzMDA3NzFeQTJeQWpwZ15BbWU3MDgxMTYxNTk@._V1_SX300.jpg",
+    "imdbId": "tt2194499",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -85,7 +109,11 @@
     ]
   },
   {
-    "title": "Abraham Lincoln: Vampire Hunter",
+    "title": "Abraham Lincoln: Vampire Hunter (2012)",
+    "movieTitle": "Abraham Lincoln: Vampire Hunter",
+    "plot": "Abraham Lincoln, the 16th President of the United States, discovers vampires are planning to take over the United States. He makes it his mission to eliminate them.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjY2Mzc0MDA4NV5BMl5BanBnXkFtZTcwOTg5OTcxNw@@._V1_SX300.jpg",
+    "imdbId": "tt1611224",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -102,7 +130,11 @@
     ]
   },
   {
-    "title": "A Christmas Tale",
+    "title": "A Christmas Tale (2008)",
+    "movieTitle": "A Christmas Tale",
+    "plot": "In 1985, in a coastal town, the friends Koldo, Peti, Tito, Eugenio and Moni stumble with a woman dressed like Santa Claus trapped in a hole in the woods. While the boys go to the police ...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWM3ZWY3NzctMGM0MS00MzRkLThkZjMtZWZhMzZhMzhlYjlkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0450827",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -115,7 +147,11 @@
     ]
   },
   {
-    "title": "A Little Chaos",
+    "title": "A Little Chaos (2015)",
+    "movieTitle": "A Little Chaos",
+    "plot": "Two talented landscape artists become romantically entangled while building a garden in King Louis XIV's palace at Versailles.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3Mzg5ODkwM15BMl5BanBnXkFtZTgwNjc3MDMzNTE@._V1_SX300.jpg",
+    "imdbId": "tt2639254",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -132,10 +168,19 @@
     ]
   },
   {
-    "title": "Ali: Fear Eats the Soul"
+    "title": "Ali: Fear Eats the Soul (1974)",
+    "movieTitle": "Ali: Fear Eats the Soul",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "All About Eve",
+    "title": "All About Eve (1950)",
+    "movieTitle": "All About Eve",
+    "plot": "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_SX300.jpg",
+    "imdbId": "tt0042192",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -152,7 +197,11 @@
     ]
   },
   {
-    "title": "Always Be My Maybe",
+    "title": "Always Be My Maybe (2019)",
+    "movieTitle": "Always Be My Maybe",
+    "plot": "Everyone assumed Sasha and Marcus would wind up together except for Sasha and Marcus. Reconnecting after 15 years, the two start to wonder - maybe?",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGM2NWFjYTctZjFiYy00YzIxLThhY2QtY2UxZTNmNjdjZTU0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt7374948",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -169,7 +218,11 @@
     ]
   },
   {
-    "title": "American Graffiti",
+    "title": "American Graffiti (1973)",
+    "movieTitle": "American Graffiti",
+    "plot": "A couple of high school grads spend one final night cruising the strip with their buddies before they go off to college.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5NjM5MjIyNF5BMl5BanBnXkFtZTgwNjg2MTUxMDE@._V1_SX300.jpg",
+    "imdbId": "tt0069704",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -186,7 +239,11 @@
     ]
   },
   {
-    "title": "Amy",
+    "title": "Amy (2015)",
+    "movieTitle": "Amy",
+    "plot": "Archival footage and personal testimonials present an intimate portrait of the life and career of British singer/songwriter Amy Winehouse.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1MzE4MTE3OF5BMl5BanBnXkFtZTgwOTcyNDM3NTE@._V1_SX300.jpg",
+    "imdbId": "tt2870648",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -203,7 +260,11 @@
     ]
   },
   {
-    "title": "A Hard Day’s Night",
+    "title": "A Hard Day’s Night (1964)",
+    "movieTitle": "A Hard Day's Night",
+    "plot": "Over two \"typical\" days in the life of The Beatles, the boys struggle to keep themselves and Sir Paul McCartney's mischievous grandfather in check while preparing for a live television performance.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjQyMGUwNzAtNTc2MC00Y2FjLThlM2ItZGRjNzM0OWVmZGYyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbId": "tt0058182",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -220,10 +281,32 @@
     ]
   },
   {
-    "title": "A Promising Young Woman"
+    "title": "Promising Young Woman (2020)",
+    "movieTitle": "Promising Young Woman",
+    "plot": "A young woman, traumatized by a tragic event in her past, seeks out vengeance against those who crossed her path.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgzMzE4MGItZDgxYS00ZGEwLWE3YTctZWY3ZDAyMTk0ZGU4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt9620292",
+    "ratings": [
+      {
+        "Source": "Internet Movie Database",
+        "Value": "7.5/10"
+      },
+      {
+        "Source": "Rotten Tomatoes",
+        "Value": "90%"
+      },
+      {
+        "Source": "Metacritic",
+        "Value": "73/100"
+      }
+    ]
   },
   {
-    "title": "A Quiet Passion",
+    "title": "A Quiet Passion (2017)",
+    "movieTitle": "A Quiet Passion",
+    "plot": "The story of American poet Emily Dickinson from her early days as a young schoolgirl to her later years as a reclusive, unrecognized artist.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDNhNDg5ZGItMzA2YS00NDRlLWE2NTItNWQ0OGEwZGIyOTc2XkEyXkFqcGdeQXVyNDU0NjMyNTQ@._V1_SX300.jpg",
+    "imdbId": "tt2392830",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -240,7 +323,11 @@
     ]
   },
   {
-    "title": "A Quiet Place",
+    "title": "A Quiet Place (2018)",
+    "movieTitle": "A Quiet Place",
+    "plot": "In a post-apocalyptic world, a family is forced to live in silence while hiding from monsters with ultra-sensitive hearing.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI0MDMzNTQ0M15BMl5BanBnXkFtZTgwMTM5NzM3NDM@._V1_SX300.jpg",
+    "imdbId": "tt6644200",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -257,7 +344,11 @@
     ]
   },
   {
-    "title": "A Room With A View",
+    "title": "A Room With A View (1985)",
+    "movieTitle": "A Room with a View",
+    "plot": "Lucy meets George in a Florence pensione and the two share a brief romance before Lucy returns home, where she becomes engaged to Cecil. However, it isn't long before George unexpectedly enters her life again.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTEyYmE0M2MtZDQ1OC00MGUxLWI4OGMtM2M1ZjIyNDI0Y2Q4XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX300.jpg",
+    "imdbId": "tt0091867",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -274,7 +365,11 @@
     ]
   },
   {
-    "title": "Arrival",
+    "title": "Arrival (2016)",
+    "movieTitle": "Arrival",
+    "plot": "A linguist works with the military to communicate with alien lifeforms after twelve mysterious spacecraft appear around the world.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTExMzU0ODcxNDheQTJeQWpwZ15BbWU4MDE1OTI4MzAy._V1_SX300.jpg",
+    "imdbId": "tt2543164",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -291,7 +386,11 @@
     ]
   },
   {
-    "title": "A Simple Favor",
+    "title": "A Simple Favor (2018)",
+    "movieTitle": "A Simple Favor",
+    "plot": "Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school. When Emily goes missing, Stephanie takes it upon herself to investigate.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjFiMGNiNmItMzNiNi00Mjc1LTg1N2YtNWE2NTE5N2VlZTQ3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt7040874",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -308,7 +407,11 @@
     ]
   },
   {
-    "title": "Atomic Blonde",
+    "title": "Atomic Blonde (2017)",
+    "movieTitle": "Atomic Blonde",
+    "plot": "An undercover MI6 agent is sent to Berlin during the Cold War to investigate the murder of a fellow agent and recover a missing list of double agents.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM5NDYzMzg5N15BMl5BanBnXkFtZTgwOTM2NDU1MjI@._V1_SX300.jpg",
+    "imdbId": "tt2406566",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -325,7 +428,11 @@
     ]
   },
   {
-    "title": "Baby Boom",
+    "title": "Baby Boom (1987)",
+    "movieTitle": "Baby Boom",
+    "plot": "The life of super-yuppie J.C. is thrown into turmoil when she inherits a baby from a distant relative.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4NDY2ODMzOV5BMl5BanBnXkFtZTcwMjQ0MTcyNA@@._V1_SX300.jpg",
+    "imdbId": "tt0092605",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -342,7 +449,11 @@
     ]
   },
   {
-    "title": "Baby Driver",
+    "title": "Baby Driver (2017)",
+    "movieTitle": "Baby Driver",
+    "plot": "After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_SX300.jpg",
+    "imdbId": "tt3890160",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -359,7 +470,11 @@
     ]
   },
   {
-    "title": "Bad Moms",
+    "title": "Bad Moms (2016)",
+    "movieTitle": "Bad Moms",
+    "plot": "When three overworked and under-appreciated moms are pushed beyond their limits, they ditch their conventional responsibilities for a jolt of long overdue freedom, fun and comedic self-indulgence.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIwNzE5MTgwNl5BMl5BanBnXkFtZTgwNjM4OTA0OTE@._V1_SX300.jpg",
+    "imdbId": "tt4651520",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -376,7 +491,11 @@
     ]
   },
   {
-    "title": "Barb and Star Go To Vista Del Mar",
+    "title": "Barb and Star Go To Vista Del Mar (2021)",
+    "movieTitle": "Barb and Star Go to Vista Del Mar",
+    "plot": "Lifelong friends Barb and Star embark on the adventure of a lifetime when they decide to leave their small Midwestern town for the first time - ever.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ2OGU1OTgtYmVhYi00MGIxLTg4MzQtYWFlZjIxYTViOTc4XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg",
+    "imdbId": "tt3797512",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -393,7 +512,11 @@
     ]
   },
   {
-    "title": "Barefoot in the Park",
+    "title": "Barefoot in the Park (1967)",
+    "movieTitle": "Barefoot in the Park",
+    "plot": "Paul, a conservative young lawyer, marries the vivacious Corie. Their highly passionate relationship descends into comical discord in a five-flight New York City walk-up apartment.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjJiNzhkNGYtNDRhNi00NjNjLWJmZGEtOTQ1ZDM2NDM0ODgzXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg",
+    "imdbId": "tt0061385",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -410,7 +533,11 @@
     ]
   },
   {
-    "title": "Barry Lyndon",
+    "title": "Barry Lyndon (1975)",
+    "movieTitle": "Barry Lyndon",
+    "plot": "An Irish rogue wins the heart of a rich widow and assumes her dead husband's aristocratic position in 18th-century England.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_SX300.jpg",
+    "imdbId": "tt0072684",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -427,7 +554,11 @@
     ]
   },
   {
-    "title": "Battle of the Sexes",
+    "title": "Battle of the Sexes (2017)",
+    "movieTitle": "Battle of the Sexes",
+    "plot": "The true story of the 1973 tennis match between World number one Billie Jean King and ex-champ and serial hustler Bobby Riggs.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTljYmU2NTMtODhhNC00NjlhLWJhZTUtNDllODYyYWM4ZjA5XkEyXkFqcGdeQXVyNjM0ODk5NDY@._V1_SX300.jpg",
+    "imdbId": "tt4622512",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -444,7 +575,11 @@
     ]
   },
   {
-    "title": "Beaches",
+    "title": "Beaches (1988)",
+    "movieTitle": "Beaches",
+    "plot": "A privileged rich debutante and a cynical struggling entertainer share a turbulent, but strong childhood friendship over the years.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjJjODRiNDMtNzRlZi00M2E3LWIzZDItYmU1NGQyMDFmYTc2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "imdbId": "tt0094715",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -461,7 +596,11 @@
     ]
   },
   {
-    "title": "Beginners",
+    "title": "Beginners (2011)",
+    "movieTitle": "Beginners",
+    "plot": "A young man is rocked by two announcements from his elderly father: that he has terminal cancer and that he has a young male lover.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAyNDcxNTk3NV5BMl5BanBnXkFtZTcwMjk4MDU2NA@@._V1_SX300.jpg",
+    "imdbId": "tt1532503",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -478,7 +617,11 @@
     ]
   },
   {
-    "title": "Big Eyes",
+    "title": "Big Eyes (2014)",
+    "movieTitle": "Big Eyes",
+    "plot": "A drama about the awakening of painter Margaret Keane, her phenomenal success in the 1950s, and the subsequent legal difficulties she had with her husband, who claimed credit for her works in the 1960s.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2ODM5MDE3N15BMl5BanBnXkFtZTgwOTIxNjc1MzE@._V1_SX300.jpg",
+    "imdbId": "tt1126590",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -495,7 +638,11 @@
     ]
   },
   {
-    "title": "Big Night",
+    "title": "Big Night (1996)",
+    "movieTitle": "Big Night",
+    "plot": "New Jersey, 1950s. Two brothers run an Italian restaurant. Business is not going well as a rival Italian restaurant is out-competing them. In a final effort to save the restaurant, the brothers plan to put on an evening of incredible",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTlhODIzNzEtNjE3ZC00NjBjLWE3ZTQtN2U1YjQ0ZGUxODc1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX300.jpg",
+    "imdbId": "tt0115678",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -512,10 +659,19 @@
     ]
   },
   {
-    "title": "Billy Elliott"
+    "title": "Billy Elliott (2000)",
+    "movieTitle": "Billy Elliott",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Black Swan",
+    "title": "Black Swan (2010) ",
+    "movieTitle": "Black Swan",
+    "plot": "A committed dancer struggles to maintain her sanity after winning the lead role in a production of Tchaikovsky's \"Swan Lake\".",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_SX300.jpg",
+    "imdbId": "tt0947798",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -532,7 +688,11 @@
     ]
   },
   {
-    "title": "Booksmart",
+    "title": "Booksmart (2019)",
+    "movieTitle": "Booksmart",
+    "plot": "On the eve of their high school graduation, two academic superstars and best friends realize they should have worked less and played more. Determined not to fall short of their peers, the girls try to cram four years of fun into one night.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzMjcxNjA2Nl5BMl5BanBnXkFtZTgwMjAxMDM2NzM@._V1_SX300.jpg",
+    "imdbId": "tt1489887",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -549,7 +709,11 @@
     ]
   },
   {
-    "title": "Breaking Away",
+    "title": "Breaking Away (1979)",
+    "movieTitle": "Breaking Away",
+    "plot": "A small-town boy obsessed with the Italian cycling team vies for the affections of a college girl.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQyNDhiOTAtZGVmOC00MTNkLWE1YzItZGE0NjUzOTcyZTliXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+    "imdbId": "tt0078902",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -566,7 +730,11 @@
     ]
   },
   {
-    "title": "Brittany Runs a Marathon",
+    "title": "Brittany Runs a Marathon (2019)",
+    "movieTitle": "Brittany Runs a Marathon",
+    "plot": "A young woman decides to make positive changes in her life by training for the New York City Marathon.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDRlNTJmNGEtNWM0YS00OWI3LWFkNjUtMzg5MTJjODcyZGU3XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "imdbId": "tt7671064",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -583,7 +751,11 @@
     ]
   },
   {
-    "title": "Bumblebee",
+    "title": "Bumblebee (2018)",
+    "movieTitle": "Bumblebee",
+    "plot": "On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small California beach town. On the cusp of turning 18 and trying to find her place in the world, Charlie Watson discovers Bumblebee, battle-scarred and broken.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUwNjU5NDMyNF5BMl5BanBnXkFtZTgwNzgxNjM2NzM@._V1_SX300.jpg",
+    "imdbId": "tt4701182",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -600,7 +772,11 @@
     ]
   },
   {
-    "title": "Carrie",
+    "title": "Carrie (1976)",
+    "movieTitle": "Carrie",
+    "plot": "Carrie White, a shy, friendless teenage girl who is sheltered by her domineering, religious mother, unleashes her telekinetic powers after being humiliated by her classmates at her senior prom.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTlhNmVkZGUtNjdjOC00YWY3LTljZWQtMTY1YWFhNGYwNDQwXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbId": "tt0074285",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -617,7 +793,11 @@
     ]
   },
   {
-    "title": "Cars",
+    "title": "Cars (2006)",
+    "movieTitle": "Cars",
+    "plot": "A hot-shot race-car named Lightning McQueen gets waylaid in Radiator Springs, where he finds the true meaning of friendship and family.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg5NzY0MzA2MV5BMl5BanBnXkFtZTYwNDc3NTc2._V1_SX300.jpg",
+    "imdbId": "tt0317219",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -634,7 +814,11 @@
     ]
   },
   {
-    "title": "Castaway",
+    "title": "Castaway (2000)",
+    "movieTitle": "Castaway",
+    "plot": "Middle-aged Gerald Kingsland advertises in a London paper for a female companion to spend a year with him on a desert island.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzU1MjRmNjMtN2E4MC00YzY1LTk0ZjgtOWRjYjQ1YmZkZTk4XkEyXkFqcGdeQXVyNjMwMjk0MTQ@._V1_SX300.jpg",
+    "imdbId": "tt0092732",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -647,7 +831,11 @@
     ]
   },
   {
-    "title": "Changing Lanes",
+    "title": "Changing Lanes (2002)",
+    "movieTitle": "Changing Lanes",
+    "plot": "A young lawyer and a businessman share a small automobile accident, and their mutual road rage escalates into a feud.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjNiMGEwZTAtNDc4Yy00MjcwLWE4ODktNzdkNGEwY2Q0NWIzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0264472",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -664,7 +852,11 @@
     ]
   },
   {
-    "title": "Charlie’s Angels",
+    "title": "Charlie’s Angels (2000)",
+    "movieTitle": "Charlie's Angels",
+    "plot": "Three women, detectives with a mysterious boss, retrieve stolen voice-ID software, using martial arts, tech skills, and sex appeal.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI1NTM5MTItNDcxMS00YTIwLTg1NjUtNzE5ZGE5NDkxMmU4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0160127",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -681,7 +873,11 @@
     ]
   },
   {
-    "title": "Charlie’s Angels Full Throttle",
+    "title": "Charlie’s Angels Full Throttle (2003)",
+    "movieTitle": "Charlie's Angels: Full Throttle",
+    "plot": "The Angels investigate a series of murders which occur after the theft of a witness protection profile database.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MTg3OTU5N15BMl5BanBnXkFtZTYwMDc4MzU3._V1_SX300.jpg",
+    "imdbId": "tt0305357",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -698,7 +894,11 @@
     ]
   },
   {
-    "title": "Chi-Raq",
+    "title": "Chi-Raq (2015)",
+    "movieTitle": "Chi-Raq",
+    "plot": "A modern day adaptation of the ancient Greek play Lysistrata by Aristophanes, set against the backdrop of gang violence in Chicago, Illinois.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTMwNzkxMDUxN15BMl5BanBnXkFtZTgwOTM5NjQzNzE@._V1_SX300.jpg",
+    "imdbId": "tt4594834",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -715,7 +915,11 @@
     ]
   },
   {
-    "title": "City Lights",
+    "title": "City Lights (1931)",
+    "movieTitle": "City Lights",
+    "plot": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbId": "tt0021749",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -732,7 +936,11 @@
     ]
   },
   {
-    "title": "Coco Before Chanel",
+    "title": "Coco Before Chanel (2009)",
+    "movieTitle": "Coco Before Chanel",
+    "plot": "The story of Coco Chanel's rise from obscure beginnings to the heights of the fashion world.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA0NjYzMzQxNzBeQTJeQWpwZ15BbWU3MDI2MDA0ODI@._V1_SX300.jpg",
+    "imdbId": "tt1035736",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -749,7 +957,11 @@
     ]
   },
   {
-    "title": "Colossal",
+    "title": "Colossal (2016)",
+    "movieTitle": "Colossal",
+    "plot": "Gloria is an out-of-work party girl forced to leave her life in New York City and move back home. When reports surface that a giant creature is destroying Seoul, she gradually comes to the realization that she is somehow connected to this phenomenon.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2NTExOTA2MF5BMl5BanBnXkFtZTgwNTMwMjE2MTI@._V1_SX300.jpg",
+    "imdbId": "tt4680182",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -766,7 +978,11 @@
     ]
   },
   {
-    "title": "Daddy’s Home 2",
+    "title": "Daddy’s Home 2 (2017)",
+    "movieTitle": "Daddy's Home 2",
+    "plot": "Having finally gotten used to each other's existence, Brad and Dusty must now deal with their intrusive fathers during the holidays.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDA4Nzc1OTg2OV5BMl5BanBnXkFtZTgwODE3ODgwNDI@._V1_SX300.jpg",
+    "imdbId": "tt5657846",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -783,7 +999,11 @@
     ]
   },
   {
-    "title": "Dangerous Liaisons",
+    "title": "Dangerous Liaisons (1988)",
+    "movieTitle": "Dangerous Liaisons",
+    "plot": "A scheming widow and her manipulative ex-lover make a bet regarding the corruption of a recently married woman.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDZmODc0MWQtYWVjOS00OGFiLWExNjItOTMyN2Q5ZTFmYzUzXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "imdbId": "tt0094947",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -800,7 +1020,11 @@
     ]
   },
   {
-    "title": "Dashing In December",
+    "title": "Dashing In December (2020)",
+    "movieTitle": "Dashing in December",
+    "plot": "When Wyatt Burwall finally returns home for the holidays in an effort to convince his mother Deb to sell the family's Colorado ranch, a romance unexpectedly ignites between Wyatt and their ...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjY2ZjY1ODktODBmMi00ODRlLWJlYTctOTBjM2M0ZDRhY2Q5XkEyXkFqcGdeQXVyNjIwMDIyOTg@._V1_SX300.jpg",
+    "imdbId": "tt13454498",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -809,7 +1033,11 @@
     ]
   },
   {
-    "title": "Dead Poets Society",
+    "title": "Dead Poets Society (1989)",
+    "movieTitle": "Dead Poets Society",
+    "plot": "Maverick teacher John Keating uses poetry to embolden his boarding school students to new heights of self-expression.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0097165",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -826,7 +1054,11 @@
     ]
   },
   {
-    "title": "Deathtrap",
+    "title": "Deathtrap (1982)",
+    "movieTitle": "Deathtrap",
+    "plot": "A Broadway playwright puts murder in his plan to take credit for a student's play.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI5ZjUyNGQtODEwMi00ZmNlLWFjOTQtMWI4ZTQyZTAzZTcyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbId": "tt0083806",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -843,10 +1075,19 @@
     ]
   },
   {
-    "title": "Deidra and Laney Rob a Train"
+    "title": "Deidra and Laney Rob a Train (2017)",
+    "movieTitle": "Deidra and Laney Rob a Train",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Diana: In Her Own Words",
+    "title": "Diana: In Her Own Words (2017)",
+    "movieTitle": "Diana: In Her Own Words",
+    "plot": "This documentary uses the recordings Princess Diana made for the book that was written by Andrew Morton. In this documentary Diana narrates her life and the events that surrounded her.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmQzM2RiMWYtNTk3OC00MjI0LWE2YjgtYTI5Zjk5MmY4YmE5XkEyXkFqcGdeQXVyNzA4NzM4ODE@._V1_SX300.jpg",
+    "imdbId": "tt7188868",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -859,13 +1100,27 @@
     ]
   },
   {
-    "title": "Disney Elephant"
+    "title": "Disney Elephant (2020)",
+    "movieTitle": "Disney Elephant",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Disney Penguins"
+    "title": "Disney Penguins (2019)",
+    "movieTitle": "Disney Penguins",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Disobedience",
+    "title": "Disobedience (2017)",
+    "movieTitle": "Disobedience",
+    "plot": "A woman returns to her Orthodox Jewish community that shunned her for her attraction to a female childhood friend. Once back, their passions reignite as they explore the boundaries of faith and sexuality.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzYxNDI5OTcwMV5BMl5BanBnXkFtZTgwODc4MzE3NDM@._V1_SX300.jpg",
+    "imdbId": "tt6108178",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -882,7 +1137,11 @@
     ]
   },
   {
-    "title": "Dog Days",
+    "title": "Dog Days (Hulu, 2018)",
+    "movieTitle": "Dog Days",
+    "plot": "A group of interconnected people in Los Angeles are brought together by their lovely canine counterparts.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg2ZDY0YWUtOWZkYS00MmUwLWFjMmEtNjIzNmNiZDFkNTYzXkEyXkFqcGdeQXVyNzYzMjUxODY@._V1_SX300.jpg",
+    "imdbId": "tt7365604",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -899,7 +1158,11 @@
     ]
   },
   {
-    "title": "Dolemite Is My Name",
+    "title": "Dolemite Is My Name (2019)",
+    "movieTitle": "Dolemite Is My Name",
+    "plot": "Eddie Murphy portrays real-life legend Rudy Ray Moore, a comedy and rap pioneer who proved naysayers wrong when his hilarious, obscene, kung-fu fighting alter ego, Dolemite, became a 1970s Blaxploitation phenomenon.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzFiYWQxYzgtOThmYi00ZmIwLWFlZWMtMzk2NTI2YTYzMjkyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt8526872",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -916,7 +1179,11 @@
     ]
   },
   {
-    "title": "Dollface",
+    "title": "Dollface (2019)",
+    "movieTitle": "Dollface",
+    "plot": "After breaking up with her longtime boyfriend, a woman tries to reconnect with the friends she lost during the relationship.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDU4MDg1ZDYtNDNhMS00MWMwLWI0YmMtODY1NDI5NzY1YjQ0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt7661046",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -925,10 +1192,19 @@
     ]
   },
   {
-    "title": "Dolly Parton's Heartstrings Two Doors Down"
+    "title": "Dolly Parton's Heartstrings Two Doors Down (2019)",
+    "movieTitle": "Dolly Parton's Heartstrings Two Doors Down",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Don Jon",
+    "title": "Don Jon (2013)",
+    "movieTitle": "Don Jon",
+    "plot": "A New Jersey guy dedicated to his family, friends, and church, develops unrealistic expectations from watching porn and works to find happiness and intimacy with his potential true love.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ZhY2IzMWQtMGU4MC00ODg2LThkNWMtNWMzYmM2OTc5ZDMyXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt2229499",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -945,10 +1221,19 @@
     ]
   },
   {
-    "title": "Don’t Worry, He Won’t Get Far On Foot"
+    "title": "Don’t Worry, He Won’t Get Far On Foot (2018)",
+    "movieTitle": "Don’t Worry, He Won’t Get Far On Foot",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Dr. Seuss on the Loose",
+    "title": "Dr. Seuss on the Loose (1973)",
+    "movieTitle": "Dr. Seuss on the Loose",
+    "plot": "Three Dr. Seuss stories hosted by the Cat in the Hat.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI2MDE0NjU4Nl5BMl5BanBnXkFtZTcwMDU0ODUyMQ@@._V1_SX300.jpg",
+    "imdbId": "tt0134628",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -957,7 +1242,11 @@
     ]
   },
   {
-    "title": "Dumplin’",
+    "title": "Dumplin’ (2018)",
+    "movieTitle": "Dumplin'",
+    "plot": "Willowdean ('Dumplin'), the plus-size teenage daughter of a former beauty queen, signs up for her mom's Miss Teen Bluebonnet pageant as a protest that escalates when other contestants follow her footsteps, revolutionizing the pageant and their small Texas town.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDMyNzQyMjgtZTM2NS00ZjQwLThjYTMtZDlhOTNhNTMzNTkwXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+    "imdbId": "tt4878482",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -974,7 +1263,11 @@
     ]
   },
   {
-    "title": "E.T.",
+    "title": "E.T. (1982)",
+    "movieTitle": "E.T. the Extra-Terrestrial",
+    "plot": "A troubled child summons the courage to help a friendly alien escape Earth and return to his home world.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2ODFlMDAtNzdhOC00ZDYzLWE3YTMtNDU4ZGFmZmJmYTczXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0083866",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -991,7 +1284,11 @@
     ]
   },
   {
-    "title": "Eddie The Eagle",
+    "title": "Eddie The Eagle (2016)",
+    "movieTitle": "Eddie the Eagle",
+    "plot": "The story of Eddie Edwards, the notoriously tenacious British underdog ski jumper who charmed the world at the 1988 Winter Olympics.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxOTc5MTU1NF5BMl5BanBnXkFtZTgwODYyNTA1NzE@._V1_SX300.jpg",
+    "imdbId": "tt1083452",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1008,7 +1305,11 @@
     ]
   },
   {
-    "title": "Elle",
+    "title": "Elle (2016)",
+    "movieTitle": "Elle",
+    "plot": "A successful businesswoman gets caught up in a game of cat and mouse as she tracks down the unknown man who raped her.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU4MTUyMzI5Nl5BMl5BanBnXkFtZTgwMDQwODY2NzE@._V1_SX300.jpg",
+    "imdbId": "tt3716530",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1025,10 +1326,19 @@
     ]
   },
   {
-    "title": "Embrace the Serpent"
+    "title": "Embrace the Serpent (2015)",
+    "movieTitle": "Embrace the Serpent",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Escape From Alcatraz",
+    "title": "Escape From Alcatraz (1979)",
+    "movieTitle": "Escape from Alcatraz",
+    "plot": "Alcatraz is the most secure prison of its time. It is believed that no one can ever escape from it, until three daring men make a possible successful attempt at escaping from one of the most infamous prisons in the world.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDQ3MzNjMDItZjE0ZS00ZTYxLTgxNTAtM2I4YjZjNWFjYjJlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbId": "tt0079116",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1045,7 +1355,11 @@
     ]
   },
   {
-    "title": "Ex Machina",
+    "title": "Ex Machina (2014)",
+    "movieTitle": "Ex Machina",
+    "plot": "A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a highly advanced humanoid A.I.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg",
+    "imdbId": "tt0470752",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1062,7 +1376,11 @@
     ]
   },
   {
-    "title": "Fake Famous",
+    "title": "Fake Famous (2021)",
+    "movieTitle": "Fake Famous",
+    "plot": "Documentary follows an actress, fashion designer and real estate assistant who attempt to become social media influencers by purchasing fake followers and bots to boost their popularity.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWZjMmE5NjYtMjdhMS00NTlmLTgwOTMtZGNhZjE3ZjRiMTU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt13890392",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1075,7 +1393,11 @@
     ]
   },
   {
-    "title": "Falling Inn Love",
+    "title": "Falling Inn Love (2019)",
+    "movieTitle": "Falling Inn Love",
+    "plot": "When city girl Gabriela spontaneously enters a contest and wins a rustic New Zealand inn, she teams up with bighearted contractor Jake Taylor to fix and flip it.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE1NmMzNjUtMDc3NS00ZjBlLTllMTktZTVkMWQzZGVlYzdhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt9860728",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1088,7 +1410,11 @@
     ]
   },
   {
-    "title": "Fargo",
+    "title": "Fargo (1996)",
+    "movieTitle": "Fargo",
+    "plot": "Jerry Lundegaard's inept crime falls apart due to his and his henchmen's bungling and the persistent police work of the quite pregnant Marge Gunderson.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbId": "tt0116282",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1105,10 +1431,19 @@
     ]
   },
   {
-    "title": "Faster Pussycat Kill! Kill!"
+    "title": "Faster Pussycat Kill! Kill! (1965)",
+    "movieTitle": "Faster Pussycat Kill! Kill!",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Five Feet Apart",
+    "title": "Five Feet Apart (2019)",
+    "movieTitle": "Five Feet Apart",
+    "plot": "A pair of teenagers with cystic fibrosis meet in a hospital and fall in love, though their disease means they must avoid close physical contact.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzVmMjJlN2MtNWQ4Ny00Zjc2LWJjYTgtYjJiNGM5MTM1ZTlkXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg",
+    "imdbId": "tt6472976",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1125,7 +1460,11 @@
     ]
   },
   {
-    "title": "Fletch",
+    "title": "Fletch (1985)",
+    "movieTitle": "Fletch",
+    "plot": "Irwin M. \"Fletch\" Fletcher is a newspaper reporter being offered a large sum to off a cancerous millionaire, but is on the run, risking his job and finding clues when it's clear the man is healthy.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzQ4MWI3YTYtNzlkNS00Zjc0LWI5MWItMTQwZDYzMzc1MzQ2XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+    "imdbId": "tt0089155",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1142,7 +1481,11 @@
     ]
   },
   {
-    "title": "Forbidden Planet",
+    "title": "Forbidden Planet (1956)",
+    "movieTitle": "Forbidden Planet",
+    "plot": "A starship crew goes to investigate the silence of a planet's colony only to find two survivors and a deadly secret that one of them has.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTdmODZkNmQtYjU4Mi00MTcyLTg5YmEtNmVjMWU1M2Y5NzgyXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg",
+    "imdbId": "tt0049223",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1155,7 +1498,11 @@
     ]
   },
   {
-    "title": "Four Weddings and a Funeral",
+    "title": "Four Weddings and a Funeral (1994)",
+    "movieTitle": "Four Weddings and a Funeral",
+    "plot": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTMyNzg2NzgxNV5BMl5BanBnXkFtZTcwMTcxNzczNA@@._V1_SX300.jpg",
+    "imdbId": "tt0109831",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1172,7 +1519,11 @@
     ]
   },
   {
-    "title": "Frances Ha",
+    "title": "Frances Ha (2012)",
+    "movieTitle": "Frances Ha",
+    "plot": "A New York woman (who doesn't really have an apartment) apprentices for a dance company (though she's not really a dancer) and throws herself headlong into her dreams, even as the possibility of realizing them dwindles.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTY0NDQ2NzQ2N15BMl5BanBnXkFtZTcwMTU0OTkwOQ@@._V1_SX300.jpg",
+    "imdbId": "tt2347569",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1189,7 +1540,11 @@
     ]
   },
   {
-    "title": "Frank",
+    "title": "Frank (2014)",
+    "movieTitle": "Frank",
+    "plot": "Jon, a young wanna-be musician, discovers he's bitten off more than he can chew when he joins an eccentric pop band led by the mysterious and enigmatic Frank.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM0OTczMTcxOV5BMl5BanBnXkFtZTgwMDU1MDUwMjE@._V1_SX300.jpg",
+    "imdbId": "tt1605717",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1206,7 +1561,11 @@
     ]
   },
   {
-    "title": "Freaky Friday",
+    "title": "Freaky Friday (2003)",
+    "movieTitle": "Freaky Friday",
+    "plot": "An overworked mother and her daughter do not get along. When they switch bodies, each is forced to adapt to the other's life for one freaky Friday.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU4NTk4OWYtMjE4My00MGVkLTgwY2EtZTZjN2YyOGFiMDQ0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0322330",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1223,7 +1582,11 @@
     ]
   },
   {
-    "title": "Free Solo",
+    "title": "Free Solo (2018)",
+    "movieTitle": "Free Solo",
+    "plot": "Alex Honnold attempts to become the first person to ever free solo climb El Capitan.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwYjcwNWQtNTQ5YS00MzVlLTkxYzMtNDIwZWIxZTE4Zjg2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt7775622",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1240,7 +1603,11 @@
     ]
   },
   {
-    "title": "Fried Green Tomatoes",
+    "title": "Fried Green Tomatoes (1991)",
+    "movieTitle": "Fried Green Tomatoes",
+    "plot": "A housewife who is unhappy with her life befriends an old lady in a nursing home and is enthralled by the tales she tells of people she used to know.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQ1ZWE0MTQtMmEwOS00YjA3LTgyZTAtNjY5ODEyZTJjNDI2XkEyXkFqcGdeQXVyNjE5MjUyOTM@._V1_SX300.jpg",
+    "imdbId": "tt0101921",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1257,7 +1624,11 @@
     ]
   },
   {
-    "title": "Girls Trip",
+    "title": "Girls Trip (2017)",
+    "movieTitle": "Girls Trip",
+    "plot": "When four lifelong friends travel to New Orleans for the annual Essence Festival, sisterhoods are rekindled, wild sides are rediscovered, and there's enough dancing, drinking, brawling and romancing to make the Big Easy blush.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMwNTEzODUwMV5BMl5BanBnXkFtZTgwNjE5NjA5MjI@._V1_SX300.jpg",
+    "imdbId": "tt3564472",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1274,7 +1645,11 @@
     ]
   },
   {
-    "title": "Going the Distance",
+    "title": "Going the Distance (2010)",
+    "movieTitle": "Going the Distance",
+    "plot": "A romantic comedy centered on a guy and a gal who try to keep their love alive as they shuttle back and forth between New York and San Francisco to see one another.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQ1ODUyMjk5N15BMl5BanBnXkFtZTcwMjAxOTE2Mw@@._V1_SX300.jpg",
+    "imdbId": "tt1322312",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1291,7 +1666,11 @@
     ]
   },
   {
-    "title": "Gone Girl",
+    "title": "Gone Girl (2014)",
+    "movieTitle": "Gone Girl",
+    "plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_SX300.jpg",
+    "imdbId": "tt2267998",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1308,7 +1687,11 @@
     ]
   },
   {
-    "title": "Gosford Park",
+    "title": "Gosford Park (2001)",
+    "movieTitle": "Gosford Park",
+    "plot": "Set in the 1930s, this movie brings a group of pretentious rich and famous together for a weekend of relaxation at a hunting resort. But when a murder occurs, each one of these interesting characters becomes a suspect.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzM4YzlhZGMtYTI2Yi00OTY4LWE0MzctNDFlYTQ3YmFlOTBjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt0280707",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1325,7 +1708,11 @@
     ]
   },
   {
-    "title": "Grandma",
+    "title": "Grandma (2015)",
+    "movieTitle": "Grandma",
+    "plot": "A teenager facing an unplanned pregnancy seeks help from her acerbic grandmother, a woman who is long estranged from her daughter.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMDE2OTIxM15BMl5BanBnXkFtZTgwMDY5NzAyNjE@._V1_SX300.jpg",
+    "imdbId": "tt4270516",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1342,7 +1729,11 @@
     ]
   },
   {
-    "title": "Hairspray",
+    "title": "Hairspray (1988)",
+    "movieTitle": "Hairspray",
+    "plot": "Pleasantly plump teenager Tracy Turnblad teaches 1962 Baltimore a thing or two about integration after landing a spot on a local TV dance show.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmFhMzFkZTMtNmUxNS00OWQ1LTlhNjMtYzhmNTU4NmUzZDQwXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+    "imdbId": "tt0427327",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1359,7 +1750,11 @@
     ]
   },
   {
-    "title": "Hamilton",
+    "title": "Hamilton (2020)",
+    "movieTitle": "Hamilton",
+    "plot": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_SX300.jpg",
+    "imdbId": "tt8503618",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1376,7 +1771,11 @@
     ]
   },
   {
-    "title": "Happy Death Day",
+    "title": "Happy Death Day (2017)",
+    "movieTitle": "Happy Death Day",
+    "plot": "A college student must relive the day of her murder over and over again, in a loop that will end only when she discovers her killer's identity.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzZhY2E5NzQtMWVmNC00YmEzLTgxZDMtNjE2YmQ4ZTZiZGZjXkEyXkFqcGdeQXVyODQxMTI4MjM@._V1_SX300.jpg",
+    "imdbId": "tt5308322",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1393,7 +1792,11 @@
     ]
   },
   {
-    "title": "Hard Candy",
+    "title": "Hard Candy (2005",
+    "movieTitle": "Hard Candy",
+    "plot": "Hayley's a smart, charming teenage girl. Jeff's a handsome, smooth fashion photographer. An Internet chat, a coffee shop meet-up, an impromptu fashion shoot back at Jeff's place. Jeff thinks it's his lucky night. He's in for a surpri",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MzgzNTI3N15BMl5BanBnXkFtZTcwNDk3MDIzMQ@@._V1_SX300.jpg",
+    "imdbId": "tt0424136",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1410,7 +1813,11 @@
     ]
   },
   {
-    "title": "Harold and Maude",
+    "title": "Harold and Maude (1971)",
+    "movieTitle": "Harold and Maude",
+    "plot": "Young, rich, and obsessed with death, Harold finds himself changed forever when he meets lively septuagenarian Maude at a funeral.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2M5Mzg3NjctZTlkNy00MTU0LWFlYTQtY2E2Y2M4NjNiNzllXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "imdbId": "tt0067185",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1427,7 +1834,11 @@
     ]
   },
   {
-    "title": "Harvard Beats Yale 29-29",
+    "title": "Harvard Beats Yale 29-29 (2008)",
+    "movieTitle": "Harvard Beats Yale 29-29",
+    "plot": "Critically acclaimed documentary about the 1968 football game played by two undefeated teams from Harvard and Yale.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNiNjU1N2MtYjQxNy00ZTdiLWE3YzctNDdiNDkzNWI1ZDc1XkEyXkFqcGdeQXVyNDc5ODg1NTE@._V1_SX300.jpg",
+    "imdbId": "tt1286800",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1444,7 +1855,11 @@
     ]
   },
   {
-    "title": "Hearts Beat Loud",
+    "title": "Hearts Beat Loud (2018)",
+    "movieTitle": "Hearts Beat Loud",
+    "plot": "A father and daughter form an unlikely songwriting duo in the summer before she leaves for college.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA2MTM2MjcxNV5BMl5BanBnXkFtZTgwMzI3ODgyNTM@._V1_SX300.jpg",
+    "imdbId": "tt7158430",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1461,7 +1876,11 @@
     ]
   },
   {
-    "title": "Heaven Can Wait",
+    "title": "Heaven Can Wait (1978)",
+    "movieTitle": "Heaven Can Wait",
+    "plot": "A Los Angeles Rams quarterback, accidentally taken away from his body by an overanxious angel before he was meant to die, returns to life in the body of a recently murdered millionaire.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NlOGI1YTMtZjk3My00YWY4LWE2ZGUtNzA2Y2E1ZjU0ZTZmXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+    "imdbId": "tt0077663",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1478,7 +1897,11 @@
     ]
   },
   {
-    "title": "Hell House",
+    "title": "Hell House (2002, the documentary, not the horror film!)",
+    "movieTitle": "Hell House",
+    "plot": "Each Halloween, youth members of Trinity Church, Texas construct a 'Hell House'; a modern-day fire-and-brimstone sermon, presented in the form of a haunted house, seen by over 10,000 visitors each year.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc1OTUxNzE4M15BMl5BanBnXkFtZTYwNzM3Mzg5._V1_SX300.jpg",
+    "imdbId": "tt0301235",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1495,7 +1918,11 @@
     ]
   },
   {
-    "title": "His Girl Friday",
+    "title": "His Girl Friday (1940)",
+    "movieTitle": "His Girl Friday",
+    "plot": "A newspaper editor uses every trick in the book to keep his ace reporter ex-wife from remarrying.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDVmZTZkYjMtNmViZC00ODEzLTgwNDAtNmQ3OGQwOWY5YjFmXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_SX300.jpg",
+    "imdbId": "tt0032599",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1508,7 +1935,11 @@
     ]
   },
   {
-    "title": "Hunt For The Wilderpeople",
+    "title": "Hunt For The Wilderpeople (2016)",
+    "movieTitle": "Hunt for the Wilderpeople",
+    "plot": "A national manhunt is ordered for a rebellious kid and his foster uncle who go missing in the wild New Zealand bush.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1MDQ2MDg5Ml5BMl5BanBnXkFtZTgwMjc2NjM5ODE@._V1_SX300.jpg",
+    "imdbId": "tt4698684",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1525,7 +1956,11 @@
     ]
   },
   {
-    "title": "Hustlers",
+    "title": "Hustlers (2019)",
+    "movieTitle": "Hustlers",
+    "plot": "Inspired by the viral New York Magazine article, Hustlers follows a crew of savvy former strip club employees who band together to turn the tables on their Wall Street clients.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjM5ZTNiNGMtMDA2OC00MDYyLWEyNzAtOWZmMzFlY2VmOWM4XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt5503686",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1542,11 +1977,19 @@
     ]
   },
   {
-    "title": "Imagine Me And You",
+    "title": "Imagine Me And You (2005)",
+    "movieTitle": "Imagine Me and You",
+    "plot": "Upon learning that her identical twin sister, Elaine, has terminal cancer, 80 year-old Mary hatches a plan to break them out of their retirement home and takes them on an adventure they will never forget.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzcxNzY2MWItNzIwNC00ZWU3LWFkMzUtNmMwYzFmZTYzNjAyXkEyXkFqcGdeQXVyMjQ3MDgzNDA@._V1_SX300.jpg",
+    "imdbId": "tt3507776",
     "ratings": []
   },
   {
-    "title": "In A World...",
+    "title": "In A World... (2013)",
+    "movieTitle": "In a World...",
+    "plot": "An underachieving voice coach finds herself competing in the movie trailer voice-over profession against her arrogant father and his protégé.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0NzE0Mzg3M15BMl5BanBnXkFtZTcwNzY2MDY3OQ@@._V1_SX300.jpg",
+    "imdbId": "tt2294677",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1563,7 +2006,11 @@
     ]
   },
   {
-    "title": "In Secret",
+    "title": "In Secret (2013)",
+    "movieTitle": "In Secret",
+    "plot": "Thérèse grows up with her aunt and cousin. Around 1860 the aunt decides they move to Paris and that her son and Thérèse get married. The joy- and loveless life changes when her husband brings a friend home. The affair turns ugly for all.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTAxMDY4MDI0NDZeQTJeQWpwZ15BbWU4MDkzOTU5ODAx._V1_SX300.jpg",
+    "imdbId": "tt0409379",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1580,7 +2027,11 @@
     ]
   },
   {
-    "title": "Inside Out",
+    "title": "Inside Out (2015)",
+    "movieTitle": "Inside Out",
+    "plot": "After young Riley is uprooted from her Midwest life and moved to San Francisco, her emotions - Joy, Fear, Anger, Disgust and Sadness - conflict on how best to navigate a new city, house, and school.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_SX300.jpg",
+    "imdbId": "tt2096673",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1597,7 +2048,11 @@
     ]
   },
   {
-    "title": "Into The Night",
+    "title": "Into The Night (1985)",
+    "movieTitle": "Into the Night",
+    "plot": "When radiation from the sun causes a global disaster on Earth, survivors on an overnight flight from Brussels race from city to city trying to stay ahead of the sun's rays by remaining in the cover of night.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjNiMzJkZDMtZDg4NC00YjQyLTg2ZGQtOGVjNDdjZGQyZWU4XkEyXkFqcGdeQXVyMjQ0NDQxNDA@._V1_SX300.jpg",
+    "imdbId": "tt10919486",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1606,10 +2061,19 @@
     ]
   },
   {
-    "title": "Isn’t It Romantic"
+    "title": "Isn’t It Romantic (2019)",
+    "movieTitle": "Isn’t It Romantic",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "It Happened One Night",
+    "title": "It Happened One Night (1934)",
+    "movieTitle": "It Happened One Night",
+    "plot": "A renegade reporter and a crazy young heiress meet on a bus heading for New York, and end up stuck with each other when the bus leaves them behind at one of the stops.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbId": "tt0025316",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1626,7 +2090,11 @@
     ]
   },
   {
-    "title": "It’s a Wonderful Life",
+    "title": "It’s a Wonderful Life (1946)",
+    "movieTitle": "It's a Wonderful Life",
+    "plot": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_SX300.jpg",
+    "imdbId": "tt0038650",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1643,7 +2111,11 @@
     ]
   },
   {
-    "title": "Jack and the Witch",
+    "title": "Jack and the Witch (1967)",
+    "movieTitle": "Jack and the Witch",
+    "plot": "Jack goes for a ride with his animal friends--a bear, a fox and a puppy. He meets a girl who takes them by helicopter to the castle of a witch who turns children into devils.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg0NzA1NTA2M15BMl5BanBnXkFtZTgwMDkwODk1MDE@._V1_SX300.jpg",
+    "imdbId": "tt0062260",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1652,7 +2124,11 @@
     ]
   },
   {
-    "title": "JCVD",
+    "title": "JCVD (2008)",
+    "movieTitle": "JCVD",
+    "plot": "Jean-Claude Van Damme gets involved in a bank robbery with hostages situation and reflects about his life during it.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDAwMDg5MTY1N15BMl5BanBnXkFtZTcwMTU1MjcwMg@@._V1_SX300.jpg",
+    "imdbId": "tt1130988",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1669,11 +2145,19 @@
     ]
   },
   {
-    "title": "Jerry McGuire",
+    "title": "Jerry McGuire (1996)",
+    "movieTitle": "The Mettle of Jerry McGuire",
+    "plot": "N/A",
+    "poster": "N/A",
+    "imdbId": "tt0314373",
     "ratings": []
   },
   {
-    "title": "Joan Rivers: A Piece Of Work",
+    "title": "Joan Rivers: A Piece Of Work (2010)",
+    "movieTitle": "Joan Rivers: A Piece of Work",
+    "plot": "A documentary on the life and career of Joan Rivers, made as the comedienne turns 75 years old.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI3MTc5MzAwMV5BMl5BanBnXkFtZTcwNzgzNzE1Mw@@._V1_SX300.jpg",
+    "imdbId": "tt1568150",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1690,7 +2174,11 @@
     ]
   },
   {
-    "title": "Joy",
+    "title": "Joy (2015)",
+    "movieTitle": "Joy",
+    "plot": "Joy is the story of the title character, who rose to become founder and matriarch of a powerful family business dynasty.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzRiOWZmMzUtZTJiOC00MjQ1LTkwMjgtNzhlYzBmODAzYTA0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "imdbId": "tt2446980",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1707,7 +2195,11 @@
     ]
   },
   {
-    "title": "Kedi",
+    "title": "Kedi (2017)",
+    "movieTitle": "Kedi",
+    "plot": "A profile of an ancient city and its unique people, seen through the eyes of the most mysterious and beloved animal humans have ever known, the Cat.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNTM2NDE0Nl5BMl5BanBnXkFtZTgwMzMzNTc4MDI@._V1_SX300.jpg",
+    "imdbId": "tt4420704",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1724,7 +2216,11 @@
     ]
   },
   {
-    "title": "Ladies and Gentlemen The Fabulous Stains",
+    "title": "Ladies and Gentlemen The Fabulous Stains (1982)",
+    "movieTitle": "Ladies and Gentlemen, the Fabulous Stains",
+    "plot": "Corrine Burns retreats far into plans for her band, The Fabulous Stains, after her mother's death. So far that she gets them (she and two cousins) on a tour with a washed-out glam-rock ...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTBmN2Y4MTItMzZhMy00NTZjLThlMjItMDJhZmNjOGVjMmNhXkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SX300.jpg",
+    "imdbId": "tt0082639",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1737,11 +2233,19 @@
     ]
   },
   {
-    "title": "Ladybird",
+    "title": "Ladybird (2017)",
+    "movieTitle": "Ladybird",
+    "plot": "Frankie is picked up from a hospital by his friend. By an unfortunate coincidence of circumstances he ends up in a threatening situation.",
+    "poster": "N/A",
+    "imdbId": "tt0905619",
     "ratings": []
   },
   {
-    "title": "La Femme Nikita",
+    "title": "La Femme Nikita (1990)",
+    "movieTitle": "La Femme Nikita",
+    "plot": "Aclandestine anti-terrorist organization fakes the death of a convicted murderer and trains her in the fighting skills necessary to succeed in her new job.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDAyNGUzMWYtNTUwNC00YmZiLWI0NmEtZWI3NDU4ODA3YjVkXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg",
+    "imdbId": "tt0118379",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1750,7 +2254,11 @@
     ]
   },
   {
-    "title": "Land Ho!",
+    "title": "Land Ho! (2014)",
+    "movieTitle": "Land Ho!",
+    "plot": "A pair of former brothers-in-law embark on a road trip through Iceland.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzA3MDk0NTAzMF5BMl5BanBnXkFtZTgwNDYzMjM4MTE@._V1_SX300.jpg",
+    "imdbId": "tt3283556",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1767,7 +2275,11 @@
     ]
   },
   {
-    "title": "Lars and the Real Girl",
+    "title": "Lars and the Real Girl (2007)",
+    "movieTitle": "Lars and the Real Girl",
+    "plot": "A delusional young man strikes up an unconventional relationship with a doll he finds on the Internet.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI4NDc1NDkwMV5BMl5BanBnXkFtZTcwNjgzMDE1MQ@@._V1_SX300.jpg",
+    "imdbId": "tt0805564",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1784,7 +2296,11 @@
     ]
   },
   {
-    "title": "Last Christmas",
+    "title": "Last Christmas (2019)",
+    "movieTitle": "Last Christmas",
+    "plot": "Kate is a young woman subscribed to bad decisions. Working as an elf in a year round Christmas store is not good for the wannabe singer. However, she meets Tom there. Her life takes a new turn. For Kate, it seems too good to be true.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTQ4ZmY0NjgtYzVhNy00NzhiLTk3YTYtNzM1MTdjM2VhZDA3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt8623904",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1801,7 +2317,11 @@
     ]
   },
   {
-    "title": "Last Holiday",
+    "title": "Last Holiday (2006)",
+    "movieTitle": "Last Holiday",
+    "plot": "Upon learning of a terminal illness, a shy woman decides to sell all her possessions and live it up at a posh Central European hotel.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzY4ZjcxOTItNWQwOC00MmMxLTkzMjYtZmQwMTJiMGY5Y2JlXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "imdbId": "tt0408985",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1818,7 +2338,11 @@
     ]
   },
   {
-    "title": "Legally Blonde",
+    "title": "Legally Blonde (2001)",
+    "movieTitle": "Legally Blonde",
+    "plot": "Elle Woods, a fashionable sorority queen, is dumped by her boyfriend. She decides to follow him to law school. While she is there, she figures out that there is more to her than just looks.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTEyNjUwMTkxMV5BMl5BanBnXkFtZTcwNjk0NDk0NA@@._V1_SX300.jpg",
+    "imdbId": "tt0250494",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1835,7 +2359,11 @@
     ]
   },
   {
-    "title": "Life of the Party",
+    "title": "Life of the Party (2018)",
+    "movieTitle": "Life of the Party",
+    "plot": "After her husband abruptly asks for a divorce, a middle-aged mother returns to college in order to complete her degree.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzOTk0MjYwM15BMl5BanBnXkFtZTgwNTE5ODQxNTM@._V1_SX300.jpg",
+    "imdbId": "tt5619332",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1852,7 +2380,11 @@
     ]
   },
   {
-    "title": "Maiden",
+    "title": "Maiden (2019)",
+    "movieTitle": "Maiden",
+    "plot": "The story of Tracy Edwards, a 24-year-old cook on charter boats, who became the skipper of the first ever all-female crew to enter the Whitbread Round the World Race in 1989.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDAzMDYyODktN2ZiOC00MzBiLWI0M2EtODE3NmYyMTU3YjRkXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_SX300.jpg",
+    "imdbId": "tt8879946",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1869,7 +2401,11 @@
     ]
   },
   {
-    "title": "Mama Mia",
+    "title": "Mama Mia (2008)",
+    "movieTitle": "Mama mia",
+    "plot": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDRkNjgzYjItZjAwMS00ZGEyLTk0YWUtNmUzMDBkMTU0MmI5XkEyXkFqcGdeQXVyNzg5OTk2OA@@._V1_SX300.jpg",
+    "imdbId": "tt0332938",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1878,7 +2414,11 @@
     ]
   },
   {
-    "title": "Marwencol",
+    "title": "Marwencol (2010)",
+    "movieTitle": "Marwencol",
+    "plot": "After a vicious attack leaves him brain-damaged and broke, Mark Hogancamp seeks recovery in \"Marwencol\", a 1/6th scale World War II-era town he creates in his backyard.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg5NzgzNDM4Nl5BMl5BanBnXkFtZTcwNzY1MzY4Mw@@._V1_SX300.jpg",
+    "imdbId": "tt1391092",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1895,7 +2435,11 @@
     ]
   },
   {
-    "title": "Matchstick Men",
+    "title": "Matchstick Men (2003)",
+    "movieTitle": "Matchstick Men",
+    "plot": "A phobic con artist and his protégé are on the verge of pulling off a lucrative swindle when the former's teenage daughter arrives unexpectedly.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX300.jpg",
+    "imdbId": "tt0325805",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1912,7 +2456,11 @@
     ]
   },
   {
-    "title": "Matilda",
+    "title": "Matilda (1996)",
+    "movieTitle": "Matilda",
+    "plot": "This film adaptation of a Roald Dahl work tells the story of Matilda Wormwood, a gifted girl forced to put up with a crude, distant father and mother.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGVlYTA5NzQtMjBkNy00MmE1LWI3YzYtMTVkMTNmOGE5YmEwXkEyXkFqcGdeQXVyMTAyOTE2ODg0._V1_SX300.jpg",
+    "imdbId": "tt0117008",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1929,7 +2477,11 @@
     ]
   },
   {
-    "title": "Meet Me In St. Louis",
+    "title": "Meet Me In St. Louis (1944)",
+    "movieTitle": "Meet Me in St. Louis",
+    "plot": "Young love and childish fears highlight a year in the life of a turn-of-the-century family.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzkwNzE4MjEtZDcxNi00YmE5LWFmZmQtZGY1N2I2MDBkMmEzXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+    "imdbId": "tt0037059",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1946,7 +2498,11 @@
     ]
   },
   {
-    "title": "Midnight in Paris",
+    "title": "Midnight in Paris (2011)",
+    "movieTitle": "Midnight in Paris",
+    "plot": "While on a trip to Paris with his fiancée's family, a nostalgic screenwriter finds himself mysteriously going back to the 1920s every day at midnight.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM4NjY1MDQwMl5BMl5BanBnXkFtZTcwNTI3Njg3NA@@._V1_SX300.jpg",
+    "imdbId": "tt1605783",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1963,7 +2519,11 @@
     ]
   },
   {
-    "title": "Miracle On 34th Street",
+    "title": "Miracle On 34th Street (1947)",
+    "movieTitle": "Miracle on 34th Street",
+    "plot": "When a nice old man who claims to be Santa Claus is institutionalized as insane, a young lawyer decides to defend him by arguing in court that he is the real thing.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRkOGEwYTUtY2E5Yy00ODg4LTk2ZWItY2IyMzUxOGVhMTM1XkEyXkFqcGdeQXVyNDk0MDg4NDk@._V1_SX300.jpg",
+    "imdbId": "tt0039628",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1980,7 +2540,11 @@
     ]
   },
   {
-    "title": "Miss Juneteenth",
+    "title": "Miss Juneteenth (2020)",
+    "movieTitle": "Miss Juneteenth",
+    "plot": "A former beauty queen and single mom prepares her rebellious teenage daughter for the \"Miss Juneteenth\" pageant.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTA5ZWU4ZTYtMGY0ZC00M2FkLTlmODktZDJmNGJjZjdhYzEwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt11394158",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -1997,10 +2561,19 @@
     ]
   },
   {
-    "title": "Mouse Hunt"
+    "title": "Mouse Hunt (1997)",
+    "movieTitle": "Mouse Hunt",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Moxie",
+    "title": "Moxie (2021)",
+    "movieTitle": "Moxie",
+    "plot": "Inspired by her mom's rebellious past and a confident new friend, a shy 16-year-old publishes an anonymous zine calling out sexism at her school.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjkwYzY2OTgtYjNiZi00YmNiLTk5YTQtZTQyZjM1YzA1ZmMwXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_SX300.jpg",
+    "imdbId": "tt6432466",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2017,7 +2590,11 @@
     ]
   },
   {
-    "title": "Mucho Mucho Amor",
+    "title": "Mucho Mucho Amor (2020)",
+    "movieTitle": "Mucho Mucho Amor: The Legend of Walter Mercado",
+    "plot": "Every day for decades, Walter Mercado — the iconic, gender non-conforming astrologer — mesmerized 120 million Latino viewers with his extravagance and positivity.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDE1MjlkOGQtODYwMi00ZmQ0LWI1MTMtZGQyYzIyYzIwNjVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt11378264",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2030,7 +2607,11 @@
     ]
   },
   {
-    "title": "Murderball",
+    "title": "Murderball (2005)",
+    "movieTitle": "Murderball",
+    "plot": "Quadriplegics, who play full-contact rugby in wheelchairs, overcome unimaginable obstacles to compete in the Paralympic Games in Athens, Greece.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRlYmM1MDUtODcxYi00NDFhLTg3ZmMtMjhkMTU3ZjM4ZmJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0436613",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2047,7 +2628,11 @@
     ]
   },
   {
-    "title": "Murder Mystery",
+    "title": "Murder Mystery (2019)",
+    "movieTitle": "Murder Mystery",
+    "plot": "A New York cop and his wife go on a European vacation to reinvigorate the spark in their marriage, but end up getting framed and on the run for the death of an elderly billionaire.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTA2YTI5YjUtZWI4Zi00NWQ5LWFiYmEtOTBmNTUyNDAwNjllXkEyXkFqcGdeQXVyNjIzNzM4NzA@._V1_SX300.jpg",
+    "imdbId": "tt1618434",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2064,7 +2649,11 @@
     ]
   },
   {
-    "title": "My Beautiful Laundrette",
+    "title": "My Beautiful Laundrette (1985)",
+    "movieTitle": "My Beautiful Laundrette",
+    "plot": "An ambitious Pakistani Briton and his white boyfriend strive for success and hope when they open a glamorous laundromat.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI1NjE2ODAwOF5BMl5BanBnXkFtZTcwODU2NjE2NA@@._V1_SX300.jpg",
+    "imdbId": "tt0091578",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2081,7 +2670,11 @@
     ]
   },
   {
-    "title": "Near Dark",
+    "title": "Near Dark (1987)",
+    "movieTitle": "Near Dark",
+    "plot": "A small-town farmer's son reluctantly joins a traveling group of vampires after he is bitten by a beautiful drifter.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODdkYzVhMmQtYmJhMy00MGMxLTk2ZmEtMmE0YTEwMWNhOTI5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0093605",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2098,7 +2691,11 @@
     ]
   },
   {
-    "title": "Never Rarely Sometimes Always",
+    "title": "Never Rarely Sometimes Always (2020)",
+    "movieTitle": "Never Rarely Sometimes Always",
+    "plot": "A pair of teenage girls in rural Pennsylvania travel to New York City to seek out medical help after an unintended pregnancy.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGUzZjZhMmUtZDE4Yi00NTI0LWJlMDUtNTU1OWI2ZWM1MzBmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt7772582",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2115,7 +2712,11 @@
     ]
   },
   {
-    "title": "Night At The Museum",
+    "title": "Night At The Museum (2006)",
+    "movieTitle": "Night at the Museum",
+    "plot": "A newly recruited night security guard at the Museum of Natural History discovers that an ancient curse causes the animals and exhibits on display to come to life and wreak havoc.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQyOTM4MDMxN15BMl5BanBnXkFtZTcwODg5NTQzMw@@._V1_SX300.jpg",
+    "imdbId": "tt0477347",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2132,7 +2733,11 @@
     ]
   },
   {
-    "title": "Night of the Comet",
+    "title": "Night of the Comet (1984)",
+    "movieTitle": "Night of the Comet",
+    "plot": "A comet wipes out most of life on Earth, leaving two Valley Girls fighting against cannibal zombies and a sinister group of scientists.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTQzZDVkMTctYTdlZi00MTc2LWJhMTEtM2VmZjY1MzFiYjI5L2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0087799",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2149,10 +2754,19 @@
     ]
   },
   {
-    "title": "Nine To Five From"
+    "title": "Nine To Five From (1980)",
+    "movieTitle": "Nine To Five From",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Office Christmas Party",
+    "title": "Office Christmas Party (2016)",
+    "movieTitle": "Office Christmas Party",
+    "plot": "When his uptight CEO sister threatens to shut down his branch, the branch manager throws an epic Christmas party in order to land a big client and save the day, but the party gets way out of hand...",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzgyZjE1MjUtYjFjZS00NzMzLWFmNWMtMDJjNGY0ZTgwYjc3XkEyXkFqcGdeQXVyMjQwMjk0NjI@._V1_SX300.jpg",
+    "imdbId": "tt1711525",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2169,7 +2783,11 @@
     ]
   },
   {
-    "title": "Once Upon a Time in the West",
+    "title": "Once Upon a Time in the West (1968)",
+    "movieTitle": "Once Upon a Time in the West",
+    "plot": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI5MjBmYzYtMzJhZi00NGI1LTk3MzItYjBjMzcxM2U3MDdiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbId": "tt0064116",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2186,7 +2804,11 @@
     ]
   },
   {
-    "title": "On Golden Pond",
+    "title": "On Golden Pond (1981)",
+    "movieTitle": "On Golden Pond",
+    "plot": "Norman is a curmudgeon with an estranged relationship with his daughter Chelsea. At Golden Pond, he and his wife nevertheless agree to care for Billy, the son of Chelsea's new boyfriend, and a most unexpected relationship blooms.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQ4MGZlZmYtZjY0MS00N2JhLWE0NmMtOTMwMTk4NDQ4NjE2XkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_SX300.jpg",
+    "imdbId": "tt0082846",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2203,7 +2825,11 @@
     ]
   },
   {
-    "title": "Outrageous!",
+    "title": "Outrageous! (1977)",
+    "movieTitle": "Outrageous!",
+    "plot": "A story about a female impersonator who rooms with a pregnant schizophrenic.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc2NDQ5OTQtMTI2NS00MzdmLWIxNWItODg1YzliNTQ4MDViXkEyXkFqcGdeQXVyMDAyMTY3Nw@@._V1_SX300.jpg",
+    "imdbId": "tt0076513",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2216,7 +2842,11 @@
     ]
   },
   {
-    "title": "Paterson",
+    "title": "Paterson (2017)",
+    "movieTitle": "Paterson",
+    "plot": "A quiet observation of the triumphs and defeats of daily life, along with the poetry evident in its smallest details.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUzODA4Nzk0OF5BMl5BanBnXkFtZTgwNzE1MDIwMDI@._V1_SX300.jpg",
+    "imdbId": "tt5247022",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2233,7 +2863,11 @@
     ]
   },
   {
-    "title": "Personal Best",
+    "title": "Personal Best (1982)",
+    "movieTitle": "Personal Best",
+    "plot": "The intertwined lives and loves of three highly-ranked athletes striving for the national team; Chris bounces between the beds of male coach Terry and her female friend, competitor, and role model Tory.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA5YWUyM2YtNzRiZS00NmUzLWI0MDktZmE2YjYyM2FhMGViXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX300.jpg",
+    "imdbId": "tt0084489",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2250,7 +2884,11 @@
     ]
   },
   {
-    "title": "Pitch Perfect",
+    "title": "Pitch Perfect (2012)",
+    "movieTitle": "Pitch Perfect",
+    "plot": "Beca, a freshman at Barden University, is cajoled into joining The Bellas, her school's all-girls singing group. Injecting some much needed energy into their repertoire, The Bellas take on their male rivals in a campus competition.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyMTMzNzE5N15BMl5BanBnXkFtZTcwNzg5NjM5Nw@@._V1_SX300.jpg",
+    "imdbId": "tt1981677",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2267,7 +2905,11 @@
     ]
   },
   {
-    "title": "Plan B",
+    "title": "Plan B (2009)",
+    "movieTitle": "Plan B",
+    "plot": "After girlfriend Laura dumps him for another man, Bruno plots to come between the new lovers. But his plan takes an unexpected turn, causing Bruno to question his own sexuality.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTUwOWM2MTAtYzA1Ni00NzcxLTg3MDYtMjE4OWExNmY5MzE5XkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_SX300.jpg",
+    "imdbId": "tt1408972",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2276,7 +2918,11 @@
     ]
   },
   {
-    "title": "Playtime",
+    "title": "Playtime (1967)",
+    "movieTitle": "Playtime",
+    "plot": "Monsieur Hulot curiously wanders around a high-tech Paris, paralleling a trip with a group of American tourists. Meanwhile, a nightclub/restaurant prepares its opening night, but it's still under construction.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGJiMjY4MjAtYzA3OS00MDE3LWJlMGQtOTgzMzRhYmQzZjliXkEyXkFqcGdeQXVyNzM0MTUwNTY@._V1_SX300.jpg",
+    "imdbId": "tt0062136",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2289,7 +2935,11 @@
     ]
   },
   {
-    "title": "Pleasantville",
+    "title": "Pleasantville (1998)",
+    "movieTitle": "Pleasantville",
+    "plot": "Two 1990s teenage siblings find themselves in a 1950s sitcom, where their influence begins to profoundly change that complacent world.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRlYzk4NDktODE3Ni00YjFkLWFjYmUtNjg1MzdmYmFmOTJkXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX300.jpg",
+    "imdbId": "tt0120789",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2306,7 +2956,11 @@
     ]
   },
   {
-    "title": "Poms",
+    "title": "Poms (2019)",
+    "movieTitle": "Poms",
+    "plot": "POMS is a comedy about a group of women who form a cheer leading squad at their retirement community, proving that you're never too old to 'bring it!'",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk0ZmYwZjgtZWEwZi00MWEyLWFkZmItOTUzMmU5Y2Q5YTFjXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "imdbId": "tt5125894",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2323,7 +2977,11 @@
     ]
   },
   {
-    "title": "Portrait of a Lady on Fire",
+    "title": "Portrait of a Lady on Fire (2019)",
+    "movieTitle": "Portrait of a Lady on Fire",
+    "plot": "On an isolated island in Brittany at the end of the eighteenth century, a female painter is obliged to paint a wedding portrait of a young woman.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjgwNjkwOWYtYmM3My00NzI1LTk5OGItYWY0OTMyZTY4OTg2XkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_SX300.jpg",
+    "imdbId": "tt8613070",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2340,7 +2998,11 @@
     ]
   },
   {
-    "title": "Precious",
+    "title": "Precious (2009)",
+    "movieTitle": "Precious",
+    "plot": "In New York City's Harlem circa 1987, an overweight, abused, illiterate teen who is pregnant with her second child is invited to enroll in an alternative school in hopes that her life can head in a new direction.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3NDM4ODMwNl5BMl5BanBnXkFtZTcwMTYyNDIzMw@@._V1_SX300.jpg",
+    "imdbId": "tt0929632",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2357,7 +3019,11 @@
     ]
   },
   {
-    "title": "Pretty In Pink",
+    "title": "Pretty In Pink (1986)",
+    "movieTitle": "Pretty in Pink",
+    "plot": "A poor girl must choose between the affections of dating her childhood sweetheart or a rich but sensitive playboy.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGE3ZmVjMzMtMDcxNi00YjM5LTg3NjMtZWMxYjlhNTk2MmZjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0091790",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2374,7 +3040,11 @@
     ]
   },
   {
-    "title": "Queen of Versailles",
+    "title": "Queen of Versailles (2012)",
+    "movieTitle": "The Queen of Versailles",
+    "plot": "A documentary that follows a billionaire couple as they begin construction on a mansion inspired by Versailles. During the next two years, their empire, fueled by the real estate bubble and cheap money, falters due to the economic crisis.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTM0MzY0NDc3NV5BMl5BanBnXkFtZTcwMTAyODY4Nw@@._V1_SX300.jpg",
+    "imdbId": "tt2125666",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2391,7 +3061,11 @@
     ]
   },
   {
-    "title": "Rbg",
+    "title": "Rbg (2018)",
+    "movieTitle": "RBG",
+    "plot": "The exceptional life and career of U.S. Supreme Court Justice Ruth Bader Ginsburg, who has developed a breathtaking legal legacy while becoming an unexpected pop culture icon.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE4Nzc0NDU3Nl5BMl5BanBnXkFtZTgwODIzMTQzNTM@._V1_SX300.jpg",
+    "imdbId": "tt7689964",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2408,7 +3082,11 @@
     ]
   },
   {
-    "title": "Ready or Not",
+    "title": "Ready or Not (2019)",
+    "movieTitle": "Ready or Not",
+    "plot": "A bride's wedding night takes a sinister turn when her eccentric new in-laws force her to take part in a terrifying game.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt7798634",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2425,7 +3103,11 @@
     ]
   },
   {
-    "title": "Rear Window",
+    "title": "Rear Window (1954)",
+    "movieTitle": "Rear Window",
+    "plot": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0047396",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2442,7 +3124,11 @@
     ]
   },
   {
-    "title": "Rebecca",
+    "title": "Rebecca (2020 Netflix or 1940 Hitchcock)",
+    "movieTitle": "Rebecca",
+    "plot": "A self-conscious woman juggles adjusting to her new role as an aristocrat's wife and avoiding being intimidated by his first wife's spectral presence.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbId": "tt0032976",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2459,7 +3145,11 @@
     ]
   },
   {
-    "title": "Red",
+    "title": "Red (2010)",
+    "movieTitle": "RED",
+    "plot": "When his peaceful life is threatened by a high-tech assassin, former black-ops agent Frank Moses reassembles his old team in a last-ditch effort to survive and uncover his assailants.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzg2Mjg1OTk0NF5BMl5BanBnXkFtZTcwMjQ4MTA3Mw@@._V1_SX300.jpg",
+    "imdbId": "tt1245526",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2476,7 +3166,11 @@
     ]
   },
   {
-    "title": "Rent",
+    "title": "Rent (2015)",
+    "movieTitle": "Rent",
+    "plot": "This is the film version of the Pulitzer and Tony Award winning musical about Bohemians in the East Village of New York City struggling with life, love and AIDS, and the impacts they have on America.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTNmZWI2NzItNmNmMC00ZGY2LWE4ZTAtNjMxZTJiZWUwMzAyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0294870",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2493,7 +3187,11 @@
     ]
   },
   {
-    "title": "Revolutionary Road",
+    "title": "Revolutionary Road (2008)",
+    "movieTitle": "Revolutionary Road",
+    "plot": "A young couple living in a Connecticut suburb during the mid-1950s struggle to come to terms with their personal problems while trying to raise their two children.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczNDgzMjczOV5BMl5BanBnXkFtZTcwOTU3MzMwMg@@._V1_SX300.jpg",
+    "imdbId": "tt0959337",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2510,7 +3208,11 @@
     ]
   },
   {
-    "title": "Roll With Me",
+    "title": "Roll With Me (2018)",
+    "movieTitle": "Roll with Me",
+    "plot": "After hitting rock-bottom, a newly sober paraplegic attempts to save his gang-banger nephew's life by bringing him along on a 3,100-mile wheelchair trek across the United States.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDBkM2Y2ZDMtMThiMC00NTI5LWFiNDQtNWE2YzczZWU3MGY4XkEyXkFqcGdeQXVyMTI0MTY1NjM@._V1_SX300.jpg",
+    "imdbId": "tt5655642",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2519,7 +3221,11 @@
     ]
   },
   {
-    "title": "Room",
+    "title": "Room (2015)",
+    "movieTitle": "Room",
+    "plot": "Held captive for 7 years in an enclosed space, a woman and her young son finally gain their freedom, allowing the boy to experience the outside world for the first time.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_SX300.jpg",
+    "imdbId": "tt3170832",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2536,7 +3242,11 @@
     ]
   },
   {
-    "title": "Saturday Night and Sunday Morning",
+    "title": "Saturday Night and Sunday Morning (1960)",
+    "movieTitle": "Saturday Night and Sunday Morning",
+    "plot": "A rebellious, hard-living factory worker juggles relationships with two women, one of whom is married to another man but pregnant with his child.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODc1MGE3ZWUtOTEzYi00NzIxLWIyMjYtZjZkYzhlYWJkOGIyXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX300.jpg",
+    "imdbId": "tt0054269",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2549,7 +3259,11 @@
     ]
   },
   {
-    "title": "Science Fair",
+    "title": "Science Fair (2018)",
+    "movieTitle": "Science Fair",
+    "plot": "Nine high school students from disparate corners of the globe navigate rivalries, setbacks, and hormones on their quest to win the international science fair. Only one can be named \"Best in Fair.\"",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU0MzE3Njc0M15BMl5BanBnXkFtZTgwODYwMzUzNjM@._V1_SX300.jpg",
+    "imdbId": "tt7153434",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2566,7 +3280,11 @@
     ]
   },
   {
-    "title": "Seventeen Again",
+    "title": "Seventeen Again (2009)",
+    "movieTitle": "Seventeen Again",
+    "plot": "While divorced and bickering grandparents watch their grandchildren, a lab experiment gone awry transforms the elders into teenagers again.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5OTM5MjgzN15BMl5BanBnXkFtZTcwNDgxNjkyMQ@@._V1_SX300.jpg",
+    "imdbId": "tt0194422",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2579,7 +3297,11 @@
     ]
   },
   {
-    "title": "Sex Drive",
+    "title": "Sex Drive (2008)",
+    "movieTitle": "Sex Drive",
+    "plot": "A high school senior drives cross-country with his best friends to hook up with a babe he met online.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0MTcyMzg5M15BMl5BanBnXkFtZTcwMDUyOTA4MQ@@._V1_SX300.jpg",
+    "imdbId": "tt1135985",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2596,10 +3318,19 @@
     ]
   },
   {
-    "title": "Shaolin Soccer"
+    "title": "Shaolin Soccer (2001)",
+    "movieTitle": "Shaolin Soccer",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Sing",
+    "title": "Sing (2016)",
+    "movieTitle": "Sing",
+    "plot": "In a city of humanoid animals, a hustling theater impresario's attempt to save his theater with a singing competition becomes grander than he anticipates even as its finalists find that their lives will never be the same.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX300.jpg",
+    "imdbId": "tt3470600",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2616,7 +3347,11 @@
     ]
   },
   {
-    "title": "Sister Act",
+    "title": "Sister Act (1992)",
+    "movieTitle": "Sister Act",
+    "plot": "When a nightclub singer is forced to take refuge from the mob in a convent, she ends up turning the convent choir into a soulful chorus complete with a Motown repertoire, until the sudden celebrity of the choir jeopardizes her identi",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTFmOTYxOWMtMDE2MC00ODhmLTlhM2QtZjZkZmVhZGYyNGFlXkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SX300.jpg",
+    "imdbId": "tt0105417",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2633,7 +3368,11 @@
     ]
   },
   {
-    "title": "Someone Great",
+    "title": "Someone Great (2019)",
+    "movieTitle": "Someone Great",
+    "plot": "After a devastating break up on the eve of her cross-country move, Jenny enjoys one last NYC adventure with her two best pals. Someone Great is a romantic comedy about love, loss, growth and the everlasting bond of female friendship.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5MzQ0NjA5Ml5BMl5BanBnXkFtZTgwNjA1MTg1NzM@._V1_SX300.jpg",
+    "imdbId": "tt8075260",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2650,7 +3389,11 @@
     ]
   },
   {
-    "title": "Somewhere",
+    "title": "Somewhere (2010)",
+    "movieTitle": "Somewhere",
+    "plot": "After withdrawing to the Chateau Marmont, a passionless Hollywood actor reexamines his life when his eleven-year-old daughter surprises him with a visit.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg1MzE1NDA0M15BMl5BanBnXkFtZTcwODM2MDY1Mw@@._V1_SX300.jpg",
+    "imdbId": "tt1421051",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2667,7 +3410,11 @@
     ]
   },
   {
-    "title": "Spirited Away",
+    "title": "Spirited Away (2001)",
+    "movieTitle": "Spirited Away",
+    "plot": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt0245429",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2684,10 +3431,19 @@
     ]
   },
   {
-    "title": "Star Trek: The Original Series Motion Picture Franchise"
+    "title": "Star Trek: The Original Series Motion Picture Franchise (1979 - 1991)",
+    "movieTitle": "Star Trek: The Original Series Motion Picture Franchise",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Stepbrothers",
+    "title": "Stepbrothers (2008)",
+    "movieTitle": "Stepbrothers",
+    "plot": "In a military family, an illegitimate son is brutalized by his brothers. A patriarchal, feudalistic household where dissent is forbidden is used to reveal the whole imperialist system that afflicted Japan between 1921 and 1946.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE3MDE1MDEtYzA2Zi00ODllLTlmZmMtYzIzOWM4MjhiNTMwXkEyXkFqcGdeQXVyNTcwNjUwNzk@._V1_SX300.jpg",
+    "imdbId": "tt0262478",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2696,7 +3452,11 @@
     ]
   },
   {
-    "title": "Strong Island",
+    "title": "Strong Island (2017)",
+    "movieTitle": "Strong Island",
+    "plot": "When filmmaker Yance Ford investigates the 1992 murder of a young black man, it becomes an achingly personal journey since the victim, 24-year-old William Ford Jr., was the filmmaker's brother.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTlmNjU3NTktNDRjZi00MDVmLThmMTAtMzJmNDM0MTdhMzZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt5873150",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2713,7 +3473,11 @@
     ]
   },
   {
-    "title": "Superbad",
+    "title": "Superbad (2007)",
+    "movieTitle": "Superbad",
+    "plot": "Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NjIyMjA2OF5BMl5BanBnXkFtZTcwMzIxNDE1MQ@@._V1_SX300.jpg",
+    "imdbId": "tt0829482",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2730,7 +3494,11 @@
     ]
   },
   {
-    "title": "Support the Girls",
+    "title": "Support the Girls (2018)",
+    "movieTitle": "Support the Girls",
+    "plot": "The general manager at a highway-side ''sports bar with curves\" has her incurable optimism and faith, in her girls, her customers, and herself, tested over the course of a long, strange day.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDczMDQ0ZTAtMTY1OC00ZTA1LTljMGItZDc4OTljZmMzMDFhXkEyXkFqcGdeQXVyODAzODU1NDQ@._V1_SX300.jpg",
+    "imdbId": "tt6859352",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2747,7 +3515,11 @@
     ]
   },
   {
-    "title": "Tangerine",
+    "title": "Tangerine (2015)",
+    "movieTitle": "Tangerine",
+    "plot": "A hooker tears through Tinseltown on Christmas Eve searching for the pimp who broke her heart.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjEzNzY2NjYwOV5BMl5BanBnXkFtZTgwOTY1MDU1NTE@._V1_SX300.jpg",
+    "imdbId": "tt3824458",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2764,7 +3536,11 @@
     ]
   },
   {
-    "title": "The Beach",
+    "title": "The Beach (2000)",
+    "movieTitle": "The Beach",
+    "plot": "On vacation in Thailand, Richard sets out for an island rumored to be a solitary beach paradise.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTljZTUzYWUtOTI4YS00NmZlLWE5MmQtZjFlZDZhNjg4MjQxXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SX300.jpg",
+    "imdbId": "tt0163978",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2781,7 +3557,11 @@
     ]
   },
   {
-    "title": "The Big Chill",
+    "title": "The Big Chill (1983)",
+    "movieTitle": "The Big Chill",
+    "plot": "A group of seven former college friends gather for a week-end reunion at a South Carolina vacation home after the funeral of another of their college friends.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA4MjEyMTk5NzheQTJeQWpwZ15BbWU4MDY1NDA1MTAx._V1_SX300.jpg",
+    "imdbId": "tt0085244",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2798,7 +3578,11 @@
     ]
   },
   {
-    "title": "The Book Club",
+    "title": "The Book Club (2018)",
+    "movieTitle": "The Book Club",
+    "plot": "N/A",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDcxNjI1MDM0OV5BMl5BanBnXkFtZTgwNDA1Njk2MTE@._V1_SX300.jpg",
+    "imdbId": "tt2403972",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2807,7 +3591,11 @@
     ]
   },
   {
-    "title": "The Boss",
+    "title": "The Boss (2016)",
+    "movieTitle": "The Boss",
+    "plot": "A titan of industry is sent to prison after she's caught insider trading. When she emerges ready to rebrand herself as America's latest sweetheart, not everyone she screwed over is so quick to forgive and forget.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjQzNTUwNDU0OV5BMl5BanBnXkFtZTgwNzU5NTAwODE@._V1_SX300.jpg",
+    "imdbId": "tt2702724",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2824,7 +3612,11 @@
     ]
   },
   {
-    "title": "The Bounty Hunter",
+    "title": "The Bounty Hunter (2010)",
+    "movieTitle": "The Bounty Hunter",
+    "plot": "A bounty hunter learns that his next target is his ex-wife, a reporter working on a murder cover-up. Soon after their reunion, the always-at-odds duo find themselves on a run-for-their-lives adventure.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUwNjY4MjY0MV5BMl5BanBnXkFtZTcwNTA2OTYwMw@@._V1_SX300.jpg",
+    "imdbId": "tt1038919",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2841,7 +3633,11 @@
     ]
   },
   {
-    "title": "The Call Of The Wild",
+    "title": "The Call Of The Wild (2020)",
+    "movieTitle": "The Call of the Wild",
+    "plot": "A sled dog struggles for survival in the wilds of the Yukon.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA1ZmQ2OGMtZDhkMC00ZjRkLWE3ZTMtMzA5ZTk0YjM1OGRmXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SX300.jpg",
+    "imdbId": "tt7504726",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2858,7 +3654,11 @@
     ]
   },
   {
-    "title": "The Christmas Setup",
+    "title": "The Christmas Setup (2020)",
+    "movieTitle": "The Christmas Setup",
+    "plot": "As they enjoy the local holidays together, Hugo and Patrick's attraction to each other is undeniable but as Hugo receives word of a big promotion requiring a move to London, he must decide what is most important to him.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWUyZjg2NjktZjg2Mi00Njc3LTkyMzQtZjlhNzgwNmM3ODI5XkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_SX300.jpg",
+    "imdbId": "tt13147656",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2867,7 +3667,11 @@
     ]
   },
   {
-    "title": "The Craft",
+    "title": "The Craft (1996)",
+    "movieTitle": "The Craft",
+    "plot": "A newcomer to a Catholic prep high school falls in with a trio of outcast teenage girls who practice witchcraft, and they all soon conjure up various spells and curses against those who anger them.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTBkMWE1NGItZTgxMi00ZTE0LWIzZjAtNzQ5ZGZlZTQxN2EwXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0115963",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2884,7 +3688,11 @@
     ]
   },
   {
-    "title": "The Devil Wears Prada",
+    "title": "The Devil Wears Prada (2006)",
+    "movieTitle": "The Devil Wears Prada",
+    "plot": "A smart but sensible new graduate lands a job as an assistant to Miranda Priestly, the demanding editor-in-chief of a high fashion magazine.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjQ3ZTIzOTItMGNjNC00MWRmLWJlMGEtMjJmMDM5ZDIzZGM3XkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+    "imdbId": "tt0458352",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2901,7 +3709,11 @@
     ]
   },
   {
-    "title": "The Duff",
+    "title": "The Duff (2015)",
+    "movieTitle": "The DUFF",
+    "plot": "A high school senior instigates a social pecking order revolution after finding out that she has been labeled the DUFF - Designated Ugly Fat Friend - by her prettier, more popular counterparts.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc3OTg3MDUwN15BMl5BanBnXkFtZTgwMTAwMTkxNDE@._V1_SX300.jpg",
+    "imdbId": "tt1666801",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2918,7 +3730,11 @@
     ]
   },
   {
-    "title": "The Edge of Seventeen",
+    "title": "The Edge of Seventeen (2016)",
+    "movieTitle": "The Edge of Seventeen",
+    "plot": "High-school life gets even more unbearable for Nadine when her best friend, Krista, starts dating her older brother.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODE2NjE4NjYyMV5BMl5BanBnXkFtZTgwNzk3MjQ0OTE@._V1_SX300.jpg",
+    "imdbId": "tt1878870",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2935,7 +3751,11 @@
     ]
   },
   {
-    "title": "The Five Year Engagement",
+    "title": "The Five Year Engagement (2012)",
+    "movieTitle": "The Five-Year Engagement",
+    "plot": "One year after meeting, Tom proposes to his girlfriend, Violet, but unexpected events keep tripping them up as they look to walk down the aisle together.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MDE1NTA3M15BMl5BanBnXkFtZTcwNDcwNTMxNw@@._V1_SX300.jpg",
+    "imdbId": "tt1195478",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2952,7 +3772,11 @@
     ]
   },
   {
-    "title": "The Glass Castle",
+    "title": "The Glass Castle (2017)",
+    "movieTitle": "The Glass Castle",
+    "plot": "A young girl comes of age in a dysfunctional family of nonconformist nomads with a mother who's an eccentric artist and an alcoholic father who would stir the children's imagination with hope as a distraction to their poverty.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY2Nzk0MDE3Nl5BMl5BanBnXkFtZTgwOTI0ODc0MjI@._V1_SX300.jpg",
+    "imdbId": "tt2378507",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2969,7 +3793,11 @@
     ]
   },
   {
-    "title": "The Gods Must Be Crazy",
+    "title": "The Gods Must Be Crazy (1980)",
+    "movieTitle": "The Gods Must Be Crazy",
+    "plot": "A comic allegory about a traveling Bushman who encounters modern civilization and its stranger aspects, including a clumsy scientist and a band of revolutionaries.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWE0MThhNGQtZmFmNS00NTliLWFiZDgtNmE1MTQyNmVmNzQ5XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+    "imdbId": "tt0080801",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -2986,7 +3814,11 @@
     ]
   },
   {
-    "title": "The Guilt Trip",
+    "title": "The Guilt Trip (2012)",
+    "movieTitle": "The Guilt Trip",
+    "plot": "As inventor Andy Brewster is about to embark on the road trip of a lifetime, a quick stop at his mom's house turns into an unexpected cross-country voyage with her along for the ride.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY5ODAxNDc0Nl5BMl5BanBnXkFtZTcwMzg0NDY1OA@@._V1_SX300.jpg",
+    "imdbId": "tt1694020",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3003,7 +3835,11 @@
     ]
   },
   {
-    "title": "The Half of It",
+    "title": "The Half of It (2020)",
+    "movieTitle": "The Half of It",
+    "plot": "When smart but cash-strapped teen Ellie Chu agrees to write a love letter for a jock, she doesn't expect to become his friend - or fall for his crush.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2RlZmZkOTUtMDI5Ni00ZjZmLWI1OTItZmUwNWE4ZWVjNzFiXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_SX300.jpg",
+    "imdbId": "tt9683478",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3020,10 +3856,19 @@
     ]
   },
   {
-    "title": "The Honeys And The Bears"
+    "title": "The Honeys And The Bears (2015)",
+    "movieTitle": "The Honeys And The Bears",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "The Hudsucker Proxy",
+    "title": "The Hudsucker Proxy (1994)",
+    "movieTitle": "The Hudsucker Proxy",
+    "plot": "A naive business graduate is installed as president of a manufacturing company as part of a stock scam.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzNkYzI4ZTYtZjJlZC00ZTVjLTk2MDYtYWMwODA0NmFiYTIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "imdbId": "tt0110074",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3040,7 +3885,11 @@
     ]
   },
   {
-    "title": "The Incredible Jessica James",
+    "title": "The Incredible Jessica James (2017)",
+    "movieTitle": "The Incredible Jessica James",
+    "plot": "An aspiring playwright in New York strikes up a friendship with a guy while on the rebound from a break-up.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUxODczMTQ2Ml5BMl5BanBnXkFtZTgwNDI1ODA5MjI@._V1_SX300.jpg",
+    "imdbId": "tt5990342",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3057,7 +3906,11 @@
     ]
   },
   {
-    "title": "The Invisible Man",
+    "title": "The Invisible Man (2020)",
+    "movieTitle": "The Invisible Man",
+    "plot": "When Cecilia's abusive ex takes his own life and leaves her his fortune, she suspects his death was a hoax. As a series of coincidences turn lethal, Cecilia works to prove that she is being hunted by someone nobody can see.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjFhM2I4ZDYtZWMwNC00NTYzLWE3MDgtNjgxYmM3ZWMxYmVmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg",
+    "imdbId": "tt1051906",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3070,7 +3923,11 @@
     ]
   },
   {
-    "title": "The Kids Are Alright",
+    "title": "The Kids Are Alright (2010)",
+    "movieTitle": "The Kids Are Alright",
+    "plot": "Interviews, TV clips and concert footage make up this comprehensive profile of The Who, Britain's premiere rock band.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWNkYmVhNTYtNDM3Ni00NzIxLWE3ZTktNjBkMGY2NGU2NzZlXkEyXkFqcGdeQXVyMTY5Nzc4MDY@._V1_SX300.jpg",
+    "imdbId": "tt0079400",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3079,7 +3936,11 @@
     ]
   },
   {
-    "title": "The Lovers",
+    "title": "The Lovers (2017)",
+    "movieTitle": "The Lovers",
+    "plot": "Debra Winger and Tracy Letts play a long-married, dispassionate couple who are both in the midst of serious affairs. But on the brink of calling it quits, a spark between them suddenly reignites, leading them into an impulsive romanc",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNTE5OTc0N15BMl5BanBnXkFtZTgwMjMzMTIwMTI@._V1_SX300.jpg",
+    "imdbId": "tt5770620",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3096,7 +3957,11 @@
     ]
   },
   {
-    "title": "The Martian",
+    "title": "The Martian (2015)",
+    "movieTitle": "The Martian",
+    "plot": "An astronaut becomes stranded on Mars after his team assume him dead, and must rely on his ingenuity to find a way to signal to Earth that he is alive.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2MTQ3MDA1Nl5BMl5BanBnXkFtZTgwODA3OTI4NjE@._V1_SX300.jpg",
+    "imdbId": "tt3659388",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3113,7 +3978,11 @@
     ]
   },
   {
-    "title": "The Meddler",
+    "title": "The Meddler (2016)",
+    "movieTitle": "The Meddler",
+    "plot": "An aging widow from New York City follows her daughter to Los Angeles in hopes of starting a new life after her husband passes away.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0NDQ2Njk4Nl5BMl5BanBnXkFtZTgwMTQwMDMyODE@._V1_SX300.jpg",
+    "imdbId": "tt4501454",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3130,7 +3999,11 @@
     ]
   },
   {
-    "title": "The Mistle-tones",
+    "title": "The Mistle-tones (2012)",
+    "movieTitle": "The Mistle-Tones",
+    "plot": "A talented singer forms a musical group and challenges her rivals to a competition on Christmas Eve.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ2ODYyMzI0N15BMl5BanBnXkFtZTgwMzkzOTAxMzE@._V1_SX300.jpg",
+    "imdbId": "tt2490352",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3143,7 +4016,11 @@
     ]
   },
   {
-    "title": "The Nutty Professor",
+    "title": "The Nutty Professor (1963)",
+    "movieTitle": "The Nutty Professor",
+    "plot": "Grossly overweight yet good-hearted professor Sherman Klump takes a special chemical that turns him into the slim but obnoxious Buddy Love.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcwODlmZDktNWRkOC00NTFlLTkyMjQtYWUxMzZkNDE4MGVmXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg",
+    "imdbId": "tt0117218",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3160,7 +4037,11 @@
     ]
   },
   {
-    "title": "The Paper Chase",
+    "title": "The Paper Chase (1973)",
+    "movieTitle": "The Paper Chase",
+    "plot": "A first-year law student at Harvard Law School struggles with balancing his coursework and his relationship with the daughter of his sternest professor.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGE3MTQ3YmItYzlkZi00MzIxLWFiZDUtMDA1Y2QwN2Q2YjRmXkEyXkFqcGdeQXVyMzg1ODEwNQ@@._V1_SX300.jpg",
+    "imdbId": "tt0070509",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3177,7 +4058,11 @@
     ]
   },
   {
-    "title": "The Queen",
+    "title": "The Queen (2006)",
+    "movieTitle": "The Queen",
+    "plot": "After the death of Princess Diana, Queen Elizabeth II struggles with her reaction to a sequence of events nobody could have predicted.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3NTMxODg1Ml5BMl5BanBnXkFtZTcwMjEyMjczMQ@@._V1_SX300.jpg",
+    "imdbId": "tt0436697",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3194,7 +4079,11 @@
     ]
   },
   {
-    "title": "The Quick And The Dead",
+    "title": "The Quick And The Dead (1995)",
+    "movieTitle": "The Quick and the Dead",
+    "plot": "A female gunfighter returns to a frontier town where a dueling tournament is being held, which she enters in an effort to avenge her father's death.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI2ZTZmMmItMmM3YS00ZjUwLWJiODMtMmRjMWM4NDE0OWFhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0114214",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3211,10 +4100,19 @@
     ]
   },
   {
-    "title": "The Return of Martin Guerre"
+    "title": "The Return of Martin Guerre (1982)",
+    "movieTitle": "The Return of Martin Guerre",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "The Revenant",
+    "title": "The Revenant (2015)",
+    "movieTitle": "The Revenant",
+    "plot": "A frontiersman on a fur trading expedition in the 1820s fights for survival after being mauled by a bear and left for dead by members of his own hunting team.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDE5OWMzM2QtOTU2ZS00NzAyLWI2MDEtOTRlYjIxZGM0OWRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg",
+    "imdbId": "tt1663202",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3231,7 +4129,11 @@
     ]
   },
   {
-    "title": "The Savages",
+    "title": "The Savages (2007)",
+    "movieTitle": "The Savages",
+    "plot": "A sister and brother face the realities of familial responsibility as they begin to care for their ailing father.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5NjMyMjk0OF5BMl5BanBnXkFtZTYwNzM4MDM4._V1_SX300.jpg",
+    "imdbId": "tt0775529",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3248,7 +4150,11 @@
     ]
   },
   {
-    "title": "The Secret Life of Walter Mitty",
+    "title": "The Secret Life of Walter Mitty (2013)",
+    "movieTitle": "The Secret Life of Walter Mitty",
+    "plot": "When both he and a colleague are about to lose their job, Walter takes action by embarking on an adventure more extraordinary than anything he could have ever imagined.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYwNDYxNDk1Nl5BMl5BanBnXkFtZTgwOTAwMTk2MDE@._V1_SX300.jpg",
+    "imdbId": "tt0359950",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3265,7 +4171,11 @@
     ]
   },
   {
-    "title": "The Shawshank Redemption",
+    "title": "The Shawshank Redemption (1994)",
+    "movieTitle": "The Shawshank Redemption",
+    "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt0111161",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3282,7 +4192,11 @@
     ]
   },
   {
-    "title": "The Shining",
+    "title": "The Shining (1980)",
+    "movieTitle": "The Shining",
+    "plot": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0081505",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3299,7 +4213,11 @@
     ]
   },
   {
-    "title": "The Stuff",
+    "title": "The Stuff (1985)",
+    "movieTitle": "The Stuff",
+    "plot": "A delicious, mysterious goo that oozes from the earth is marketed as the newest dessert sensation, but the tasty treat rots more than teeth when zombie-like snackers who only want to consume more of the strange substance at any cost begin infesting the world.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTExOTkyNTMtYjczYS00NWU5LTlkN2ItMTM2MjYzYTVkOWRjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0090094",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3312,7 +4230,11 @@
     ]
   },
   {
-    "title": "The Switch",
+    "title": "The Switch (2010)",
+    "movieTitle": "The Switch",
+    "plot": "Seven years after the fact, a man comes to the realization that he was the sperm donor for his best friend's boy.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODQ5ODc0MjU1N15BMl5BanBnXkFtZTcwMTc3NzcyMw@@._V1_SX300.jpg",
+    "imdbId": "tt0889573",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3329,7 +4251,11 @@
     ]
   },
   {
-    "title": "The Tenant",
+    "title": "The Tenant (1976)",
+    "movieTitle": "The Tenant",
+    "plot": "A bureaucrat rents a Paris apartment where he finds himself drawn into a rabbit hole of dangerous paranoia.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmVhMDQ1YWUtYjgxOS00NzYyLWI0ZGItNTg3ZjM0MmQ4NmIwXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SX300.jpg",
+    "imdbId": "tt0074811",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3346,7 +4272,11 @@
     ]
   },
   {
-    "title": "The Thing",
+    "title": "The Thing (1982)",
+    "movieTitle": "The Thing",
+    "plot": "A research team in Antarctica is hunted by a shape-shifting alien that assumes the appearance of its victims.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+    "imdbId": "tt0084787",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3363,7 +4293,11 @@
     ]
   },
   {
-    "title": "The Treasure of the Sierra Madre",
+    "title": "The Treasure of the Sierra Madre (1948)",
+    "movieTitle": "The Treasure of the Sierra Madre",
+    "plot": "Two Americans searching for work in Mexico convince an old prospector to help them mine for gold in the Sierra Madre Mountains.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg",
+    "imdbId": "tt0040897",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3380,7 +4314,11 @@
     ]
   },
   {
-    "title": "The Visit",
+    "title": "The Visit (2015)",
+    "movieTitle": "The Visit",
+    "plot": "Two siblings become increasingly frightened by their grandparents' disturbing behavior while visiting them on vacation.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTg3OTM2OTc5MV5BMl5BanBnXkFtZTgwMjMxNDM0NTE@._V1_SX300.jpg",
+    "imdbId": "tt3567288",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3397,7 +4335,11 @@
     ]
   },
   {
-    "title": "The Wall",
+    "title": "The Wall (2012)",
+    "movieTitle": "The Wall",
+    "plot": "Two American Soldiers are trapped by a lethal sniper, with only an unsteady wall between them.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc5ODMyNzE4OF5BMl5BanBnXkFtZTgwNTM0Mzc4MTI@._V1_SX300.jpg",
+    "imdbId": "tt4218696",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3414,7 +4356,11 @@
     ]
   },
   {
-    "title": "Think Like a Man",
+    "title": "Think Like a Man (2012)",
+    "movieTitle": "Think Like a Man",
+    "plot": "Four friends conspire to turn the tables on their women when they discover the ladies have been using Steve Harvey's relationship advice against them.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExNTc4NDg3OV5BMl5BanBnXkFtZTcwNTMzNDAxNw@@._V1_SX300.jpg",
+    "imdbId": "tt1621045",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3431,7 +4377,11 @@
     ]
   },
   {
-    "title": "Thirteenth",
+    "title": "Thirteenth (2016)",
+    "movieTitle": "The Thirteenth Floor",
+    "plot": "A computer scientist running a virtual reality simulation of 1937 becomes the primary suspect when his colleague and mentor is murdered.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYxZTZlZTgtNTM5MC00N2RhLTg3MjUtNGVkMDJjMGY3YzA5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0139809",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3448,7 +4398,11 @@
     ]
   },
   {
-    "title": "This is Where I Leave You",
+    "title": "This is Where I Leave You (2014)",
+    "movieTitle": "This Is Where I Leave You",
+    "plot": "After their father passes away, four grown siblings are forced to return to their childhood home and live under the same roof for a week, along with their over-sharing mother and an assortment of spouses, exes and might-have-beens.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjkzNzQ2NDMyNl5BMl5BanBnXkFtZTgwMTY3MTcxMjE@._V1_SX300.jpg",
+    "imdbId": "tt1371150",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3465,10 +4419,19 @@
     ]
   },
   {
-    "title": "To All The Boys I Loved Before trilogy"
+    "title": "To All The Boys I Loved Before trilogy (2018 - 2021)",
+    "movieTitle": "To All The Boys I Loved Before trilogy",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "To Be Takei",
+    "title": "To Be Takei (2014)",
+    "movieTitle": "To Be Takei",
+    "plot": "A look at the many roles played by eclectic actor/activist George Takei, whose wit, humor and grace have helped him to become an internationally beloved figure and Internet phenomenon with 7-million Facebook fans and counting.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI2NzQxNDEzMF5BMl5BanBnXkFtZTgwMTg1MTU0MjE@._V1_SX300.jpg",
+    "imdbId": "tt2174896",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3485,7 +4448,11 @@
     ]
   },
   {
-    "title": "Toni Erdmann",
+    "title": "Toni Erdmann (2016)",
+    "movieTitle": "Toni Erdmann",
+    "plot": "A practical joking father tries to reconnect with his hard working daughter by creating an outrageous alter ego and posing as her CEO's life coach.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzA4OGQ5NmMtNzM1ZC00YzIxLThmZWQtODkyYTA0ZGI3MGIzXkEyXkFqcGdeQXVyMjQwNjczOTE@._V1_SX300.jpg",
+    "imdbId": "tt4048272",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3502,7 +4469,11 @@
     ]
   },
   {
-    "title": "Top Five",
+    "title": "Top Five (2014)",
+    "movieTitle": "Top Five",
+    "plot": "A comedian tries to make it as a serious actor when his reality television star fiancée talks him into broadcasting their wedding on her television show.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIzNTg4ODM3OV5BMl5BanBnXkFtZTgwMTk0MjkxMzE@._V1_SX300.jpg",
+    "imdbId": "tt2784678",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3519,7 +4490,11 @@
     ]
   },
   {
-    "title": "Touch of Evil",
+    "title": "Touch of Evil (1958)",
+    "movieTitle": "Touch of Evil",
+    "plot": "A stark, perverse story of murder, kidnapping, and police corruption in a Mexican border town.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA1MjA3M2EtMmJjZS00OWViLTkwMTEtM2E5ZDk0NTAyNGJiXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+    "imdbId": "tt0052311",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3536,7 +4511,11 @@
     ]
   },
   {
-    "title": "Tree of Life",
+    "title": "Tree of Life (2011)",
+    "movieTitle": "Tree of Life",
+    "plot": "A young man searches for a mythical tree of magical powers that can save his dying father. But when he arrives, the keeper of the tree demands an horrific sacrifice.",
+    "poster": "N/A",
+    "imdbId": "tt1877817",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3545,7 +4524,11 @@
     ]
   },
   {
-    "title": "Troop Zero",
+    "title": "Troop Zero (2020)",
+    "movieTitle": "Troop Zero",
+    "plot": "In rural 1977 Georgia, a misfit girl dreams of life in outer space. When a competition offers her a chance to be recorded on NASA's Golden Record, she recruits a makeshift troop of Birdie Scouts, forging friendships that last a lifet",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDE0NjA0NGYtOGE2Yi00MTY4LTg4OTMtMzAyZmFiNjRhODcxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg",
+    "imdbId": "tt2404465",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3562,10 +4545,19 @@
     ]
   },
   {
-    "title": "Truman Capote’s A Christmas Memory"
+    "title": "Truman Capote’s A Christmas Memory (1966)",
+    "movieTitle": "Truman Capote’s A Christmas Memory",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Under the Tuscan Sun",
+    "title": "Under the Tuscan Sun (2003)",
+    "movieTitle": "Under the Tuscan Sun",
+    "plot": "A writer impulsively buys a villa in Tuscany in order to change her life.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGY5ZjQ4M2ItMjQ0NC00NjY4LWIwYmEtMTIxNzFmNjA4YmJlXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg",
+    "imdbId": "tt0328589",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3582,7 +4574,11 @@
     ]
   },
   {
-    "title": "Unfaithful",
+    "title": "Unfaithful (2002)",
+    "movieTitle": "Unfaithful",
+    "plot": "A New York suburban couple's marriage goes dangerously awry when the wife indulges in an adulterous fling.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTQzZTE2N2QtM2QwMS00ZjUwLTg4ZDEtYjJiOTMwZjYxODJlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0250797",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3599,7 +4595,11 @@
     ]
   },
   {
-    "title": "Up in the Air",
+    "title": "Up in the Air (2009)",
+    "movieTitle": "Up in the Air",
+    "plot": "Ryan Bingham enjoys living out of a suitcase for his job, travelling around the country firing people, but finds that lifestyle threatened by the presence of a potential love interest, and a new hire presenting a new business model.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTI3MzYxMTA4NF5BMl5BanBnXkFtZTcwMDE4ODg3Mg@@._V1_SX300.jpg",
+    "imdbId": "tt1193138",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3616,7 +4616,11 @@
     ]
   },
   {
-    "title": "Velvet Buzzsaw",
+    "title": "Velvet Buzzsaw (2019)",
+    "movieTitle": "Velvet Buzzsaw",
+    "plot": "A satire set in the contemporary art world scene of Los Angeles, where big money artists and mega-collectors pay a high price when art collides with commerce.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjExMDQ1NjMzOV5BMl5BanBnXkFtZTgwMjkxMzMyNzM@._V1_SX300.jpg",
+    "imdbId": "tt7043012",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3633,10 +4637,19 @@
     ]
   },
   {
-    "title": "Village of Giants"
+    "title": "Village of Giants (1965)",
+    "movieTitle": "Village of Giants",
+    "plot": null,
+    "poster": null,
+    "imdbId": null,
+    "ratings": []
   },
   {
-    "title": "Wendy",
+    "title": "Wendy (2020)",
+    "movieTitle": "Wendy",
+    "plot": "Lost on a mysterious island where aging and time have come unglued, Wendy must fight to save her family, her freedom, and the joyous spirit of youth from the deadly peril of growing up.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NlODlkZWEtN2U2OC00MTI4LTlhMTEtZTM0MDIyODZiMDhhXkEyXkFqcGdeQXVyMTA1NTA1MTI4._V1_SX300.jpg",
+    "imdbId": "tt2420124",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3653,7 +4666,11 @@
     ]
   },
   {
-    "title": "Whale Rider",
+    "title": "Whale Rider (2002)",
+    "movieTitle": "Whale Rider",
+    "plot": "A contemporary story of love, rejection and triumph as a young Maori girl fights to fulfill a destiny her grandfather refuses to recognize.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjM3MzE2OTEwNF5BMl5BanBnXkFtZTcwNTkyMTg4NA@@._V1_SX300.jpg",
+    "imdbId": "tt0298228",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3670,7 +4687,11 @@
     ]
   },
   {
-    "title": "What Men Want",
+    "title": "What Men Want (2019)",
+    "movieTitle": "What Men Want",
+    "plot": "A woman is boxed out by the male sports agents in her profession, but gains an unexpected edge over them when she develops the ability to hear men's thoughts.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNjE2NjIwOF5BMl5BanBnXkFtZTgwMjE0MzkxNzM@._V1_SX300.jpg",
+    "imdbId": "tt7634968",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3687,7 +4708,11 @@
     ]
   },
   {
-    "title": "What We Do In the Shadows",
+    "title": "What We Do In the Shadows (2014)",
+    "movieTitle": "What We Do in the Shadows",
+    "plot": "Viago, Deacon and Vladislav are vampires who are finding that modern life has them struggling with the mundane - like paying rent, keeping up with the chore wheel, trying to get into nightclubs and overcoming flatmate conflicts.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjAwNDA5NzEwM15BMl5BanBnXkFtZTgwMTA1MDUyNDE@._V1_SX300.jpg",
+    "imdbId": "tt3416742",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3704,7 +4729,11 @@
     ]
   },
   {
-    "title": "When Harry Met Sally",
+    "title": "When Harry Met Sally (1989)",
+    "movieTitle": "When Harry Met Sally...",
+    "plot": "Harry and Sally have known each other for years, and are very good friends, but they fear sex would ruin the friendship.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0ODEwNjM2NF5BMl5BanBnXkFtZTcwMjU2Mzg3NA@@._V1_SX300.jpg",
+    "imdbId": "tt0098635",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3721,7 +4750,11 @@
     ]
   },
   {
-    "title": "Where’s Poppa",
+    "title": "Where’s Poppa (1970)",
+    "movieTitle": "Where's Poppa?",
+    "plot": "When an attorney meets the girl of his dreams, he fears that his batty mother will scare her off, so he schemes to eliminate the senile old woman.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTdlODI5NDQtYTQyOC00ZGU1LTljZDktM2I5MWEwZDBiMjgzXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SX300.jpg",
+    "imdbId": "tt0066563",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3734,7 +4767,11 @@
     ]
   },
   {
-    "title": "Whip It",
+    "title": "Whip It (2009)",
+    "movieTitle": "Whip It",
+    "plot": "In Bodeen, Texas, an indie-rock loving misfit finds a way of dealing with small-town misery after discovering a roller derby league in nearby Austin.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDM1NzkzMjQ4NF5BMl5BanBnXkFtZTcwMDE3Nzk3Mg@@._V1_SX300.jpg",
+    "imdbId": "tt1172233",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3751,7 +4788,11 @@
     ]
   },
   {
-    "title": "Whiplash",
+    "title": "Whiplash (2014)",
+    "movieTitle": "Whiplash",
+    "plot": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+    "imdbId": "tt2582802",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3768,7 +4809,11 @@
     ]
   },
   {
-    "title": "Wild",
+    "title": "Wild (2014)",
+    "movieTitle": "Wild",
+    "plot": "A chronicle of one woman's one thousand one hundred mile solo hike undertaken as a way to recover from a recent personal tragedy.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMzZmYzYmUtNTJiYi00MjZjLTkyZmMtZGJhYWRlMDBkMDIyXkEyXkFqcGdeQXVyNjA5MDIyMzU@._V1_SX300.jpg",
+    "imdbId": "tt2305051",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3785,7 +4830,11 @@
     ]
   },
   {
-    "title": "Working Girl",
+    "title": "Working Girl (1988)",
+    "movieTitle": "Working Girl",
+    "plot": "When a secretary's idea is stolen by her boss, she seizes an opportunity to steal it back by pretending she has her boss' job.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDg4MGM3OTAtZjNlZC00NjE1LTk5YTAtMGE2YWUxMjRjZDA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+    "imdbId": "tt0096463",
     "ratings": [
       {
         "Source": "Internet Movie Database",
@@ -3802,7 +4851,11 @@
     ]
   },
   {
-    "title": "Work It",
+    "title": "Work It (2020)",
+    "movieTitle": "Work It",
+    "plot": "When Quinn Ackerman's admission to the college of her dreams depends on her performance at a dance competition, she forms a ragtag group of dancers to take on the best squad in school...now she just needs to learn how to dance.",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDk5NjVlOGQtMGQ1Zi00MjZlLWI0NGUtYTllMWNiODRlYmUzXkEyXkFqcGdeQXVyNjEwNTM2Mzc@._V1_SX300.jpg",
+    "imdbId": "tt10276470",
     "ratings": [
       {
         "Source": "Internet Movie Database",
