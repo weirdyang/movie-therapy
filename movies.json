@@ -4270,11 +4270,18 @@
    {
       "title":"The Return of Martin Guerre (1982)",
       "movieTitle":"The Return of Martin Guerre",
-      "plot":null,
+      "plot":"In medieval France, some villagers challenge a man's claim of identity when he (as he says) returns home from some time in the army.",
       "poster":null,
-      "imdbId":null,
+      "imdbId":"tt0084589",
       "ratings":[
-         
+         {
+            "Source":"Internet Movie Database",
+            "Value":"7.4/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"58%"
+         },
       ]
    },
    {
