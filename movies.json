@@ -677,13 +677,24 @@
       ]
    },
    {
-      "title":"Billy Elliott (2000)",
-      "movieTitle":"Billy Elliott",
-      "plot":null,
-      "poster":null,
-      "imdbId":null,
+      "title":"Billy Elliot (2000)",
+      "movieTitle":"Billy Elliot",
+      "plot":"A talented young boy becomes torn between his unexpected love of dance and the disintegration of his family.",
+      "poster":"https://m.media-amazon.com/images/M/MV5BNGY3NWYwNzctNWU5Yi00ZjljLTgyNDgtZjNhZjRlNjc0ZTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+      "imdbId":"tt0249462",
       "ratings":[
-         
+               {
+         "Source":"Internet Movie Database",
+         "Value":"7.7/10"
+      },
+      {
+         "Source":"Rotten Tomatoes",
+         "Value":"85%"
+      },
+      {
+         "Source":"Metacritic",
+         "Value":"74/100"
+      }
       ]
    },
    {
