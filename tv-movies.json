@@ -577,17 +577,17 @@
    },
    {
       "title":"Don’t Trust The B In Apartment 23 (2012 - 2013)",
-      "movieTitle":"Don't Trust The B In Apartment 23",
-      "plot":"Chloe is a New York party girl with the morals of a pirate. She causes trouble for her naive small town roommate, June, and Chloe's best friend, James Van Der Beek.",,
-      "poster":"https://m.media-amazon.com/images/M/MV5BNDkwMTY4MDIwM15BMl5BanBnXkFtZTcwODc4MDk2Nw@@._V1_SX300.jpg",
-      "imdbId":"tt1819509",
+      "movieTitle":"Don’t Trust The B In Apartment 23",
+      "plot":null,
+      "poster":null,
+      "imdbId":null,
       "ratings":[
-         {
-		"Source": "Internet Movie Database",
-		"Value": "7.3/10"
-	}
+         
       ],
-      "data":{"Title":"Don't Trust the B---- in Apartment 23","Year":"2012–2013","Rated":"TV-14","Released":"11 Apr 2012","Runtime":"22 min","Genre":"Comedy","Director":"N/A","Writer":"Nahnatchka Khan","Actors":"Krysten Ritter, Dreama Walker, Michael Blaiklock, Eric André","Plot":"Chloe is a New York party girl with the morals of a pirate. She causes trouble for her naive small town roommate, June, and Chloe's best friend, James Van Der Beek.","Language":"English","Country":"USA","Awards":"2 wins & 11 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BNDkwMTY4MDIwM15BMl5BanBnXkFtZTcwODc4MDk2Nw@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.3/10"}],"Metascore":"N/A","imdbRating":"7.3","imdbVotes":"34,993","imdbID":"tt1819509","Type":"series","totalSeasons":"2","Response":"True"}
+      "data":{
+         "Response":"False",
+         "Error":"Movie not found!"
+      }
    },
    {
       "title":"Fearless (2017)",
