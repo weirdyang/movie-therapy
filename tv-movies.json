@@ -2723,48 +2723,45 @@
    },
    {
       "title":"The Mary Tyler Moore Show (1970 - 1977)",
-      "movieTitle":"She Turned the World on with Her Smile: The Making of 'The Mary Tyler Moore Show'",
-      "plot":"A documentary about the making of the classic TV sitcom \"The Mary Tyler Moore Show,\" with scenes from of the more classic episodes, and interviews with members of the cast and crew.",
-      "poster":"N/A",
+      "movieTitle":"Mary Tyler Moore",
+      "plot":"The lives and trials of a young single woman and her friends, both at work and at home.",
+      "poster":"https://m.media-amazon.com/images/M/MV5BMTU3ODYzMzU5NF5BMl5BanBnXkFtZTcwOTk3MDkyMQ@@._V1_SX300.jpg",
       "imdbId":"tt0323946",
       "ratings":[
          {
             "Source":"Internet Movie Database",
-            "Value":"7.8/10"
+            "Value":"8.1/10"
          }
       ],
       "data":{
-         "Title":"She Turned the World on with Her Smile: The Making of 'The Mary Tyler Moore Show'",
-         "Year":"2002",
-         "Rated":"N/A",
-         "Released":"24 Sep 2002",
-         "Runtime":"88 min",
-         "Genre":"Comedy, Documentary",
-         "Director":"Matthew Asner, Danny Gold",
-         "Writer":"Matthew Asner, Danny Gold",
-         "Actors":"Edward Asner, Reza Badiyi, James L. Brooks, Allan Burns",
-         "Plot":"A documentary about the making of the classic TV sitcom \"The Mary Tyler Moore Show,\" with scenes from of the more classic episodes, and interviews with members of the cast and crew.",
-         "Language":"English",
-         "Country":"USA",
-         "Awards":"N/A",
-         "Poster":"N/A",
-         "Ratings":[
-            {
-               "Source":"Internet Movie Database",
-               "Value":"7.8/10"
-            }
-         ],
-         "Metascore":"N/A",
-         "imdbRating":"7.8",
-         "imdbVotes":"24",
-         "imdbID":"tt0323946",
-         "Type":"movie",
-         "DVD":"N/A",
-         "BoxOffice":"N/A",
-         "Production":"N/A",
-         "Website":"N/A",
-         "Response":"True"
+   "Title":"Mary Tyler Moore",
+   "Year":"1970–1977",
+   "Rated":"TV-PG",
+   "Released":"19 Sep 1970",
+   "Runtime":"30 min",
+   "Genre":"Comedy",
+   "Director":"N/A",
+   "Writer":"James L. Brooks, Allan Burns",
+   "Actors":"Mary Tyler Moore, Edward Asner, Gavin MacLeod",
+   "Plot":"The lives and trials of a young single woman and her friends, both at work and at home.",
+   "Language":"English",
+   "Country":"USA",
+   "Awards":"Won 29 Primetime Emmys. 42 wins & 82 nominations total",
+   "Poster":"https://m.media-amazon.com/images/M/MV5BMTU3ODYzMzU5NF5BMl5BanBnXkFtZTcwOTk3MDkyMQ@@._V1_SX300.jpg",
+   "Ratings":[
+      {
+         "Source":"Internet Movie Database",
+         "Value":"8.1/10"
       }
+   ],
+   "Metascore":"N/A",
+   "imdbRating":"8.1",
+   "imdbVotes":"7,234",
+   "imdbID":"tt0065314",
+   "Type":"series",
+   "totalSeasons":"7",
+   "Response":"True"
+}
    },
    {
       "title":"The Munsters (1964 - 1966)",
