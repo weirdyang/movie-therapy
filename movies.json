@@ -3475,11 +3475,18 @@
    {
       "title":"Shaolin Soccer (2001)",
       "movieTitle":"Shaolin Soccer",
-      "plot":null,
+      "plot":"A young Shaolin follower reunites with his discouraged brothers to form a soccer team using their martial art skills to their advantage.",
       "poster":null,
-      "imdbId":null,
+      "imdbId":"tt0286112",
       "ratings":[
-         
+         {
+            "Source":"Internet Movie Database",
+            "Value":"7.3/10"
+         },
+         {
+            "Source":"Rotten Tomatoes",
+            "Value":"90%"
+         }
       ]
    },
    {
