@@ -2152,12 +2152,23 @@
    },
    {
       "title":"Isn’t It Romantic (2019)",
-      "movieTitle":"Isn’t It Romantic",
-      "plot":null,
-      "poster":null,
-      "imdbId":null,
+      "movieTitle":"Isn't It Romantic",
+      "plot":"A young woman disenchanted with love mysteriously finds herself trapped inside a romantic comedy.",
+      "poster":"https://m.media-amazon.com/images/M/MV5BZGE1NGYxOWItODdmMy00NWNhLTgxZmMtYmVjYmViMGI0NTdmXkEyXkFqcGdeQXVyNzE2MTQyMzM@._V1_SX300.jpg",
+      "imdbId":"tt2452244",
       "ratings":[
-         
+               {
+         "Source":"Internet Movie Database",
+         "Value":"5.9/10"
+      },
+      {
+         "Source":"Rotten Tomatoes",
+         "Value":"70%"
+      },
+      {
+         "Source":"Metacritic",
+         "Value":"60/100"
+      }
       ]
    },
    {
@@ -2339,12 +2350,23 @@
    },
    {
       "title":"Ladybird (2017)",
-      "movieTitle":"Ladybird",
-      "plot":"Frankie is picked up from a hospital by his friend. By an unfortunate coincidence of circumstances he ends up in a threatening situation.",
-      "poster":"N/A",
-      "imdbId":"tt0905619",
+      "movieTitle":"Lady bird",
+      "plot":"In 2002, an artistically inclined seventeen-year-old girl comes of age in Sacramento, California.",
+      "poster":"https://m.media-amazon.com/images/M/MV5BODhkZGE0NDQtZDc0Zi00YmQ4LWJiNmUtYTY1OGM1ODRmNGVkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "imdbId":"tt4925292",
       "ratings":[
-         
+               {
+         "Source":"Internet Movie Database",
+         "Value":"7.4/10"
+      },
+      {
+         "Source":"Rotten Tomatoes",
+         "Value":"99%"
+      },
+      {
+         "Source":"Metacritic",
+         "Value":"94/100"
+      }
       ]
    },
    {
