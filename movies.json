@@ -1397,12 +1397,15 @@
    },
    {
       "title":"Embrace the Serpent (2015)",
-      "movieTitle":"Embrace the Serpent",
-      "plot":null,
+      "movieTitle":"Embrace of the Serpent ",
+      "plot":"The story of the relationship between Karamakate, an Amazonian shaman and last survivor of his people, and two scientists who work together over the course of forty years to search the Amazon for a sacred healing plant.",
       "poster":null,
       "imdbId":null,
       "ratings":[
-         
+         {
+            "Source":"Internet Movie Database",
+            "Value":"7.9/10"
+         }
       ]
    },
    {
