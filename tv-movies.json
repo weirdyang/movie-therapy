@@ -1243,46 +1243,43 @@
    },
    {
       "title":"Nailed It (2019 - present)",
-      "movieTitle":"Nailed It",
-      "plot":"\"Nailed It\" chronicles the genesis and legacy of the 40 year Vietnamese nail salon and its influence on an $8 billion-dollar American industry. For mixed-race Vietnamese filmmaker Adele ...",
-      "poster":"https://m.media-amazon.com/images/M/MV5BMGEzZjE3YjQtNjg4My00YWMyLWFlNmUtMjczMzljMTlmYTg1XkEyXkFqcGdeQXVyMjE5MTUwMjc@._V1_SX300.jpg",
-      "imdbId":"tt9042156",
+      "movieTitle":"Nailed It!",
+      "plot":"Home bakers with a terrible track record take a crack at re- creating edible masterpieces for a $10,000 prize. It's part reality contest",
+      "poster":"https://m.media-amazon.com/images/M/MV5BYzkxZDExM2UtYWEzNi00MjczLWJhZGMtODMyZWZhY2UwYTI3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
+      "imdbId":"tt6987788",
       "ratings":[
          {
             "Source":"Internet Movie Database",
-            "Value":"7.3/10"
+            "Value":"7.4/10"
          }
       ],
       "data":{
-         "Title":"Nailed It",
-         "Year":"2018",
-         "Rated":"Not Rated",
-         "Released":"26 Oct 2018",
-         "Runtime":"60 min",
-         "Genre":"Documentary",
-         "Director":"Adele Pham",
+         "Title":"Nailed It!",
+         "Year":"2018–",
+         "Rated":"TV-PG",
+         "Released":"09 Mar 2018",
+         "Runtime":"33 min",
+         "Genre":"Reality-TV",
+         "Director":"N/A",
          "Writer":"N/A",
-         "Actors":"N/A",
-         "Plot":"\"Nailed It\" chronicles the genesis and legacy of the 40 year Vietnamese nail salon and its influence on an $8 billion-dollar American industry. For mixed-race Vietnamese filmmaker Adele ...",
+         "Actors":"Nicole Byer, Jacques Torres, Weston Bahr, Charity George",
+         "Plot":"Home bakers with a terrible track record take a crack at re- creating edible masterpieces for a $10,000 prize. It's part reality contest, part hot mess.",
          "Language":"English",
          "Country":"USA",
-         "Awards":"N/A",
-         "Poster":"https://m.media-amazon.com/images/M/MV5BMGEzZjE3YjQtNjg4My00YWMyLWFlNmUtMjczMzljMTlmYTg1XkEyXkFqcGdeQXVyMjE5MTUwMjc@._V1_SX300.jpg",
+         "Awards":"Nominated for 3 Primetime Emmys. Another 14 nominations.",
+         "Poster":"https://m.media-amazon.com/images/M/MV5BYzkxZDExM2UtYWEzNi00MjczLWJhZGMtODMyZWZhY2UwYTI3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg",
          "Ratings":[
             {
                "Source":"Internet Movie Database",
-               "Value":"7.3/10"
+               "Value":"7.4/10"
             }
          ],
          "Metascore":"N/A",
-         "imdbRating":"7.3",
-         "imdbVotes":"9",
-         "imdbID":"tt9042156",
-         "Type":"movie",
-         "DVD":"N/A",
-         "BoxOffice":"N/A",
-         "Production":"N/A",
-         "Website":"N/A",
+         "imdbRating":"7.4",
+         "imdbVotes":"4,031",
+         "imdbID":"tt6987788",
+         "Type":"series",
+         "totalSeasons":"5",
          "Response":"True"
       }
    },
